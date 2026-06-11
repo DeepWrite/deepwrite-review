@@ -19,9 +19,6 @@ collections:
   articles:
     output: true
     permalink: /:path/
-  historical_issues:
-    output: true
-    permalink: /historical/:name/
 
 defaults:
   - scope:
@@ -29,11 +26,6 @@ defaults:
       type: articles
     values:
       layout: article
-  - scope:
-      path: ""
-      type: historical_issues
-    values:
-      layout: historical_issue
   - scope:
       path: ""
     values:

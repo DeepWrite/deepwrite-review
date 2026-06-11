@@ -3,8 +3,6 @@ primary:
     url: /current/
   - title: Archive
     url: /archive/
-  - title: Historical Issues
-    url: /historical/
   - title: About
     url: /about/
   - title: Editorial Policy

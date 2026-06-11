@@ -95,26 +95,6 @@ Each article has stable `slug`, `language`, `translation_of`, and `counterpart_u
 
 `.github/workflows/quarterly_issue_scaffold.yml` creates a new `/issues/YYYY-QN` folder with agenda, decision log, evidence log, reports, and candidate topic placeholders. It opens a review pull request and does not draft articles until the Chief Editor approves the agenda, table of contents, article list, thesis, and dossiers.
 
-## Historical Back-Issue Program
-
-Historical legal philosophy and legal theory issues live under `/historical/YYYY` at five-year intervals from 1975 through 2025, with later intervals added as appropriate. These are not ordinary retrospective essays. They reconstruct the field around a target year while keeping time-situated analysis, retrospective notes, and archival uncertainty separate.
-
-Create or refresh the full backlog:
-
-```bash
-python3 pipelines/historical_backlog_plan.py
-```
-
-Create a single historical scaffold:
-
-```bash
-python3 pipelines/historical_back_issue.py --target-year 2025 --depth standard
-```
-
-Historical work uses these access levels: `bibliographic_metadata_only`, `abstract_or_review_only`, `table_of_contents_only`, `open_access_full_text`, `chief_editor_supplied_full_text`, `library_access_required`, and `unavailable`. Do not pretend to have read a source when only metadata, abstracts, tables of contents, or reviews are available.
-
-The manual workflow `.github/workflows/historical_back_issue.yml` creates a Chief Editor source-review pull request for one target year and stops before drafting. `.github/workflows/historical_backlog_plan.yml` updates `/historical/backlog.md`, `/historical/canonical_timeline.md`, and `/historical/progress_matrix.csv`.
-
 ## Approving Or Rejecting Topics
 
 Edit `/issues/YYYY-QN/chief_editor_decisions.md` and mark each decision explicitly:

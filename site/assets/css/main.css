@@ -599,131 +599,6 @@ img {
   font-weight: 700;
 }
 
-.historical-list {
-  display: grid;
-  gap: 16px;
-  margin: 28px 0 36px;
-}
-
-.historical-list-item {
-  background: var(--paper);
-  border-top: 3px solid var(--ink);
-}
-
-.historical-list-item a {
-  display: block;
-  padding: 20px;
-  text-decoration: none;
-}
-
-.historical-list-item span {
-  color: var(--accent);
-  font-size: 12px;
-  font-weight: 800;
-  text-transform: uppercase;
-}
-
-.historical-list-item h2 {
-  margin: 8px 0 8px;
-  font-family: var(--serif);
-  font-size: 30px;
-  line-height: 1.1;
-}
-
-.historical-list-item p {
-  margin: 0;
-  color: var(--muted);
-  line-height: 1.5;
-}
-
-.historical-meta {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1px;
-  margin: 0 0 28px;
-  background: var(--ink);
-  border: 1px solid var(--ink);
-}
-
-.historical-meta div {
-  min-width: 0;
-  padding: 16px;
-  background: var(--paper);
-}
-
-.historical-meta dt {
-  color: var(--accent);
-  font-size: 12px;
-  font-weight: 800;
-  text-transform: uppercase;
-}
-
-.historical-meta dd {
-  margin: 6px 0 0;
-  overflow-wrap: anywhere;
-  font-family: var(--serif);
-  font-size: 18px;
-}
-
-.historical-resource-nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin-bottom: 32px;
-}
-
-.historical-resource-nav a {
-  min-height: 40px;
-  padding: 9px 13px;
-  border: 1px solid var(--ink);
-  border-radius: 4px;
-  font-size: 13px;
-  font-weight: 700;
-  text-decoration: none;
-}
-
-.historical-notice,
-.language-panels,
-.historical-resources {
-  margin: 28px 0;
-  padding-top: 18px;
-  border-top: 1px solid var(--rule);
-}
-
-.language-panels,
-.historical-resources {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 18px;
-}
-
-.language-panels div,
-.historical-resources div {
-  padding: 18px;
-  background: var(--paper);
-  border-left: 3px solid var(--accent);
-}
-
-.historical-notice h2,
-.language-panels h2,
-.historical-resources h2 {
-  margin: 0 0 10px;
-  font-family: var(--serif);
-  font-size: 25px;
-}
-
-.historical-notice p,
-.language-panels p,
-.historical-resources p {
-  margin: 0 0 10px;
-  color: #30343a;
-  line-height: 1.55;
-}
-
-.historical-back-link {
-  margin-top: 32px;
-}
-
 .site-footer {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
@@ -772,10 +647,7 @@ img {
   }
 
   .article-grid,
-  .policy-strip,
-  .historical-meta,
-  .language-panels,
-  .historical-resources {
+  .policy-strip {
     grid-template-columns: 1fr;
   }
 }

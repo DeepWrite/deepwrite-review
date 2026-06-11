@@ -11,7 +11,6 @@ permalink: /
     <p class="hero-subtitle">A bilingual quarterly review of politics, economy, society, technology, law, education, and culture.</p>
     <div class="hero-actions">
       <a class="button primary" href="{{ '/current/' | relative_url }}">Current Issue</a>
-      <a class="button secondary" href="{{ '/historical/' | relative_url }}">Historical Issues</a>
       <a class="button secondary" href="{{ '/editorial-policy/' | relative_url }}">Editorial Policy</a>
     </div>
   </div>
@@ -76,17 +75,6 @@ permalink: /
       <p>2026-Q2 production has begun. No article will appear here until it passes citation, evidence, translation, and Chief Editor approval gates.</p>
     </div>
   {% endif %}
-</section>
-
-<section class="issue-preview">
-  <div class="section-heading">
-    <h2>Historical Issues</h2>
-    <a href="{{ '/historical/' | relative_url }}">Back-Issue Program</a>
-  </div>
-  <div class="empty-publication">
-    <h3>Retrospective issues are source-gated.</h3>
-    <p>Historical issues at five-year intervals reconstruct legal philosophy and legal theory from within each target year, with retrospective notes and archival uncertainty kept separate.</p>
-  </div>
 </section>
 
 <section class="policy-strip">

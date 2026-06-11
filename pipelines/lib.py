@@ -15,7 +15,6 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "config"
 ISSUES = ROOT / "issues"
-HISTORICAL = ROOT / "historical"
 RADAR = ROOT / "radar"
 TEMPLATES = ROOT / "templates"
 SITE = ROOT / "site"
