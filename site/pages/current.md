@@ -1,12 +1,12 @@
 ---
 title: "Current Issue"
-subtitle: "2026-Q2 temporary publication"
+subtitle: "2026-Q2 temporary full-issue publication"
 permalink: /current/
 ---
 
-The 2026-Q2 issue has entered temporary publication. Two bilingual article pairs are public while the rest of the issue remains in draft, review, or commissioning.
+The 2026-Q2 issue is temporarily published in full: 13 English-Korean article pairs are public under Chief Editor approval.
 
-The editorial mix remains roughly 70 percent global or transnational coverage and 30 percent Republic of Korea coverage.
+The issue remains open to later source strengthening, Korean style editing, and complete quarterly packaging.
 
 {% assign published_articles = site.articles | where: "status", "published" | where: "chief_editor_status", "approved_for_publication" %}
 
@@ -20,5 +20,5 @@ The editorial mix remains roughly 70 percent global or transnational coverage an
 {% endfor %}
 </div>
 {% else %}
-No article is public yet. Drafts remain under `/issues/2026-Q2/` until the Chief Editor approves publication.
+No article is public yet.
 {% endif %}

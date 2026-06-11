@@ -108,8 +108,26 @@ Silence is not approval. Record explicit decisions below.
 | ai-boom-war-economy | approve | Approved as final Korean version for temporary publication. | 2026-06-11 |
 | new-macro-fragility | approve | Approved as final Korean version for temporary publication. | 2026-06-11 |
 
+## Temporary Full-Issue Publication Approval
+
+| Slug | Decision | Notes | Date |
+| --- | --- | --- | --- |
+| ai-boom-war-economy | approve | Approved for temporary publication in English and Korean. | 2026-06-11 |
+| new-macro-fragility | approve | Approved for temporary publication in English and Korean. | 2026-06-11 |
+| editors-note-capacity-question | approve | Approved for temporary publication in English and Korean. | 2026-06-11 |
+| govern-ai-before-infrastructure | approve | Approved for temporary publication in English and Korean. | 2026-06-11 |
+| democracy-after-long-decline | approve | Approved for temporary publication in English and Korean. | 2026-06-11 |
+| displacement-without-settlement | approve | Approved for temporary publication in English and Korean. | 2026-06-11 |
+| korea-mandate-problem-local-elections | approve | Approved for temporary publication in English and Korean. | 2026-06-11 |
+| korea-semiconductor-recovery-welfare-state | approve | Approved for temporary publication in English and Korean. | 2026-06-11 |
+| korea-fertility-housing-pronatalism | approve | Approved for temporary publication in English and Korean. | 2026-06-11 |
+| korea-constitutional-court-quiet-institutionalism | approve | Approved for temporary publication in English and Korean. | 2026-06-11 |
+| universities-after-generative-ai | approve | Approved for temporary publication in English and Korean. | 2026-06-11 |
+| culture-of-ai-fatalism | approve | Approved for temporary publication in English and Korean. | 2026-06-11 |
+| structural-reading-list | approve | Approved for temporary publication in English and Korean. | 2026-06-11 |
+
 ## Final Publication Approval
 
-- Decision: partial_approve
-- Notes: Chief Editor approved temporary GitHub Pages publication of two bilingual article pairs only: `ai-boom-war-economy` and `new-macro-fragility`. The remaining 11 commissioned pieces remain unpublished drafts or scaffolds.
+- Decision: temporary_full_issue_approve
+- Notes: Chief Editor directed remaining manuscripts to be completed and all 13 bilingual article pairs to be temporarily published. This is a temporary publication state; later complete-issue revision remains open.
 - Date: 2026-06-11

@@ -3,19 +3,12 @@ issue: "2026-Q2"
 language: ko
 title: "DeepWrite Review 2026 Q2"
 theme: "Governing The Acceleration: War, AI, Democracy, And The Limits Of Institutional Capacity"
-chief_editor_status: partial_approved_for_publication
+chief_editor_status: temporary_full_issue_approved
 status: temporary_publication
 ---
 
 # DeepWrite Review 2026 Q2
 
-2026-Q2 생산을 시작했습니다. 편집 방향은 세계적/초국가적 이슈 약 70퍼센트, 대한민국 이슈 약 30퍼센트입니다.
+13개 이중언어 article pair 전체가 Chief Editor 승인에 따라 임시 발행되었습니다.
 
-두 개의 이중언어 article pair가 임시 발행 승인되었습니다.
-
-- `ai-boom-war-economy`
-- `new-macro-fragility`
-
-## 목차
-
-승인된 위촉 글 목록은 `agenda.md`와 `commissioned_articles.yml`를 참조하십시오. 나머지 11개 글은 아직 초안 작성, 검토, 번역, 발행 승인이 필요합니다.
+이 호는 이후 전체 호 단위 개정, 출처 보강, 한국어 문체 편집, 최종 계간 패키징을 위해 열려 있습니다.
