@@ -1,0 +1,47 @@
+title: "DeepWrite Review"
+description: "A bilingual quarterly review of politics, economy, society, technology, law, education, and culture"
+url: "https://deepwrite.github.io"
+baseurl: "/deepwrite-review"
+timezone: "Asia/Seoul"
+lang: "en"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  footnote_backlink: "&#8617;"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  articles:
+    output: true
+    permalink: /:path/
+  historical_issues:
+    output: true
+    permalink: /historical/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: article
+  - scope:
+      path: ""
+      type: historical_issues
+    values:
+      layout: historical_issue
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

@@ -1,0 +1,22 @@
+timezone: "Asia/Seoul"
+weekly_editorial_brief:
+  cadence: weekly
+  day: Monday
+  local_time: "09:00"
+  output: "radar/weekly/YYYY-WW-editorial-brief.md"
+monthly_topic_map:
+  cadence: monthly
+  day: 1
+  local_time: "09:00"
+  output: "radar/monthly/YYYY-MM-topic-map.md"
+quarterly_issue_scaffold:
+  cadence: quarterly
+  months: [1, 4, 7, 10]
+  day: 1
+  local_time: "09:00"
+  output: "issues/YYYY-QN/"
+publication:
+  deploy_branch: main
+  publish_only_after_merge: true
+  require_chief_editor_approval: true
+

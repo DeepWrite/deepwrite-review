@@ -1,0 +1,44 @@
+issue: "YYYY-QN"
+theme:
+  status: proposed
+  title: "TODO: Chief Editor approval required"
+  rationale: "TODO"
+required_balance:
+  minimum_domains: 6
+  domains:
+    - political institutions
+    - political economy
+    - law and rights
+    - technology and AI
+    - education and knowledge
+    - social trust and class
+    - welfare and inequality
+    - culture and media
+    - international relations
+    - climate and state capacity
+    - demography and family
+    - public health
+    - migration and citizenship
+table_of_contents:
+  status: proposed
+  required_slots:
+    - "editor's note"
+    - "leader essay"
+    - "three to five longform essays"
+    - "data essay"
+    - "law or institutional analysis"
+    - "technology or education essay"
+    - "culture essay"
+    - "debate essay"
+    - "review essay"
+    - "annotated bibliography"
+approval_checkpoints:
+  - quarterly_theme
+  - final_table_of_contents
+  - commissioned_article_list
+  - article_central_thesis
+  - source_dossier
+  - final_english_version
+  - final_korean_version
+  - publication_merge
+

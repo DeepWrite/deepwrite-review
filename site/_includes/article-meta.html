@@ -1,0 +1,10 @@
+{% assign word_count = page.content | number_of_words %}
+{% assign reading_time = word_count | divided_by: 225 | plus: 1 %}
+<div class="article-meta">
+  <span>{{ page.issue }}</span>
+  <span>{{ page.date | date: "%B %-d, %Y" }}</span>
+  <span>{{ reading_time }} min read</span>
+  <span>Evidence: {{ page.evidence_level | default: "unassigned" }}</span>
+  <span>Citations: {{ page.citation_status | default: "unchecked" }}</span>
+</div>
+

@@ -1,0 +1,22 @@
+primary:
+  - title: Current Issue
+    url: /current/
+  - title: Archive
+    url: /archive/
+  - title: Historical Issues
+    url: /historical/
+  - title: About
+    url: /about/
+  - title: Editorial Policy
+    url: /editorial-policy/
+  - title: Source Policy
+    url: /source-policy/
+  - title: Evidence
+    url: /evidence-policy/
+  - title: Authorship
+    url: /authorship-policy/
+secondary:
+  - title: English
+    url: /en/
+  - title: 한국어
+    url: /ko/

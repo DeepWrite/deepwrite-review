@@ -1,0 +1,135 @@
+source_hierarchy:
+  tier_1:
+    label: "Primary and authoritative evidence"
+    uses:
+      - "Facts, law, statistics, datasets, institutional records, peer-reviewed findings"
+    examples:
+      - official statistics
+      - court decisions
+      - legislation
+      - government reports
+      - international organizations
+      - peer-reviewed academic literature
+      - established datasets
+  tier_2:
+    label: "High-quality institutional and journalistic evidence"
+    uses:
+      - "Context, debate, policy interpretation, independently reported developments"
+    examples:
+      - university research centers
+      - major polling organizations
+      - transparent think tank reports
+      - major newspapers and magazines with strong editorial standards
+  tier_3:
+    label: "Expert commentary and situated interpretation"
+    uses:
+      - "Argument mapping, expert interpretation, discourse evidence"
+    examples:
+      - expert commentary
+      - interviews
+      - newsletters
+      - opinion essays
+  tier_4:
+    label: "Discourse-only material"
+    uses:
+      - "Evidence of discourse, attention, rhetoric, or mobilization only"
+    examples:
+      - social media
+      - partisan blogs
+      - viral posts
+      - unsourced claims
+    prohibition: "Do not use Tier 4 sources as evidence of factual truth; use them only as evidence of discourse."
+seed_sources:
+  official_statistics:
+    - name: "OECD Data"
+      url: "https://data.oecd.org/"
+      tier: 1
+    - name: "World Bank Data"
+      url: "https://data.worldbank.org/"
+      tier: 1
+    - name: "Statistics Korea"
+      url: "https://kostat.go.kr/"
+      tier: 1
+    - name: "U.S. Bureau of Labor Statistics"
+      url: "https://www.bls.gov/"
+      tier: 1
+  law_institutions:
+    - name: "U.S. Supreme Court Opinions"
+      url: "https://www.supremecourt.gov/opinions/opinions.aspx"
+      tier: 1
+    - name: "Korea Legislation Research Institute"
+      url: "https://elaw.klri.re.kr/"
+      tier: 1
+  international_organizations:
+    - name: "IMF Publications"
+      url: "https://www.imf.org/en/Publications"
+      tier: 1
+    - name: "UN Data"
+      url: "https://data.un.org/"
+      tier: 1
+  academic_search:
+    - name: "Google Scholar"
+      url: "https://scholar.google.com/"
+      tier: 1
+    - name: "Semantic Scholar"
+      url: "https://www.semanticscholar.org/"
+      tier: 1
+  journalism_and_magazines:
+    - name: "The Economist"
+      url: "https://www.economist.com/"
+      tier: 2
+    - name: "The Atlantic"
+      url: "https://www.theatlantic.com/"
+      tier: 2
+    - name: "Foreign Affairs"
+      url: "https://www.foreignaffairs.com/"
+      tier: 2
+    - name: "The New Yorker"
+      url: "https://www.newyorker.com/"
+      tier: 2
+    - name: "Prospect"
+      url: "https://www.prospectmagazine.co.uk/"
+      tier: 2
+    - name: "New Statesman"
+      url: "https://www.newstatesman.com/"
+      tier: 2
+korea_raw_sources:
+  official_statistics:
+    - name: "Ministry of Data and Statistics / Statistics Korea"
+      url: "https://kostat.go.kr/"
+      tier: 1
+      use: "Korean population, labor, household, price, social, and demographic data."
+    - name: "Korean Statistical Information Service"
+      url: "https://kosis.kr/"
+      tier: 1
+      use: "Raw statistical tables and time series."
+  economy_finance:
+    - name: "Bank of Korea"
+      url: "https://www.bok.or.kr/eng/main/main.do"
+      tier: 1
+      use: "Monetary policy, national accounts, balance of payments, financial stability, economic outlook."
+    - name: "Ministry of Economy and Finance"
+      url: "https://english.moef.go.kr/main.do"
+      tier: 1
+      use: "Fiscal policy, economic bulletins, budget documents, policy announcements."
+  law_institutions:
+    - name: "Constitutional Court of Korea"
+      url: "https://english.ccourt.go.kr/"
+      tier: 1
+      use: "Constitutional decisions, summaries, and institutional materials."
+    - name: "National Assembly of the Republic of Korea"
+      url: "https://www.assembly.go.kr/"
+      tier: 1
+      use: "Bills, proceedings, committee records, legislative status."
+    - name: "Korea Law Translation Center"
+      url: "https://elaw.klri.re.kr/"
+      tier: 1
+      use: "Translated statutes and legal materials; verify against Korean authoritative text where needed."
+  elections:
+    - name: "National Election Commission"
+      url: "https://www.nec.go.kr/"
+      tier: 1
+      use: "Election calendars, turnout, candidate, and official result data."
+korean_commentary_rule:
+  allowed_use: "Evidence of discourse, agenda-setting, media attention, controversy, or elite framing."
+  prohibited_use: "Raw evidence for factual, statistical, legal, institutional, or causal claims."

@@ -1,0 +1,42 @@
+name: Weekly Editorial Brief
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Run radar scan
+        run: python pipelines/radar_scan.py --cadence daily
+
+      - name: Create weekly editorial brief
+        run: python pipelines/editorial_brief.py
+
+      - name: Open or update review pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: editorial/weekly-brief
+          commit-message: "Create weekly editorial brief"
+          title: "Editorial Brief: weekly review"
+          body: |
+            Automated weekly editorial brief for Chief Editor review.
+
+            This workflow does not publish content.
+          labels: editorial-brief
+

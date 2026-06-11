@@ -1,0 +1,117 @@
+issue: "2026-Q2"
+approved_by: "Jeyoun Son (손제연)"
+approval_date: "2026-06-11"
+status: approved_for_draft
+theme: "Governing The Acceleration: War, AI, Democracy, And The Limits Of Institutional Capacity"
+regional_mix:
+  target_global_or_transnational: 0.70
+  target_republic_of_korea: 0.30
+  approved_lineup_count:
+    global_or_comparative: 9
+    republic_of_korea: 4
+approval_scope:
+  approved:
+    - working_theme
+    - issue_shape
+    - commissioned_article_list
+    - source_dossier_opening
+    - article_theses_for_drafting
+    - source_dossiers_for_drafting
+    - english_draft_writing
+  not_yet_approved:
+    - translations
+    - final_english_versions
+    - final_korean_versions
+    - publication
+articles:
+  - slot: 1
+    slug: editors-note-capacity-question
+    title: "The Quarter When Capacity Became The Question"
+    scope: comparative
+    article_type: "editor's note"
+    dossier_status: approved_for_draft
+    thesis_status: approved_for_draft
+  - slot: 2
+    slug: ai-boom-war-economy
+    title: "The AI Boom Meets The War Economy"
+    scope: global
+    article_type: leader essay
+    dossier_status: approved_for_draft
+    thesis_status: approved_for_draft
+  - slot: 3
+    slug: new-macro-fragility
+    title: "The New Macro Fragility: Energy, Trade, Inflation, And The End Of Easy Resilience"
+    scope: global
+    article_type: longform essay
+    dossier_status: approved_for_draft
+    thesis_status: approved_for_draft
+  - slot: 4
+    slug: govern-ai-before-infrastructure
+    title: "Can The World Govern AI Before It Becomes Infrastructure?"
+    scope: global
+    article_type: "technology and society essay"
+    dossier_status: approved_for_draft
+    thesis_status: approved_for_draft
+  - slot: 5
+    slug: democracy-after-long-decline
+    title: "Democracy After The Long Decline"
+    scope: global
+    article_type: institutional analysis
+    dossier_status: approved_for_draft
+    thesis_status: approved_for_draft
+  - slot: 6
+    slug: displacement-without-settlement
+    title: "Displacement Without Settlement"
+    scope: global
+    article_type: data essay
+    dossier_status: approved_for_draft
+    thesis_status: approved_for_draft
+  - slot: 7
+    slug: korea-mandate-problem-local-elections
+    title: "Korea's Mandate Problem After The Local Elections"
+    scope: korea
+    article_type: political institutions essay
+    dossier_status: approved_for_draft
+    thesis_status: approved_for_draft
+  - slot: 8
+    slug: korea-semiconductor-recovery-welfare-state
+    title: "Korea's Semiconductor Recovery And The Welfare State It Cannot Avoid"
+    scope: korea
+    article_type: political economy essay
+    dossier_status: approved_for_draft
+    thesis_status: approved_for_draft
+  - slot: 9
+    slug: korea-fertility-housing-pronatalism
+    title: "Fertility, Housing, And The Limits Of Pronatalism In Korea"
+    scope: korea
+    article_type: longform essay
+    dossier_status: approved_for_draft
+    thesis_status: approved_for_draft
+  - slot: 10
+    slug: korea-constitutional-court-quiet-institutionalism
+    title: "Assembly, Counsel, And The Constitutional Court's Quiet Institutionalism"
+    scope: korea
+    article_type: law and institutions essay
+    dossier_status: approved_for_draft
+    thesis_status: approved_for_draft
+  - slot: 11
+    slug: universities-after-generative-ai
+    title: "Universities After Generative AI"
+    scope: global
+    article_type: education essay
+    dossier_status: approved_for_draft
+    thesis_status: approved_for_draft
+  - slot: 12
+    slug: culture-of-ai-fatalism
+    title: "Attention, Anxiety, And The Culture Of AI Fatalism"
+    scope: global
+    article_type: culture essay
+    dossier_status: approved_for_draft
+    thesis_status: approved_for_draft
+  - slot: 13
+    slug: structural-reading-list
+    title: "What To Read On AI, Democracy, Energy, And Korea's Institutional Moment"
+    scope: comparative
+    article_type: annotated bibliography
+    dossier_status: approved_for_draft
+    thesis_status: approved_for_draft

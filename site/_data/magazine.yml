@@ -1,0 +1,14 @@
+title: "DeepWrite Review"
+subtitle: "A bilingual quarterly review of politics, economy, society, technology, law, education, and culture"
+chief_editor: "Jeyoun Son"
+chief_editor_ko: "손제연"
+cadence: quarterly
+primary_language: English
+secondary_language: Korean
+bilingual_mode: parallel
+publication_model: human_approved
+current_issue: "2026-Q2"
+default_author_en: "DeepWrite Review Editorial Desk"
+default_author_ko: "DeepWrite Review 편집실"
+ai_credit_en: "Prepared with Codex editorial agents."
+ai_credit_ko: "Codex 편집 에이전트의 도움을 받아 작성되었습니다."

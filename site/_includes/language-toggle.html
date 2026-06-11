@@ -1,0 +1,6 @@
+{% if page.counterpart_url %}
+  <a class="language-toggle" href="{{ page.counterpart_url | relative_url }}">
+    {% if page.language == "ko" %}English{% else %}한국어{% endif %}
+  </a>
+{% endif %}
+

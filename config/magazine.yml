@@ -1,0 +1,104 @@
+title: "DeepWrite Review"
+subtitle: "A bilingual quarterly review of politics, economy, society, technology, law, education, and culture"
+chief_editor: "Jeyoun Son"
+chief_editor_ko: "손제연"
+cadence: quarterly
+optional_special_issues: monthly
+primary_language: English
+secondary_language: Korean
+bilingual_mode: parallel
+publication_model: human_approved
+editorial_mix:
+  default_global_share: 0.70
+  default_korea_share: 0.30
+  q2_2026_instruction: "Prioritize world-scale structural issues at roughly 70 percent while reserving roughly 30 percent for Republic of Korea issues."
+  style_rule: "Use Anglophone intellectual magazine tools and prose style even when analyzing Korean source material."
+authorship_model:
+  default_author_en: "DeepWrite Review Editorial Desk"
+  default_author_ko: "DeepWrite Review 편집실"
+  ai_credit_en: "Prepared with Codex editorial agents under human editorial direction."
+  ai_credit_ko: "Codex 편집 에이전트의 도움을 받아 작성되었습니다."
+  responsibility_en: "Reviewed and approved for publication by Jeyoun Son (손제연)."
+  responsibility_ko: "손제연 책임편집자의 검토와 발행 승인을 거칩니다."
+  prohibition:
+    - "Do not use fictional personal bylines."
+    - "Do not use real public figures as placeholder authors."
+    - "Do not obscure Codex-assisted drafting, review, or translation."
+site:
+  platform: GitHub Pages
+  generator: Jekyll
+  base_url: "https://deepwrite.github.io/deepwrite-review/"
+  custom_domain: optional
+issue_format:
+  quarterly_target_words_en: 50000
+  quarterly_target_words_ko: 50000
+  monthly_special_target_words_en: 20000
+  monthly_special_target_words_ko: 20000
+article_types:
+  - "editor's note"
+  - "leader essay"
+  - "longform essay"
+  - "data essay"
+  - "institutional analysis"
+  - "political economy essay"
+  - "technology and society essay"
+  - "education essay"
+  - "law and institutions essay"
+  - "culture essay"
+  - "debate essay"
+  - "review essay"
+  - "annotated bibliography"
+domains:
+  - political institutions
+  - political economy
+  - law and rights
+  - technology and AI
+  - education and knowledge
+  - social trust and class
+  - welfare and inequality
+  - culture and media
+  - international relations
+  - climate and state capacity
+  - demography and family
+  - public health
+  - migration and citizenship
+approval_sequence:
+  - proposed
+  - commissioned
+  - approved_for_draft
+  - approved_for_review
+  - approved_for_translation
+  - approved_for_publication
+publish_requirements:
+  chief_editor_status: approved_for_publication
+  status: published
+  citation_status: checked
+  evidence_level_required: true
+  translation_status_if_applicable: checked
+korea_source_rule:
+  raw_sources:
+    - official statistics
+    - legislation
+    - court and constitutional court decisions
+    - National Assembly records
+    - government reports and policy documents
+    - central bank publications
+    - regulatory filings
+    - public datasets
+    - election commission data
+    - official speeches and transcripts
+    - institutional press releases for event chronology
+  commentary_rule: "Korean-language columns, opinion essays, critical essays, and already-interpreted articles may be used only as evidence of discourse, agenda-setting, or media attention, not as raw evidence for the magazine's own analytical claims."
+general_issue_themes:
+  - "After AI: Work, Education, Democracy, Inequality, and the New Social Contract"
+  - "The future of democratic institutions under technological acceleration"
+  - "The crisis of education after generative AI"
+  - "Work, welfare, and dignity in an automated economy"
+  - "Housing, family, fertility, and intergenerational justice"
+  - "Public trust, expertise, and institutional failure"
+  - "Climate adaptation and state capacity"
+  - "Migration, citizenship, and social membership"
+  - "War, security, and the return of industrial policy"
+  - "Platform society, attention, and mental autonomy"
+  - "Universities, merit, and the changing meaning of knowledge"
+  - "East Asia between technology, demography, and security"

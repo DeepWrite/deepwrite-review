@@ -1,0 +1,12 @@
+<header class="site-header">
+  <a class="masthead" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} home">
+    <span class="masthead-title">DeepWrite Review</span>
+    <span class="masthead-subtitle">English / 한국어</span>
+  </a>
+  <nav class="site-nav" aria-label="Primary navigation">
+    {% for item in site.data.navigation.primary %}
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    {% endfor %}
+  </nav>
+</header>
+
