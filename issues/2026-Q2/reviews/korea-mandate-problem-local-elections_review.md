@@ -1,32 +1,38 @@
 ---
 issue: "2026-Q2"
 slug: "korea-mandate-problem-local-elections"
-date: "2026-06-11"
-status: substantive_editorial_pass_checked
+date: "2026-06-12"
+status: independent_rewrite_checked
 chief_editor_status: approved_for_publication
+assigned_agent: "Political Editor with Korea Source Researcher"
 ---
 
 # Editorial Review: Korea's Mandate Problem After The Local Elections
 
-## Argument Reconstruction
+## Independent Agent Check
 
-- One-sentence thesis: Korea's 2026 local elections should be read neither as a purely local exercise nor as a simple national referendum. Mandate claims must specify office, geography, turnout, vote share, policy competence, and timing.
-- Major premise: A serious quarterly article should distinguish fact, interpretation, hypothesis, normative judgment, and speculation.
-- Minor premise: This article uses official or institutional sources for factual claims and reconstructs the best opposing view before judgment.
-- Conclusion: The article is acceptable for temporary publication as a substantive draft, not as final permanent approval.
+The June 12 rewrite assigns the article to the Political Editor with Korea Source Researcher and removes the previous compact-body structure. The public text now uses article-specific sections, evidence, cases, and argument flow instead of a common 20-heading scaffold.
+
+## Relocated Development Notes
+
+The following items are retained as review or dossier tasks, not public-article prose:
+
+- When NEC data are available, build tables for turnout, vote share, margin, office type, party control before and after, and invalid votes.
+- Separate Seoul mayoral interpretation from national local-government control.
+- Use Korean editorials only as evidence of discourse, not as raw evidence of voter motives.
 
 ## Fact Check
 
-Source links were verified or rechecked during the June 11, 2026 substantive pass. Factual claims are limited to the listed institutional, official, or high-quality wire sources.
+The article links factual claims to the raw source base listed in its dossier. Claims that require fuller tables, Korean full legal texts, or official post-election datasets are marked as provisional or deferred.
 
 ## Statistics Check
 
-Final claims require NEC tables; AP is chronology.
+Treat AP as provisional high-quality journalism and NEC/public-data sources as the raw-data path. Do not infer voter motives without survey or district-level evidence.
 
 ## Dissent Editor
 
-The article includes or requires a strong opposing view. The opposition is treated as a real analytical challenge, not as decoration.
+The article includes a Best Opposing View section that states the strongest good-faith objection before the author's argument proceeds.
 
 ## Style Editor
 
-The article was revised away from outline form into a magazine-style analytical draft with opening issue, evidence, competing interpretation, argument, implications, and uncertainty note.
+The article was revised away from dossier language and repeated process phrases. Remaining limitations are handled in Evidence Strength and Uncertainty Note sections.

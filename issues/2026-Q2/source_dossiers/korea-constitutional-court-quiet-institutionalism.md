@@ -1,44 +1,43 @@
 ---
 issue: "2026-Q2"
 slug: "korea-constitutional-court-quiet-institutionalism"
-title: "The Constitutional Court's Quiet Institutionalism"
-article_type: "law and institutions essay"
-regional_scope: korea
-status: substantive_editorial_pass
+title: "Korea's Constitutional Court And Quiet Institutionalism"
+status: independent_rewrite_dossier
 chief_editor_status: approved_for_publication
-updated: "2026-06-11"
+updated: "2026-06-12"
+assigned_agent: "Law and Institutions Editor"
 ---
 
-# Source Dossier: The Constitutional Court's Quiet Institutionalism
+# Source Dossier: Korea's Constitutional Court And Quiet Institutionalism
 
-## Reporting Assignment
+## Independent Reporting Assignment
 
-Produce a serious magazine article, not a topic card. The article must start from a live structural issue, preserve competing interpretations, and avoid claims stronger than the source base allows.
+This article is assigned to the Law and Institutions Editor. It must proceed as a magazine article, not a compact briefing skeleton. The public article should carry argument, evidence, cases, and prose; development notes belong here or in review files.
 
 ## Central Thesis
 
-Korea's Constitutional Court matters not only in dramatic crisis but in the quiet work of thresholds, procedure, proportionality, remedies, and reason-giving.
+Korea's constitutional resilience after martial law is visible not only in crisis rulings but in the Court's routine work of thresholds, rights, remedies, and institutional boundaries.
 
 ## Korean Thesis Check
 
-한국 헌법재판소의 중요성은 극적인 위기뿐 아니라 기준, 절차, 비례성, 구제 방식, 이유 제시라는 조용한 작업에 있다.
+계엄 이후 한국의 헌정 회복력은 위기 판결뿐 아니라 기준, 권리, 구제, 제도 경계를 다루는 헌법재판소의 일상적 작업에서도 드러난다.
 
 ## Raw Source Base
 
-- [Constitutional Court of Korea latest decisions](https://english.ccourt.go.kr/site/eng/ex/bbs/List.do?cbIdx=1143) — official English summaries
+- [Constitutional Court of Korea, Latest Decisions](https://english.ccourt.go.kr/site/eng/ex/bbs/List.do?cbIdx=1143) — official English summaries of recent decisions
+- [Constitutional Court of Korea, Yoon impeachment decision summary](https://english.ccourt.go.kr/site/eng/ex/bbs/List.do?cbIdx=1143) — official summary of 2024Hun-Na8
+- [Constitutional Court of Korea, Cho Ji-ho impeachment summary](https://english.ccourt.go.kr/site/eng/ex/bbs/List.do?cbIdx=1143) — official summary of 2024Hun-Na7
+
+## Reporting Tasks Moved Out Of Public Article
+
+- Read Korean full texts for holdings, concurrences, dissents, standards of review, and remedial orders before any permanent legal analysis.
+- Separate binding reasoning from political interpretation.
+- Compare emergency-power reasoning with ordinary-rights cases, including assembly and counsel-access decisions.
+
+## Evidence Controls
+
+Official English summaries are enough for temporary framing, not enough for final doctrinal claims.
 
 ## Sources Not To Use As Raw Evidence
 
-Do not rely on political commentary for legal holdings.
-
-## Statistical And Evidentiary Controls
-
-Legal claims should be checked against full Korean decisions before final publication.
-
-## Best Opposing View To Reconstruct
-
-The article must include the strongest good-faith objection before advancing its own conclusion. The objection should not be caricatured or treated as a straw target.
-
-## Editorial Judgment
-
-Approved for substantive temporary publication after source-gated expansion. Still requires Chief Editor final review before permanent issue approval.
+Korean-language columns, editorials, newsletters, and already synthesized commentary may be used only as evidence of discourse, media attention, or elite framing unless they report original facts with traceable documentation. Statistics, legal claims, election facts, and policy descriptions must return to raw or institutional sources.

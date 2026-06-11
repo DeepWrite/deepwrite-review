@@ -1,32 +1,38 @@
 ---
 issue: "2026-Q2"
 slug: "democracy-after-long-decline"
-date: "2026-06-11"
-status: substantive_editorial_pass_checked
+date: "2026-06-12"
+status: independent_rewrite_checked
 chief_editor_status: approved_for_publication
+assigned_agent: "Political Editor with Law and Institutions Editor"
 ---
 
 # Editorial Review: Democracy After The Long Decline
 
-## Argument Reconstruction
+## Independent Agent Check
 
-- One-sentence thesis: Democratic decline should be read less as one sudden emergency than as the normalization of institutional erosion; the task is to identify which institutions still make correction possible.
-- Major premise: A serious quarterly article should distinguish fact, interpretation, hypothesis, normative judgment, and speculation.
-- Minor premise: This article uses official or institutional sources for factual claims and reconstructs the best opposing view before judgment.
-- Conclusion: The article is acceptable for temporary publication as a substantive draft, not as final permanent approval.
+The June 12 rewrite assigns the article to the Political Editor with Law and Institutions Editor and removes the previous compact-body structure. The public text now uses article-specific sections, evidence, cases, and argument flow instead of a common 20-heading scaffold.
+
+## Relocated Development Notes
+
+The following items are retained as review or dossier tasks, not public-article prose:
+
+- Add a country-comparison table in the next non-temporary pass: election administration, courts, public media, opposition rights, and civil-society constraints.
+- Read full domestic-language legal texts for any country case used as more than illustration.
+- Keep fascism, authoritarianism, populism, and ordinary conservatism conceptually distinct in all revisions.
 
 ## Fact Check
 
-Source links were verified or rechecked during the June 11, 2026 substantive pass. Factual claims are limited to the listed institutional, official, or high-quality wire sources.
+The article links factual claims to the raw source base listed in its dossier. Claims that require fuller tables, Korean full legal texts, or official post-election datasets are marked as provisional or deferred.
 
 ## Statistics Check
 
-Democracy indices compress complex cases; use them as warning systems, not verdicts.
+Use democracy indices as alarms and maps, not as verdicts. Country mechanisms must carry causal claims.
 
 ## Dissent Editor
 
-The article includes or requires a strong opposing view. The opposition is treated as a real analytical challenge, not as decoration.
+The article includes a Best Opposing View section that states the strongest good-faith objection before the author's argument proceeds.
 
 ## Style Editor
 
-The article was revised away from outline form into a magazine-style analytical draft with opening issue, evidence, competing interpretation, argument, implications, and uncertainty note.
+The article was revised away from dossier language and repeated process phrases. Remaining limitations are handled in Evidence Strength and Uncertainty Note sections.

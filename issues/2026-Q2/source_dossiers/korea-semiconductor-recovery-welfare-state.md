@@ -1,46 +1,43 @@
 ---
 issue: "2026-Q2"
 slug: "korea-semiconductor-recovery-welfare-state"
-title: "Korea's Semiconductor Recovery And The Welfare State It Cannot Avoid"
-article_type: "political economy essay"
-regional_scope: korea
-status: substantive_editorial_pass
+title: "Korea's Semiconductor Recovery And The Welfare State"
+status: independent_rewrite_dossier
 chief_editor_status: approved_for_publication
-updated: "2026-06-11"
+updated: "2026-06-12"
+assigned_agent: "Economics Editor with Korea Data Researcher"
 ---
 
-# Source Dossier: Korea's Semiconductor Recovery And The Welfare State It Cannot Avoid
+# Source Dossier: Korea's Semiconductor Recovery And The Welfare State
 
-## Reporting Assignment
+## Independent Reporting Assignment
 
-Produce a serious magazine article, not a topic card. The article must start from a live structural issue, preserve competing interpretations, and avoid claims stronger than the source base allows.
+This article is assigned to the Economics Editor with Korea Data Researcher. It must proceed as a magazine article, not a compact briefing skeleton. The public article should carry argument, evidence, cases, and prose; development notes belong here or in review files.
 
 ## Central Thesis
 
-Korea's semiconductor recovery can create fiscal and political room, but it cannot substitute for social capacity in housing, care, fertility, labor mobility, and regional repair.
+Korea's chip-led recovery creates fiscal and political opportunity, but a semiconductor cycle cannot by itself solve care, housing, demographic, and welfare-state capacity problems.
 
 ## Korean Thesis Check
 
-한국의 반도체 회복은 재정적·정치적 여지를 만들 수 있지만, 주거, 돌봄, 출산, 노동 이동, 지역 회복의 사회적 역량을 대체할 수는 없다.
+한국의 반도체 주도 회복은 재정적·정치적 기회를 만들지만, 반도체 경기만으로 돌봄, 주거, 인구, 복지국가 역량 문제를 해결할 수는 없다.
 
 ## Raw Source Base
 
-- [Bank of Korea Economic Outlook, May 2026](https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10098207&programType=newsDataEng&relate=Y) — growth and inflation projections
-- [World Bank Global Economic Prospects](https://openknowledge.worldbank.org/entities/publication/bb904ec6-730f-4dd9-b1af-ad3153ee1616) — global uncertainty and fiscal space
-- [KOSIS](https://kosis.kr/eng/) — demographic data
+- [Bank of Korea, Monetary Policy Decision and Opening Remarks, May 28 2026](https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10098190&programType=newsDataEng&relate=Y) — official growth, inflation, semiconductor, housing, exchange-rate context
+- [KDI Economic Outlook 2026-1st Half](https://www.kdi.re.kr/eng/research/economy) — growth forecast, exports, investment, inflation, domestic demand
+- [OECD Economic Outlook, June 2026](https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6.html) — global risk environment and AI investment backdrop
+
+## Reporting Tasks Moved Out Of Public Article
+
+- Add fiscal-revenue, regional-employment, energy-demand, housing-cost, and care-service data once official tables are compiled.
+- Compare chip-led cycles with shipbuilding, defense, and battery sectors without treating them as interchangeable.
+- Separate temporary transfers from permanent welfare-state capacity.
+
+## Evidence Controls
+
+Semiconductor-export strength is not evidence of household welfare unless linked to wages, prices, taxes, care, housing, and public services.
 
 ## Sources Not To Use As Raw Evidence
 
-Do not use business commentary as evidence for macro facts.
-
-## Statistical And Evidentiary Controls
-
-Forecasts are conditional; semiconductor-cycle claims require date and source.
-
-## Best Opposing View To Reconstruct
-
-The article must include the strongest good-faith objection before advancing its own conclusion. The objection should not be caricatured or treated as a straw target.
-
-## Editorial Judgment
-
-Approved for substantive temporary publication after source-gated expansion. Still requires Chief Editor final review before permanent issue approval.
+Korean-language columns, editorials, newsletters, and already synthesized commentary may be used only as evidence of discourse, media attention, or elite framing unless they report original facts with traceable documentation. Statistics, legal claims, election facts, and policy descriptions must return to raw or institutional sources.
