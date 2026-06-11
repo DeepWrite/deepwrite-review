@@ -19,6 +19,14 @@ def clean_markdown(text: str) -> str:
     return "\n".join(lines).strip()
 
 
+def topic_marker_ko(text: str) -> str:
+    for char in reversed(text.strip()):
+        code = ord(char)
+        if 0xAC00 <= code <= 0xD7A3:
+            return "은" if (code - 0xAC00) % 28 else "는"
+    return "은"
+
+
 @dataclass(frozen=True)
 class ArticlePass:
     slug: str
@@ -689,7 +697,7 @@ def make_compact_ko(title: str, thesis: str, opening: str, evidence: str, analys
 
         대전제: 어떤 공적 문제가 제도 권한, 권리, 재정 역량, 사회적 구성원 자격, 지식의 신뢰성을 바꾼다면 그것은 단순한 화제가 아니라 구조적 사안으로 다루어야 한다.
 
-        소전제: {title}은 하나의 사건을 넘어 유인, 역량, 기대의 변화를 가리키기 때문에 그런 사안이다.
+        소전제: {title}{topic_marker_ko(title)} 하나의 사건을 넘어 유인, 역량, 기대의 변화를 가리키기 때문에 그런 사안이다.
 
         결론: {thesis}
 
