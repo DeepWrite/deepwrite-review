@@ -2,33 +2,31 @@
 issue: "2026-Q2"
 slug: "korea-semiconductor-recovery-welfare-state"
 date: "2026-06-11"
-status: checked_for_temporary_publication
+status: substantive_editorial_pass_checked
 chief_editor_status: approved_for_publication
 ---
 
-# Review: Korea's Semiconductor Recovery And The Welfare State It Cannot Avoid
+# Editorial Review: Korea's Semiconductor Recovery And The Welfare State It Cannot Avoid
 
 ## Argument Reconstruction
 
-- One-sentence thesis: Korea's 2026 recovery is real but uneven. The Bank of Korea's May outlook projected 2.6 percent growth and 2.7 percent CPI inflation, citing the semiconductor cycle and oil-price shock. The structural question is whether export-led strength can be translated into household security, care capacity, housing stability, and labor adjustment.
-- Major premise: Structurally important quarterly issues should be read through institutions, incentives, evidence, and competing interpretations.
-- Minor premise: This article applies that method to `korea-semiconductor-recovery-welfare-state` using the approved source dossier and checked source links.
-- Conclusion: Approved for temporary publication, subject to later full-issue revision.
+- One-sentence thesis: Korea's semiconductor recovery can create fiscal and political room, but it cannot substitute for social capacity in housing, care, fertility, labor mobility, and regional repair.
+- Major premise: A serious quarterly article should distinguish fact, interpretation, hypothesis, normative judgment, and speculation.
+- Minor premise: This article uses official or institutional sources for factual claims and reconstructs the best opposing view before judgment.
+- Conclusion: The article is acceptable for temporary publication as a substantive draft, not as final permanent approval.
 
-## Fact Checker
+## Fact Check
 
-- Source links were verified at the temporary-publication stage.
-- Claims are limited to what cited institutional or high-quality wire sources can support.
+Source links were verified or rechecked during the June 11, 2026 substantive pass. Factual claims are limited to the listed institutional, official, or high-quality wire sources.
 
-## Statistics Checker
+## Statistics Check
 
-- Statistical claims are stated with source, date, geography, and limitation where applicable.
-- This temporary version avoids unsupported causal estimates.
+Forecasts are conditional; semiconductor-cycle claims require date and source.
 
 ## Dissent Editor
 
-- Strongest opposing view is included in the article body.
+The article includes or requires a strong opposing view. The opposition is treated as a real analytical challenge, not as decoration.
 
 ## Style Editor
 
-- English and Korean versions preserve the same structure and are ready for temporary publication.
+The article was revised away from outline form into a magazine-style analytical draft with opening issue, evidence, competing interpretation, argument, implications, and uncertainty note.

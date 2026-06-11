@@ -2,33 +2,31 @@
 issue: "2026-Q2"
 slug: "democracy-after-long-decline"
 date: "2026-06-11"
-status: checked_for_temporary_publication
+status: substantive_editorial_pass_checked
 chief_editor_status: approved_for_publication
 ---
 
-# Review: Democracy After The Long Decline
+# Editorial Review: Democracy After The Long Decline
 
 ## Argument Reconstruction
 
-- One-sentence thesis: Democratic decline is no longer best understood as a short emergency. In 2026 it is a background condition: repeated deterioration in rights, judicial independence, civic space, and electoral trust can become ordinary institutional weather before it becomes regime collapse.
-- Major premise: Structurally important quarterly issues should be read through institutions, incentives, evidence, and competing interpretations.
-- Minor premise: This article applies that method to `democracy-after-long-decline` using the approved source dossier and checked source links.
-- Conclusion: Approved for temporary publication, subject to later full-issue revision.
+- One-sentence thesis: Democratic decline should be read less as one sudden emergency than as the normalization of institutional erosion; the task is to identify which institutions still make correction possible.
+- Major premise: A serious quarterly article should distinguish fact, interpretation, hypothesis, normative judgment, and speculation.
+- Minor premise: This article uses official or institutional sources for factual claims and reconstructs the best opposing view before judgment.
+- Conclusion: The article is acceptable for temporary publication as a substantive draft, not as final permanent approval.
 
-## Fact Checker
+## Fact Check
 
-- Source links were verified at the temporary-publication stage.
-- Claims are limited to what cited institutional or high-quality wire sources can support.
+Source links were verified or rechecked during the June 11, 2026 substantive pass. Factual claims are limited to the listed institutional, official, or high-quality wire sources.
 
-## Statistics Checker
+## Statistics Check
 
-- Statistical claims are stated with source, date, geography, and limitation where applicable.
-- This temporary version avoids unsupported causal estimates.
+Democracy indices compress complex cases; use them as warning systems, not verdicts.
 
 ## Dissent Editor
 
-- Strongest opposing view is included in the article body.
+The article includes or requires a strong opposing view. The opposition is treated as a real analytical challenge, not as decoration.
 
 ## Style Editor
 
-- English and Korean versions preserve the same structure and are ready for temporary publication.
+The article was revised away from outline form into a magazine-style analytical draft with opening issue, evidence, competing interpretation, argument, implications, and uncertainty note.

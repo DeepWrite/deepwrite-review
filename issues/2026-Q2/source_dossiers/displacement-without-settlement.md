@@ -2,54 +2,44 @@
 issue: "2026-Q2"
 slug: "displacement-without-settlement"
 title: "Displacement Without Settlement"
-article_type: data essay
+article_type: "data essay"
 regional_scope: global
-status: approved_for_draft
-chief_editor_status: approved_for_draft
-thesis_status: approved_for_draft
-created: "2026-06-11"
+status: substantive_editorial_pass
+chief_editor_status: approved_for_publication
+updated: "2026-06-11"
 ---
 
 # Source Dossier: Displacement Without Settlement
 
-## Core Question
+## Reporting Assignment
 
-Why has forced displacement become a durable global condition even when annual headline totals fluctuate?
+Produce a serious magazine article, not a topic card. The article must start from a live structural issue, preserve competing interpretations, and avoid claims stronger than the source base allows.
 
-## Provisional Thesis
+## Central Thesis
 
-Forced displacement is increasingly defined by duration and blocked settlement: the relevant question is not only how many people flee, but how many remain trapped between unsafe return, inadequate integration, and politically constrained resettlement.
+Forced displacement remains structurally unresolved when people move from emergency into long-term legal and civic suspension; the key issue is durable membership, not only flight.
 
-## Strongest Opposing Thesis
+## Korean Thesis Check
 
-The recent decline or stabilization in some displacement figures may indicate that existing systems, however strained, still produce returns, naturalizations, and partial resolution.
+강제이주는 사람들이 비상사태에서 장기적 법적·시민적 유예 상태로 이동할 때 구조적으로 해결되지 않는다. 핵심은 탈출만이 아니라 지속 가능한 구성원 자격이다.
 
-## Primary Sources Needed
+## Raw Source Base
 
-- UNHCR Global Trends.
-- UNHCR Mid-Year Trends.
-- IOM displacement and migration data.
-- National asylum and resettlement statistics.
-- Conflict datasets for major displacement crises.
+- [UNHCR Global Trends](https://www.unhcr.org/us/global-trends) — 117.8 million forcibly displaced at end-2025 and category definitions
+- [UNHCR Refugee Statistics](https://www.unhcr.org/refugee-statistics) — disaggregated refugee data
 
-## Relevant Statistics
+## Sources Not To Use As Raw Evidence
 
-- Total forcibly displaced persons.
-- Refugees, asylum seekers, internally displaced persons, stateless people.
-- Returns, naturalizations, resettlement numbers.
-- Duration of displacement where available.
-- Host-country income classifications.
+Do not use dramatic field journalism as denominator evidence; use it later only for case illustration.
 
-## Statistical Reliability Checks
+## Statistical And Evidentiary Controls
 
-- Confirm category definitions.
-- Avoid adding categories that overlap.
-- Distinguish stock from flow.
-- Avoid treating humanitarian registrations as complete population counts.
+Separate refugees, asylum seekers, IDPs, stateless persons, returnees, stocks, and flows.
 
-## Risks Of Overstatement
+## Best Opposing View To Reconstruct
 
-- Treating climate displacement as legally equivalent to refugee status without explaining current law.
-- Treating all migration as forced displacement.
-- Using morally urgent stories as substitutes for denominator-aware analysis.
+The article must include the strongest good-faith objection before advancing its own conclusion. The objection should not be caricatured or treated as a straw target.
 
+## Editorial Judgment
+
+Approved for substantive temporary publication after source-gated expansion. Still requires Chief Editor final review before permanent issue approval.

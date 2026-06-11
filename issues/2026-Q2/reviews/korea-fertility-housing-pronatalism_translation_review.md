@@ -2,27 +2,26 @@
 issue: "2026-Q2"
 slug: "korea-fertility-housing-pronatalism"
 date: "2026-06-11"
-status: checked_for_temporary_publication
+status: substantive_translation_checked
 review_type: translation_consistency
 chief_editor_status: approved_for_publication
 ---
 
-# Translation Review: 한국의 출산, 주거, 출산장려주의의 한계
+# Translation Review: 한국의 출산 반등은 가족에 관한 이론이 아니다
 
-## Current State
+## Thesis Preservation
 
-- English final version: `issues/2026-Q2/final/en/korea-fertility-housing-pronatalism.md`
-- Korean final version: `issues/2026-Q2/final/ko/korea-fertility-housing-pronatalism.md`
-- Publication status: approved for temporary publication.
+English thesis: Korea's fertility rebound is real but not yet structural proof; policy should treat it as a window to repair household formation rather than as evidence that pronatalism has succeeded.
+
+Korean thesis: 한국의 출산 반등은 실제지만 아직 구조적 증거는 아니다. 정책은 그것을 출산장려의 성공 증거가 아니라 가계 형성 조건을 수리할 기회로 읽어야 한다.
 
 ## Structural Check
 
-- Thesis preserved: checked for temporary publication.
-- Section order preserved: yes.
-- Citation links preserved: yes.
-- Front-matter bilingual links present: yes.
+- Bilingual front matter links: checked.
+- Core evidence preserved: checked.
+- Best opposing view preserved: checked.
+- Evidence strength and uncertainty note preserved: checked.
 
-## Remaining Full-Issue Review
+## Remaining Human Review
 
-- Korean prose should receive a full human style edit before complete quarterly issue publication.
-- Statistical claims should be rechecked if source pages update.
+The Korean version is suitable for temporary publication but should still receive Chief Editor style review before permanent issue approval.

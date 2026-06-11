@@ -36,6 +36,7 @@ published_date: '2026-06-11'
 status: published
 article_type: annotated bibliography
 regional_scope: comparative
+substantive_editorial_pass: '2026-06-11'
 ---
 
 # What To Read On AI, Democracy, Energy, And Korea's Institutional Moment
@@ -46,73 +47,99 @@ regional_scope: comparative
 
 ## Abstract
 
-This reading list models the magazine's method. Start with primary and institutional evidence; use forecasts as conditional arguments; use journalism for chronology; use commentary as discourse evidence; and keep Korean raw sources separate from Korean interpretive writing.
+The issue's reading list is a source architecture, not decoration: it tells readers which claims rest on official data, which sources are warning systems, and where interpretation begins.
 
 ## Opening Issue
 
-A serious quarterly review needs not only arguments but a reading order. The order matters because sources do different kinds of work.
-
-## Central Question
-
-Which sources should readers use to understand the quarter without confusing evidence, discourse, forecast, and opinion?
-
-## Conceptual Clarification
-
-A bibliography is an argument about authority. It tells readers what can support a claim, what can only illustrate a debate, and where uncertainty remains.
+A serious issue should have a source architecture. Without it, a quarterly can sound intelligent while letting mood outrun evidence.
 
 ## Evidence
 
-For macroeconomics, begin with IMF, OECD, and World Bank; for energy, IEA; for displacement, UNHCR; for AI governance, OECD, UN, EU, and Stanford; for democracy, Freedom House and V-Dem; for Korea, BOK, MOEF, the Ministry of Data and Statistics, NEC, and the Constitutional Court.
+The core sources are institutional: IMF, OECD, World Bank, UNHCR, Freedom House, V-Dem, EU, UN, UNESCO, Bank of Korea, KOSIS, National Election Commission, and Constitutional Court of Korea.
 
-## Competing Interpretations
+## Analysis
 
-- The prestige-shelf view treats a bibliography as a list of impressive names.
-- The practical view treats it as a map of evidentiary use.
-- The DeepWrite view insists that source type determines what kind of claim can be made.
+The analytical purpose of a reading list is triage. Readers should know which sources establish facts, which sources diagnose risk, which sources supply conceptual vocabulary, and which sources merely show what influential people are debating. That distinction is especially important in a bilingual magazine. Korean official data can anchor Korean cases, while the analytic prose may remain closer to the discipline of English-language quarterly magazines. The bridge between them is source architecture.
+
+## Reporting Judgment
+
+The reporting judgment is to keep the article close to institutions rather than atmosphere. The piece should not begin from the loudest column, the most elegant analogy, or the most shareable phrase. It should begin from the source that can bear weight: an official release, a legal decision, a public dataset, an institutional report, a verified election return, or a clearly bounded high-quality account.
+
+That discipline does not make the prose timid. It makes the argument more exact. A serious article can still have voice, rhythm, and judgment; it simply shows readers where the factual floor ends and where interpretation begins. The task is not neutrality as evasion. It is accountable judgment.
+
+## Field Of Conflict
+
+A reading list can either discipline an issue or decorate it. Decoration is easy: attach impressive names and let citations create an aura of authority. Discipline is harder. It asks what role each source plays. Is it a denominator? A legal threshold? A forecast? A warning system? A conceptual vocabulary? A case chronology? A record of discourse? Readers should be able to see that architecture without guessing.
+
+This is especially important for a bilingual quarterly that uses Korean raw sources and an English-language magazine style. Korean official data should not be translated into mere atmosphere. English-language institutional reports should not become global wallpaper. Commentary in either language should not be promoted into raw evidence. The bibliography is therefore part of the magazine's method: it shows how a Korean case can be analyzed with international discipline without losing its factual ground.
+
+## Final Reporting Path
+
+A stronger final version should become an annotated source map rather than a list. Each entry should identify source type, evidentiary use, limitations, update frequency, and article relevance. It should add Korean original PDFs, full court decisions, election datasets, and peer-reviewed literature. It should also mark where the magazine is relying on provisional English summaries and where Korean primary documents still need full editorial review.
+
+## Why This Matters Now
+
+The issue is current not because it is noisy, but because institutional choices are becoming harder to postpone. In this quarter, the relevant facts have moved beyond mood: official data, legal timelines, court decisions, or institutional reports now give readers something firmer than commentary to test. That does not make the conclusion automatic. It makes the question ripe for serious judgment.
+
+## Conceptual Clarification
+
+Use forecasts as conditional arguments, not prophecy. Use democracy indices as warning systems, not verdicts. Use Korean commentary as discourse evidence, not raw factual ground. Use legal decisions for holdings and reasoning.
 
 ## Best Opposing View
 
-The strongest opposing view is that source hierarchy can look neutral while smuggling in institutional bias. Official data can omit lived experience, and elite reports can standardize the wrong categories.
+The strongest objection is that a source hierarchy can become sterile. Magazines need argument, style, and judgment. True. But judgment is stronger when readers can see what the evidence can and cannot bear.
 
 ## Argument
 
-That is why hierarchy must be paired with dissent. Primary sources are not morally complete; they are evidentiary anchors. A magazine can begin from them while still asking what they cannot see.
+This bibliography disciplines the issue. It prevents retrospective elegance from becoming pattern imposition. It marks where facts end, where interpretation begins, and where uncertainty remains.
+
+## Argument Reconstruction
+
+Major premise: when a public problem changes institutional authority, rights, fiscal capacity, social membership, or the credibility of knowledge, it should be treated as structural rather than merely topical.
+
+Minor premise: What To Read On AI, Democracy, Energy, And Korea's Institutional Moment is such a problem because the evidence points beyond a single event toward a change in incentives, capacities, or expectations.
+
+Conclusion: The issue's reading list is a source architecture, not decoration: it tells readers which claims rest on official data, which sources are warning systems, and where interpretation begins.
+
+Hidden assumption: institutions still retain enough agency for better rules, clearer evidence, and more honest public reasoning to matter.
+
+Possible weak link: the available sources may establish pressure more clearly than they establish causality. The article therefore treats its conclusion as a disciplined interpretation, not as a closed proof.
+
+## What This Does Not Prove
+
+This article does not claim more than the source base can bear. It does not convert one report into a universal law, one election into a national destiny, one annual statistic into a permanent trend, or one legal decision into a complete theory of institutions. Its claim is structural and provisional: the evidence is strong enough to identify a pattern, but not strong enough to end the argument.
+
+## Source Limits
+
+The source base is strong enough for a temporary magazine argument, but it is not the same as a completed book chapter or peer-reviewed article. Official statistics can lag behind social experience. Legal summaries can omit reasoning that matters in the full decision. International indices can compress national histories. Forecasts can change when assumptions change. Adoption figures can measure use without measuring quality, productivity, learning, or legitimacy.
+
+These limits are not defects to hide. They are part of the article's honesty. A serious publication should let readers see which claims are anchored in documented facts, which claims are comparative interpretations, and which claims remain provisional because better data, fuller legal texts, or additional field reporting are still needed.
+
+## What Would Change The Judgment
+
+The judgment should change if later official releases contradict the direction of the evidence, if disaggregated data show that the apparent pattern is concentrated in a narrow subgroup, if full legal texts undermine the reading suggested by summaries, if implementation fails in ways the article treats as manageable, or if rival interpretations explain the same facts with fewer assumptions.
+
+This is why temporary publication is not a loophole around review. It is a visible stage in the editorial process. The article is public enough to be read, criticized, and improved, but not treated as beyond revision.
 
 ## Policy Or Civic Implications
 
-- Use official statistics for numbers, not opinion columns.
-- Use high-quality journalism for chronology and context.
-- Use commentary to map discourse, not to prove causal claims.
-- Record method limits before drawing conclusions.
+Keep source cards live. Add peer-reviewed literature, Korean official PDFs, full court decisions, election datasets, and article-level evidence logs before final issue approval.
+
+## What To Watch
+
+Watch the next official release, the next implementation deadline, the next judicial or administrative response, and the next place where a broad claim becomes a practical burden. Structural issues reveal themselves when institutions have to move from statement to execution.
 
 ## Evidence Strength
 
-Overall evidence level: moderate.
-
-- High confidence: the listed source families are appropriate starting points.
-- Moderate confidence: the annotations reflect the issue's method.
-- Contested: source hierarchy must be revised as better data appear.
+Overall evidence level: moderate. High-confidence claims are limited to source-documented facts. Interpretive claims are presented as judgments rather than settled findings.
 
 ## Uncertainty Note
 
-This list is not exhaustive. It is a working public bibliography for the temporary issue state.
+This list is a scaffold, not a final archive.
 
 ## Further Reading
 
-- [International Monetary Fund, World Economic Outlook, April 2026](https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026)
-- [OECD, Economic Outlook, Volume 2026 Issue 1](https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6.html)
-- [International Energy Agency, Global Energy Review 2026](https://www.iea.org/reports/global-energy-review-2026)
-- [UNHCR, Global Trends](https://www.unhcr.org/us/global-trends)
-- [OECD, AI use by individuals and firms](https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html)
-- [United Nations, Global Dialogue on AI Governance](https://www.un.org/global-dialogue-ai-governance/en)
-- [European Commission, AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
-- [Stanford HAI, 2026 AI Index Report](https://hai.stanford.edu/ai-index/2026-ai-index-report)
-- [Freedom House, Freedom in the World 2026](https://freedomhouse.org/report/freedom-world/2026/growing-shadow-autocracy)
-- [V-Dem Institute, Democracy Report 2026](https://www.v-dem.net/publications/democracy-reports/)
-- [Bank of Korea, Economic Outlook, May 2026](https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10098207&programType=newsDataEng&relate=Y)
-- [Ministry of Data and Statistics, Birth and Death press releases](https://mods.go.kr/menu.es?mid=a20108100000)
-- [Constitutional Court of Korea, Latest Decisions](https://english.ccourt.go.kr/site/eng/ex/bbs/List.do?cbIdx=1143)
-
-## Citations
-
-This temporary publication uses official, institutional, or high-quality wire sources for factual claims. Commentary may be added later only as discourse evidence, not as raw evidence for causal or statistical claims.
+- [IMF WEO](https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026)
+- [OECD AI use](https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html)
+- [Freedom House](https://freedomhouse.org/report/freedom-world/2026/growing-shadow-autocracy)
+- [KOSIS](https://kosis.kr/eng/)

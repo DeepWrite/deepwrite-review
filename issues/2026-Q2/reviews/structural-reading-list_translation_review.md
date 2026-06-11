@@ -2,27 +2,26 @@
 issue: "2026-Q2"
 slug: "structural-reading-list"
 date: "2026-06-11"
-status: checked_for_temporary_publication
+status: substantive_translation_checked
 review_type: translation_consistency
 chief_editor_status: approved_for_publication
 ---
 
 # Translation Review: AI, 민주주의, 에너지, 한국의 제도적 순간을 읽기 위한 자료
 
-## Current State
+## Thesis Preservation
 
-- English final version: `issues/2026-Q2/final/en/structural-reading-list.md`
-- Korean final version: `issues/2026-Q2/final/ko/structural-reading-list.md`
-- Publication status: approved for temporary publication.
+English thesis: The issue's reading list is a source architecture, not decoration: it tells readers which claims rest on official data, which sources are warning systems, and where interpretation begins.
+
+Korean thesis: 이번 호의 독해 목록은 장식이 아니라 출처 구조다. 어떤 주장이 공식 자료에 기대고, 어떤 출처가 경보 체계이며, 어디서 해석이 시작되는지 독자에게 알려준다.
 
 ## Structural Check
 
-- Thesis preserved: checked for temporary publication.
-- Section order preserved: yes.
-- Citation links preserved: yes.
-- Front-matter bilingual links present: yes.
+- Bilingual front matter links: checked.
+- Core evidence preserved: checked.
+- Best opposing view preserved: checked.
+- Evidence strength and uncertainty note preserved: checked.
 
-## Remaining Full-Issue Review
+## Remaining Human Review
 
-- Korean prose should receive a full human style edit before complete quarterly issue publication.
-- Statistical claims should be rechecked if source pages update.
+The Korean version is suitable for temporary publication but should still receive Chief Editor style review before permanent issue approval.

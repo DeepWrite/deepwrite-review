@@ -2,33 +2,31 @@
 issue: "2026-Q2"
 slug: "korea-mandate-problem-local-elections"
 date: "2026-06-11"
-status: checked_for_temporary_publication
+status: substantive_editorial_pass_checked
 chief_editor_status: approved_for_publication
 ---
 
-# Review: Korea's Mandate Problem After The Local Elections
+# Editorial Review: Korea's Mandate Problem After The Local Elections
 
 ## Argument Reconstruction
 
-- One-sentence thesis: Korea's 2026 local elections should be read neither as a purely local exercise nor as a simple national referendum. Wire reports based on election counts described the ruling Democratic Party winning most regional races while losing Seoul. The structural question is how a nationalized party system should interpret local authority, turnout, administration, and metropolitan exception.
-- Major premise: Structurally important quarterly issues should be read through institutions, incentives, evidence, and competing interpretations.
-- Minor premise: This article applies that method to `korea-mandate-problem-local-elections` using the approved source dossier and checked source links.
-- Conclusion: Approved for temporary publication, subject to later full-issue revision.
+- One-sentence thesis: Korea's 2026 local elections should be read neither as a purely local exercise nor as a simple national referendum. Mandate claims must specify office, geography, turnout, vote share, policy competence, and timing.
+- Major premise: A serious quarterly article should distinguish fact, interpretation, hypothesis, normative judgment, and speculation.
+- Minor premise: This article uses official or institutional sources for factual claims and reconstructs the best opposing view before judgment.
+- Conclusion: The article is acceptable for temporary publication as a substantive draft, not as final permanent approval.
 
-## Fact Checker
+## Fact Check
 
-- Source links were verified at the temporary-publication stage.
-- Claims are limited to what cited institutional or high-quality wire sources can support.
+Source links were verified or rechecked during the June 11, 2026 substantive pass. Factual claims are limited to the listed institutional, official, or high-quality wire sources.
 
-## Statistics Checker
+## Statistics Check
 
-- Statistical claims are stated with source, date, geography, and limitation where applicable.
-- This temporary version avoids unsupported causal estimates.
+Final claims require NEC tables; AP is chronology.
 
 ## Dissent Editor
 
-- Strongest opposing view is included in the article body.
+The article includes or requires a strong opposing view. The opposition is treated as a real analytical challenge, not as decoration.
 
 ## Style Editor
 
-- English and Korean versions preserve the same structure and are ready for temporary publication.
+The article was revised away from outline form into a magazine-style analytical draft with opening issue, evidence, competing interpretation, argument, implications, and uncertainty note.

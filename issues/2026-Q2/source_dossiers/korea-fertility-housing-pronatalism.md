@@ -1,58 +1,46 @@
 ---
 issue: "2026-Q2"
 slug: "korea-fertility-housing-pronatalism"
-title: "Fertility, Housing, And The Limits Of Pronatalism In Korea"
-article_type: longform essay
+title: "Korea's Fertility Rebound Is Not A Theory Of The Family"
+article_type: "demography and family essay"
 regional_scope: korea
-status: approved_for_draft
-chief_editor_status: approved_for_draft
-thesis_status: approved_for_draft
-created: "2026-06-11"
+status: substantive_editorial_pass
+chief_editor_status: approved_for_publication
+updated: "2026-06-11"
 ---
 
-# Source Dossier: Fertility, Housing, And The Limits Of Pronatalism In Korea
+# Source Dossier: Korea's Fertility Rebound Is Not A Theory Of The Family
 
-## Core Question
+## Reporting Assignment
 
-What would it mean to treat Korea's fertility problem as an institutional and household-formation problem rather than a birth-incentive problem?
+Produce a serious magazine article, not a topic card. The article must start from a live structural issue, preserve competing interpretations, and avoid claims stronger than the source base allows.
 
-## Provisional Thesis
+## Central Thesis
 
-Korea's fertility crisis cannot be understood through pronatalist subsidies alone; it is produced by the institutional organization of housing, work, education, gender roles, and metropolitan opportunity.
+Korea's fertility rebound is real but not yet structural proof; policy should treat it as a window to repair household formation rather than as evidence that pronatalism has succeeded.
 
-## Strongest Opposing Thesis
+## Korean Thesis Check
 
-Pronatalist policy may still matter at the margin; temporary rebounds in births and marriages should not be dismissed before cohort, timing, and policy effects are separated.
+한국의 출산 반등은 실제지만 아직 구조적 증거는 아니다. 정책은 그것을 출산장려의 성공 증거가 아니라 가계 형성 조건을 수리할 기회로 읽어야 한다.
 
-## Korea Raw Source Requirements
+## Raw Source Base
 
-- Ministry of Data and Statistics birth, death, marriage, fertility, and population data.
-- KOSIS demographic time series.
-- OECD Korea fertility and family-policy materials.
-- MOLIT housing and real-estate data.
-- Labor-market and childcare data from official sources.
-- Education-cost data where available.
+- [KOSIS](https://kosis.kr/eng/) — 2025 births and total fertility rate
+- [Ministry of Data and Statistics](https://mods.go.kr/menu.es?mid=a20108100000) — birth and death releases
+- [Korea.net births summary](https://www.korea.net/NewsFocus/Society/view?articleId=288047) — government-facing English summary
 
-Korean columns, personal essays, and social commentary may only document discourse and lived framing; they are not raw evidence for demographic causation.
+## Sources Not To Use As Raw Evidence
 
-## Relevant Statistics
+Do not use culture-war commentary as raw demographic evidence.
 
-- Total fertility rate.
-- Number of births and deaths.
-- Marriage rates and age at first marriage.
-- Housing price/income metrics.
-- Female labor participation and care indicators.
-- Regional fertility differences.
+## Statistical And Evidentiary Controls
 
-## Statistical Reliability Checks
+Separate annual births, total fertility rate, cohort timing, marriage, and policy causality.
 
-- Separate birth count, fertility rate, cohort effects, and timing effects.
-- Do not infer policy success from short-term rebound without cohort analysis.
-- Distinguish Seoul/metropolitan dynamics from national dynamics.
+## Best Opposing View To Reconstruct
 
-## Risks Of Overstatement
+The article must include the strongest good-faith objection before advancing its own conclusion. The objection should not be caricatured or treated as a straw target.
 
-- Saying "Korea is disappearing" without demographic precision.
-- Treating culture as a residual explanation.
-- Reducing fertility to one cause.
+## Editorial Judgment
 
+Approved for substantive temporary publication after source-gated expansion. Still requires Chief Editor final review before permanent issue approval.

@@ -2,54 +2,44 @@
 issue: "2026-Q2"
 slug: "korea-mandate-problem-local-elections"
 title: "Korea's Mandate Problem After The Local Elections"
-article_type: political institutions essay
+article_type: "political institutions essay"
 regional_scope: korea
-status: approved_for_draft
-chief_editor_status: approved_for_draft
-thesis_status: approved_for_draft
-created: "2026-06-11"
+status: substantive_editorial_pass
+chief_editor_status: approved_for_publication
+updated: "2026-06-11"
 ---
 
 # Source Dossier: Korea's Mandate Problem After The Local Elections
 
-## Core Question
+## Reporting Assignment
 
-How should Korea's 2026 local elections be interpreted without reducing them to a simplistic national referendum?
+Produce a serious magazine article, not a topic card. The article must start from a live structural issue, preserve competing interpretations, and avoid claims stronger than the source base allows.
 
-## Provisional Thesis
+## Central Thesis
 
-Korea's post-crisis mandate problem is institutional rather than merely partisan: local elections can strengthen democratic normalization only if their results are read through turnout, regional variation, local policy stakes, and electoral administration rather than a single national mood.
+Korea's 2026 local elections should be read neither as a purely local exercise nor as a simple national referendum. Mandate claims must specify office, geography, turnout, vote share, policy competence, and timing.
 
-## Strongest Opposing Thesis
+## Korean Thesis Check
 
-In a highly nationalized political system, local elections inevitably function as a referendum on the national administration and opposition; fine-grained local interpretation may obscure the central political signal.
+한국의 2026년 지방선거는 순수한 지방 행사로도, 단순한 전국 국민투표로도 읽혀서는 안 된다. 위임 주장은 직위, 지역, 투표율, 득표율, 정책 권한, 시점을 명시해야 한다.
 
-## Korea Raw Source Requirements
+## Raw Source Base
 
-Use Korean raw sources wherever possible:
+- [National Election Commission](https://www.nec.go.kr/) — official election data
+- [Associated Press local-election report](https://apnews.com/article/south-korea-elections-mayors-lee-yoon-3f75bc77d129daecbcfac5afafbeb8d0) — international chronology
 
-- National Election Commission official results, turnout, candidate data, and election calendar.
-- National Assembly and party records where relevant.
-- Local-government documents for major local policy disputes.
-- Official polling disclosures only with methodology review.
+## Sources Not To Use As Raw Evidence
 
-Korean columns, opinion essays, campaign commentary, and already-synthesized articles may be used only as discourse or media-attention evidence.
+Do not use Korean commentary as raw election evidence.
 
-## High-Quality Journalism Needed
+## Statistical And Evidentiary Controls
 
-- Wire reports may be used for chronology and international-reader orientation.
-- Korean news reporting may document events and attention, but analysis must return to official election data.
+Final claims require NEC tables; AP is chronology.
 
-## Relevant Statistics
+## Best Opposing View To Reconstruct
 
-- Turnout by region.
-- Vote share by office and region.
-- Seat/control changes by level of local government.
-- Seoul and other metropolitan results with denominator clarity.
+The article must include the strongest good-faith objection before advancing its own conclusion. The objection should not be caricatured or treated as a straw target.
 
-## Risks Of Overstatement
+## Editorial Judgment
 
-- Treating Seoul as Korea.
-- Treating local results as automatic approval or rejection of the national government.
-- Ignoring electoral administration and turnout when interpreting legitimacy.
-
+Approved for substantive temporary publication after source-gated expansion. Still requires Chief Editor final review before permanent issue approval.

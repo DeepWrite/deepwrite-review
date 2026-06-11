@@ -1,56 +1,44 @@
 ---
 issue: "2026-Q2"
 slug: "korea-constitutional-court-quiet-institutionalism"
-title: "Assembly, Counsel, And The Constitutional Court's Quiet Institutionalism"
-article_type: law and institutions essay
+title: "The Constitutional Court's Quiet Institutionalism"
+article_type: "law and institutions essay"
 regional_scope: korea
-status: approved_for_draft
-chief_editor_status: approved_for_draft
-thesis_status: approved_for_draft
-created: "2026-06-11"
+status: substantive_editorial_pass
+chief_editor_status: approved_for_publication
+updated: "2026-06-11"
 ---
 
-# Source Dossier: Assembly, Counsel, And The Constitutional Court's Quiet Institutionalism
+# Source Dossier: The Constitutional Court's Quiet Institutionalism
 
-## Core Question
+## Reporting Assignment
 
-What do recent Constitutional Court decisions reveal about Korea's rights-protective institutionalism after political crisis?
+Produce a serious magazine article, not a topic card. The article must start from a live structural issue, preserve competing interpretations, and avoid claims stronger than the source base allows.
 
-## Provisional Thesis
+## Central Thesis
 
-Korea's constitutional resilience may be most visible not in grand constitutional rhetoric but in ordinary decisions that discipline punishment, protect assembly, and make access to counsel practically meaningful.
+Korea's Constitutional Court matters not only in dramatic crisis but in the quiet work of thresholds, procedure, proportionality, remedies, and reason-giving.
 
-## Strongest Opposing Thesis
+## Korean Thesis Check
 
-Selected rights cases should not be mistaken for broad institutional health; courts may protect some procedural rights while leaving deeper political and administrative conflicts unresolved.
+한국 헌법재판소의 중요성은 극적인 위기뿐 아니라 기준, 절차, 비례성, 구제 방식, 이유 제시라는 조용한 작업에 있다.
 
-## Korea Raw Source Requirements
+## Raw Source Base
 
-- Constitutional Court of Korea latest decisions and official summaries.
-- Authoritative Korean decision texts where available.
-- Assembly and Demonstration Act provisions.
-- Criminal procedure and prison administration materials where relevant.
-- National Assembly amendment records if legislation follows.
+- [Constitutional Court of Korea latest decisions](https://english.ccourt.go.kr/site/eng/ex/bbs/List.do?cbIdx=1143) — official English summaries
 
-Korean legal commentary may be used only as interpretive discourse unless it points back to primary legal text.
+## Sources Not To Use As Raw Evidence
 
-## Key Concepts
+Do not rely on political commentary for legal holdings.
 
-- Freedom of assembly.
-- Prior notification requirements.
-- Proportionality.
-- Right to assistance of counsel.
-- Nonconformity to the Constitution.
+## Statistical And Evidentiary Controls
 
-## Evidentiary Gaps
+Legal claims should be checked against full Korean decisions before final publication.
 
-- Need full Korean decisions for doctrinal analysis.
-- Need to avoid overgeneralizing from English summaries.
-- Need legislative follow-up status.
+## Best Opposing View To Reconstruct
 
-## Risks Of Overstatement
+The article must include the strongest good-faith objection before advancing its own conclusion. The objection should not be caricatured or treated as a straw target.
 
-- Treating a few cases as a constitutional renaissance.
-- Ignoring dissents and remedial limits.
-- Confusing rights declaration with enforcement.
+## Editorial Judgment
 
+Approved for substantive temporary publication after source-gated expansion. Still requires Chief Editor final review before permanent issue approval.

@@ -2,52 +2,45 @@
 issue: "2026-Q2"
 slug: "universities-after-generative-ai"
 title: "Universities After Generative AI"
-article_type: education essay
+article_type: "education essay"
 regional_scope: global
-status: approved_for_draft
-chief_editor_status: approved_for_draft
-thesis_status: approved_for_draft
-created: "2026-06-11"
+status: substantive_editorial_pass
+chief_editor_status: approved_for_publication
+updated: "2026-06-11"
 ---
 
 # Source Dossier: Universities After Generative AI
 
-## Core Question
+## Reporting Assignment
 
-What is the university for when writing, summary, explanation, and first-draft analysis are no longer scarce in the old way?
+Produce a serious magazine article, not a topic card. The article must start from a live structural issue, preserve competing interpretations, and avoid claims stronger than the source base allows.
 
-## Provisional Thesis
+## Central Thesis
 
-Generative AI does not simply create an academic-integrity problem; it exposes an older institutional confusion between learning, credentialing, assessment, and the production of judgment.
+Generative AI forces universities to ask what they assess; the issue is not cheating alone but the visibility of learning after polished output becomes cheap.
 
-## Strongest Opposing Thesis
+## Korean Thesis Check
 
-The immediate problem is still enforcement: without credible assessment controls, broader philosophical redesign will be irrelevant.
+생성형 AI는 대학에 무엇을 평가하는지 묻게 만든다. 문제는 부정행위만이 아니라 매끈한 산출물이 저렴해진 뒤 학습을 어떻게 보이게 할 것인가이다.
 
-## Primary Sources Needed
+## Raw Source Base
 
-- University AI policies from representative institutions.
-- Assessment and academic-integrity policy documents.
-- Education-ministry or accreditor guidance.
-- Surveys of student/faculty AI use where methodology is clear.
-- OECD and UNESCO education/AI materials.
+- [OECD AI use data](https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html) — student AI use
+- [UNESCO guidance](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research) — education governance
+- [European Commission AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) — high-risk education use cases
 
-## Academic Sources Needed
+## Sources Not To Use As Raw Evidence
 
-- Writing studies.
-- Assessment validity literature.
-- Learning science and educational technology research.
-- Credentialing and labor-market signaling literature.
+Do not use campus anecdotes as general evidence without labeling them as anecdotes.
 
-## Evidence Tasks
+## Statistical And Evidentiary Controls
 
-- Separate student use, faculty use, institutional policy, and learning outcomes.
-- Avoid anecdotal claims about cheating prevalence without denominator.
-- Compare policy responses across institution types.
+Student use statistics show adoption, not learning outcomes.
 
-## Risks Of Overstatement
+## Best Opposing View To Reconstruct
 
-- Treating AI as the death of writing.
-- Treating plagiarism detection as education policy.
-- Ignoring inequality in access to AI tools and guidance.
+The article must include the strongest good-faith objection before advancing its own conclusion. The objection should not be caricatured or treated as a straw target.
 
+## Editorial Judgment
+
+Approved for substantive temporary publication after source-gated expansion. Still requires Chief Editor final review before permanent issue approval.

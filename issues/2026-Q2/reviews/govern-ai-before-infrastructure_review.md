@@ -2,33 +2,31 @@
 issue: "2026-Q2"
 slug: "govern-ai-before-infrastructure"
 date: "2026-06-11"
-status: checked_for_temporary_publication
+status: substantive_editorial_pass_checked
 chief_editor_status: approved_for_publication
 ---
 
-# Review: Can The World Govern AI Before It Becomes Infrastructure?
+# Editorial Review: Can The World Govern AI Before It Becomes Infrastructure?
 
 ## Argument Reconstruction
 
-- One-sentence thesis: AI governance is moving from principles to implementation just as AI systems become operating infrastructure for firms, schools, states, and platforms. The central problem is not whether rules exist, but whether institutions have the capacity to enforce, update, and legitimate them.
-- Major premise: Structurally important quarterly issues should be read through institutions, incentives, evidence, and competing interpretations.
-- Minor premise: This article applies that method to `govern-ai-before-infrastructure` using the approved source dossier and checked source links.
-- Conclusion: Approved for temporary publication, subject to later full-issue revision.
+- One-sentence thesis: AI governance is moving from principles to implementation while AI becomes operating infrastructure; the decisive question is whether public institutions can inspect, enforce, update, and legitimate rules before dependency hardens.
+- Major premise: A serious quarterly article should distinguish fact, interpretation, hypothesis, normative judgment, and speculation.
+- Minor premise: This article uses official or institutional sources for factual claims and reconstructs the best opposing view before judgment.
+- Conclusion: The article is acceptable for temporary publication as a substantive draft, not as final permanent approval.
 
-## Fact Checker
+## Fact Check
 
-- Source links were verified at the temporary-publication stage.
-- Claims are limited to what cited institutional or high-quality wire sources can support.
+Source links were verified or rechecked during the June 11, 2026 substantive pass. Factual claims are limited to the listed institutional, official, or high-quality wire sources.
 
-## Statistics Checker
+## Statistics Check
 
-- Statistical claims are stated with source, date, geography, and limitation where applicable.
-- This temporary version avoids unsupported causal estimates.
+Adoption data do not prove productivity growth. EU implementation dates are legal timelines, not evidence of enforcement effectiveness.
 
 ## Dissent Editor
 
-- Strongest opposing view is included in the article body.
+The article includes or requires a strong opposing view. The opposition is treated as a real analytical challenge, not as decoration.
 
 ## Style Editor
 
-- English and Korean versions preserve the same structure and are ready for temporary publication.
+The article was revised away from outline form into a magazine-style analytical draft with opening issue, evidence, competing interpretation, argument, implications, and uncertainty note.

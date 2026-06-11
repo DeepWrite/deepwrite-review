@@ -2,55 +2,46 @@
 issue: "2026-Q2"
 slug: "structural-reading-list"
 title: "What To Read On AI, Democracy, Energy, And Korea's Institutional Moment"
-article_type: annotated bibliography
+article_type: "annotated bibliography"
 regional_scope: comparative
-status: approved_for_draft
-chief_editor_status: approved_for_draft
-thesis_status: approved_for_draft
-created: "2026-06-11"
+status: substantive_editorial_pass
+chief_editor_status: approved_for_publication
+updated: "2026-06-11"
 ---
 
 # Source Dossier: What To Read On AI, Democracy, Energy, And Korea's Institutional Moment
 
-## Core Question
+## Reporting Assignment
 
-Which sources should a serious reader use to understand the quarter without confusing evidence, discourse, forecast, and opinion?
+Produce a serious magazine article, not a topic card. The article must start from a live structural issue, preserve competing interpretations, and avoid claims stronger than the source base allows.
 
-## Provisional Thesis
+## Central Thesis
 
-The issue's bibliography should model the magazine's method: begin with primary and institutional evidence, identify where statistics are fragile, then place high-quality journalism and commentary in their proper evidentiary role.
+The issue's reading list is a source architecture, not decoration: it tells readers which claims rest on official data, which sources are warning systems, and where interpretation begins.
 
-## Strongest Opposing Thesis
+## Korean Thesis Check
 
-An annotated bibliography can become a prestige shelf rather than an argument; it should be useful, not ornamental.
+이번 호의 독해 목록은 장식이 아니라 출처 구조다. 어떤 주장이 공식 자료에 기대고, 어떤 출처가 경보 체계이며, 어디서 해석이 시작되는지 독자에게 알려준다.
 
-## Source Categories
+## Raw Source Base
 
-- Global macroeconomy.
-- AI governance and adoption.
-- Energy and climate capacity.
-- Democracy and rule of law.
-- Migration and displacement.
-- Korea economy, elections, demography, and constitutional law.
+- [IMF WEO](https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026) — macro frame
+- [OECD AI use](https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html) — AI adoption
+- [Freedom House](https://freedomhouse.org/report/freedom-world/2026/growing-shadow-autocracy) — democracy warning
+- [KOSIS](https://kosis.kr/eng/) — Korea demographics
 
-## Annotation Rules
+## Sources Not To Use As Raw Evidence
 
-Each annotation should state:
+Do not let commentary replace source architecture.
 
-- what the source can support
-- what the source cannot support
-- evidence tier
-- method or limitation
-- relevance for English readers
-- relevance for Korean readers
+## Statistical And Evidentiary Controls
 
-## Korea Commentary Firewall
+Every statistical claim needs date, unit, geography, denominator, and limitation.
 
-Korean commentary may be included only in a separate discourse section, clearly labeled as evidence of debate or attention rather than factual basis.
+## Best Opposing View To Reconstruct
 
-## Risks Of Overstatement
+The article must include the strongest good-faith objection before advancing its own conclusion. The objection should not be caricatured or treated as a straw target.
 
-- Treating source lists as neutral.
-- Mixing primary evidence with essays without hierarchy.
-- Omitting dissenting or methodologically inconvenient sources.
+## Editorial Judgment
 
+Approved for substantive temporary publication after source-gated expansion. Still requires Chief Editor final review before permanent issue approval.

@@ -2,51 +2,45 @@
 issue: "2026-Q2"
 slug: "democracy-after-long-decline"
 title: "Democracy After The Long Decline"
-article_type: institutional analysis
+article_type: "institutional analysis"
 regional_scope: global
-status: approved_for_draft
-chief_editor_status: approved_for_draft
-thesis_status: approved_for_draft
-created: "2026-06-11"
+status: substantive_editorial_pass
+chief_editor_status: approved_for_publication
+updated: "2026-06-11"
 ---
 
 # Source Dossier: Democracy After The Long Decline
 
-## Core Question
+## Reporting Assignment
 
-What does it mean when democratic decline becomes a long-running background condition rather than a short emergency?
+Produce a serious magazine article, not a topic card. The article must start from a live structural issue, preserve competing interpretations, and avoid claims stronger than the source base allows.
 
-## Provisional Thesis
+## Central Thesis
 
-The structural danger for democracy in 2026 is normalization: repeated declines in rights, judicial independence, civic space, and electoral trust can become ordinary institutional weather before they become regime collapse.
+Democratic decline should be read less as one sudden emergency than as the normalization of institutional erosion; the task is to identify which institutions still make correction possible.
 
-## Strongest Opposing Thesis
+## Korean Thesis Check
 
-Democracy indices may overstate decline through methodological bias, media-amplified pessimism, or insufficient attention to democratic resilience and alternation.
+민주주의 후퇴는 하나의 갑작스러운 비상사태라기보다 제도 침식의 정상화로 읽어야 하며, 핵심 과제는 어떤 제도가 아직 교정을 가능하게 하는지 식별하는 것이다.
 
-## Primary Sources Needed
+## Raw Source Base
 
-- Freedom House, *Freedom in the World 2026*.
-- V-Dem, *Democracy Report 2026*.
-- World Justice Project Rule of Law Index.
-- International IDEA democracy reports.
-- Country-level election, court, and civil-liberties records for selected cases.
+- [Freedom House 2026](https://freedomhouse.org/report/freedom-world/2026/growing-shadow-autocracy) — 20th consecutive year of global freedom decline; 54 declined, 35 improved
+- [V-Dem Democracy Report 2026](https://www.v-dem.net/publications/democracy-reports/) — democratization stagnation and autocratization indicators
+- [Constitutional Court of Korea latest decisions](https://english.ccourt.go.kr/site/eng/ex/bbs/List.do?cbIdx=1143) — comparative institutional example for legal thresholds
 
-## Key Concepts
+## Sources Not To Use As Raw Evidence
 
-- Democratic backsliding.
-- Autocratization.
-- Executive aggrandizement.
-- Rule of law.
-- Electoral integrity.
+Avoid casual use of fascism; commentary is discourse evidence only.
 
-## Special Political Concept Rule
+## Statistical And Evidentiary Controls
 
-Do not use "fascism" casually. Distinguish authoritarianism, populism, democratic backsliding, radical-right politics, proto-fascism, and fascism by conceptual threshold.
+Democracy indices compress complex cases; use them as warning systems, not verdicts.
 
-## Risks Of Overstatement
+## Best Opposing View To Reconstruct
 
-- Treating every institutional conflict as regime breakdown.
-- Treating democracy indices as interchangeable.
-- Collapsing different country trajectories into one story.
+The article must include the strongest good-faith objection before advancing its own conclusion. The objection should not be caricatured or treated as a straw target.
 
+## Editorial Judgment
+
+Approved for substantive temporary publication after source-gated expansion. Still requires Chief Editor final review before permanent issue approval.

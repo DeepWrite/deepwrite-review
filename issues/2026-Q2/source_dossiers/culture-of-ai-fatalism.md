@@ -1,50 +1,46 @@
 ---
 issue: "2026-Q2"
 slug: "culture-of-ai-fatalism"
-title: "Attention, Anxiety, And The Culture Of AI Fatalism"
-article_type: culture essay
+title: "The Culture Of AI Fatalism"
+article_type: "culture essay"
 regional_scope: global
-status: approved_for_draft
-chief_editor_status: approved_for_draft
-thesis_status: approved_for_draft
-created: "2026-06-11"
+status: substantive_editorial_pass
+chief_editor_status: approved_for_publication
+updated: "2026-06-11"
 ---
 
-# Source Dossier: Attention, Anxiety, And The Culture Of AI Fatalism
+# Source Dossier: The Culture Of AI Fatalism
 
-## Core Question
+## Reporting Assignment
 
-Why do public discussions of AI so often swing between salvation and catastrophe, and what does that do to democratic judgment?
+Produce a serious magazine article, not a topic card. The article must start from a live structural issue, preserve competing interpretations, and avoid claims stronger than the source base allows.
 
-## Provisional Thesis
+## Central Thesis
 
-AI fatalism is a cultural symptom of institutional weakness: when publics cannot see credible governance, labor adjustment, or educational redesign, technological change is narrated as destiny.
+AI fatalism appears as utopian inevitability and catastrophic inevitability; both lower expectations for democratic choice by implying institutions no longer matter.
 
-## Strongest Opposing Thesis
+## Korean Thesis Check
 
-Alarm may be rational. AI systems may pose real risks that moderate language can understate, especially when deployment is fast and accountability is weak.
+AI 숙명론은 유토피아적 필연성과 파국적 필연성의 두 형태로 나타난다. 둘 다 제도는 더 이상 중요하지 않다고 암시함으로써 민주적 선택의 기대치를 낮춘다.
 
-## Source Requirements
+## Raw Source Base
 
-- AI public-opinion surveys.
-- Platform and media studies research.
-- OECD/Stanford AI data for grounding.
-- Regulatory and corporate governance documents.
-- Selected essays and columns only as discourse evidence.
+- [OECD AI use data](https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html) — AI diffusion
+- [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) — governance possibility
+- [UN Global Dialogue on AI Governance](https://www.un.org/global-dialogue-ai-governance/en) — multilateral governance
 
-## Commentary Rule
+## Sources Not To Use As Raw Evidence
 
-Columns, opinion essays, newsletters, and cultural criticism are central to this article only as objects of analysis: they show how AI is narrated, not what AI factually does.
+Do not cite viral AI discourse as fact; cite it only as discourse if added later.
 
-## Evidence Tasks
+## Statistical And Evidentiary Controls
 
-- Distinguish expert risk assessment, public anxiety, investor rhetoric, and media framing.
-- Avoid psychologizing readers or workers without evidence.
-- Tie cultural claims to visible discourse artifacts and survey data.
+Adoption figures show diffusion, not inevitability.
 
-## Risks Of Overstatement
+## Best Opposing View To Reconstruct
 
-- Mocking anxiety that may have real material grounds.
-- Treating elite tech discourse as public culture.
-- Flattening very different AI risks into one emotional mood.
+The article must include the strongest good-faith objection before advancing its own conclusion. The objection should not be caricatured or treated as a straw target.
 
+## Editorial Judgment
+
+Approved for substantive temporary publication after source-gated expansion. Still requires Chief Editor final review before permanent issue approval.

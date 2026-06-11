@@ -2,33 +2,31 @@
 issue: "2026-Q2"
 slug: "korea-fertility-housing-pronatalism"
 date: "2026-06-11"
-status: checked_for_temporary_publication
+status: substantive_editorial_pass_checked
 chief_editor_status: approved_for_publication
 ---
 
-# Review: Fertility, Housing, And The Limits Of Pronatalism In Korea
+# Editorial Review: Korea's Fertility Rebound Is Not A Theory Of The Family
 
 ## Argument Reconstruction
 
-- One-sentence thesis: Korea's fertility problem cannot be reduced to birth incentives. Official data releases and government summaries reported a 2025 rebound in births and total fertility, but the structural question remains: can young adults form households under current housing, work, education, care, and gender arrangements?
-- Major premise: Structurally important quarterly issues should be read through institutions, incentives, evidence, and competing interpretations.
-- Minor premise: This article applies that method to `korea-fertility-housing-pronatalism` using the approved source dossier and checked source links.
-- Conclusion: Approved for temporary publication, subject to later full-issue revision.
+- One-sentence thesis: Korea's fertility rebound is real but not yet structural proof; policy should treat it as a window to repair household formation rather than as evidence that pronatalism has succeeded.
+- Major premise: A serious quarterly article should distinguish fact, interpretation, hypothesis, normative judgment, and speculation.
+- Minor premise: This article uses official or institutional sources for factual claims and reconstructs the best opposing view before judgment.
+- Conclusion: The article is acceptable for temporary publication as a substantive draft, not as final permanent approval.
 
-## Fact Checker
+## Fact Check
 
-- Source links were verified at the temporary-publication stage.
-- Claims are limited to what cited institutional or high-quality wire sources can support.
+Source links were verified or rechecked during the June 11, 2026 substantive pass. Factual claims are limited to the listed institutional, official, or high-quality wire sources.
 
-## Statistics Checker
+## Statistics Check
 
-- Statistical claims are stated with source, date, geography, and limitation where applicable.
-- This temporary version avoids unsupported causal estimates.
+Separate annual births, total fertility rate, cohort timing, marriage, and policy causality.
 
 ## Dissent Editor
 
-- Strongest opposing view is included in the article body.
+The article includes or requires a strong opposing view. The opposition is treated as a real analytical challenge, not as decoration.
 
 ## Style Editor
 
-- English and Korean versions preserve the same structure and are ready for temporary publication.
+The article was revised away from outline form into a magazine-style analytical draft with opening issue, evidence, competing interpretation, argument, implications, and uncertainty note.

@@ -2,33 +2,31 @@
 issue: "2026-Q2"
 slug: "editors-note-capacity-question"
 date: "2026-06-11"
-status: checked_for_temporary_publication
+status: substantive_editorial_pass_checked
 chief_editor_status: approved_for_publication
 ---
 
-# Review: The Quarter When Capacity Became The Question
+# Editorial Review: The Quarter When Capacity Became The Question
 
 ## Argument Reconstruction
 
-- One-sentence thesis: The 2026-Q2 issue is organized around a simple claim: the quarter's important events are not only fast, but institutionally demanding. AI, war-shadowed macroeconomics, displacement, democratic strain, and Korea's domestic questions all ask whether public institutions can absorb pressure before pressure becomes distrust.
-- Major premise: Structurally important quarterly issues should be read through institutions, incentives, evidence, and competing interpretations.
-- Minor premise: This article applies that method to `editors-note-capacity-question` using the approved source dossier and checked source links.
-- Conclusion: Approved for temporary publication, subject to later full-issue revision.
+- One-sentence thesis: The structurally important events of 2026-Q2 are best read as tests of institutional capacity: can public institutions convert acceleration, conflict, displacement, technological diffusion, democratic stress, and Korea's domestic pressures into legitimate action before pressure becomes distrust?
+- Major premise: A serious quarterly article should distinguish fact, interpretation, hypothesis, normative judgment, and speculation.
+- Minor premise: This article uses official or institutional sources for factual claims and reconstructs the best opposing view before judgment.
+- Conclusion: The article is acceptable for temporary publication as a substantive draft, not as final permanent approval.
 
-## Fact Checker
+## Fact Check
 
-- Source links were verified at the temporary-publication stage.
-- Claims are limited to what cited institutional or high-quality wire sources can support.
+Source links were verified or rechecked during the June 11, 2026 substantive pass. Factual claims are limited to the listed institutional, official, or high-quality wire sources.
 
-## Statistics Checker
+## Statistics Check
 
-- Statistical claims are stated with source, date, geography, and limitation where applicable.
-- This temporary version avoids unsupported causal estimates.
+Forecasts are conditional; displacement and AI-use figures require source, year, geography, and category. The issue frame is interpretive, not a statistical model.
 
 ## Dissent Editor
 
-- Strongest opposing view is included in the article body.
+The article includes or requires a strong opposing view. The opposition is treated as a real analytical challenge, not as decoration.
 
 ## Style Editor
 
-- English and Korean versions preserve the same structure and are ready for temporary publication.
+The article was revised away from outline form into a magazine-style analytical draft with opening issue, evidence, competing interpretation, argument, implications, and uncertainty note.

@@ -4,51 +4,45 @@ slug: "govern-ai-before-infrastructure"
 title: "Can The World Govern AI Before It Becomes Infrastructure?"
 article_type: "technology and society essay"
 regional_scope: global
-status: approved_for_draft
-chief_editor_status: approved_for_draft
-thesis_status: approved_for_draft
-created: "2026-06-11"
+status: substantive_editorial_pass
+chief_editor_status: approved_for_publication
+updated: "2026-06-11"
 ---
 
 # Source Dossier: Can The World Govern AI Before It Becomes Infrastructure?
 
-## Core Question
+## Reporting Assignment
 
-Can governance institutions shape AI while AI is moving from application layer into social, economic, educational, and administrative infrastructure?
+Produce a serious magazine article, not a topic card. The article must start from a live structural issue, preserve competing interpretations, and avoid claims stronger than the source base allows.
 
-## Provisional Thesis
+## Central Thesis
 
-AI governance is shifting from principles to implementation at the same time AI systems are becoming embedded infrastructure; the central problem is not whether regulation exists, but whether institutional capacity can match deployment speed across jurisdictions.
+AI governance is moving from principles to implementation while AI becomes operating infrastructure; the decisive question is whether public institutions can inspect, enforce, update, and legitimate rules before dependency hardens.
 
-## Strongest Opposing Thesis
+## Korean Thesis Check
 
-Premature governance may freeze incumbent advantage, burden smaller developers, and create symbolic compliance without improving safety or accountability.
+AI가 작동 인프라가 되는 동안 AI 거버넌스는 원칙에서 실행으로 이동하고 있다. 결정적 질문은 의존이 굳어지기 전에 공적 제도가 규칙을 점검하고 집행하고 갱신하고 정당화할 수 있는가이다.
 
-## Primary Sources Needed
+## Raw Source Base
 
-- UN Global Dialogue on AI Governance.
-- OECD.AI Policy Observatory.
-- OECD AI Principles and policy toolkit.
-- EU AI Act official implementation timeline.
-- Stanford HAI AI Index.
-- National AI strategy documents for selected jurisdictions.
+- [UN Global Dialogue on AI Governance](https://www.un.org/global-dialogue-ai-governance/en) — multilateral governance process; Geneva July 2026
+- [European Commission AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) — risk-based framework and implementation timeline
+- [OECD AI use data](https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html) — student, individual, firm adoption
+- [Stanford HAI AI Index 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report) — broad AI trend reference
+- [UNESCO generative AI education guidance](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research) — education governance context
 
-## Academic Sources Needed
+## Sources Not To Use As Raw Evidence
 
-- AI governance and regulatory capacity literature.
-- Infrastructure studies and platform governance literature.
-- Comparative technology regulation scholarship.
+Company blog posts, model-launch marketing, and Korean/English commentary may be used later only to reconstruct discourse or stakeholder incentives.
 
-## Relevant Statistics
+## Statistical And Evidentiary Controls
 
-- Firm AI adoption rates.
-- Policy initiative counts by jurisdiction.
-- AI incident data where methodologically reliable.
-- Investment and compute-related indicators.
+Adoption data do not prove productivity growth. EU implementation dates are legal timelines, not evidence of enforcement effectiveness.
 
-## Risks Of Overstatement
+## Best Opposing View To Reconstruct
 
-- Assuming a single global governance system is feasible.
-- Treating legislation as enforcement capacity.
-- Treating AI risk as one category rather than many distinct institutional problems.
+The article must include the strongest good-faith objection before advancing its own conclusion. The objection should not be caricatured or treated as a straw target.
 
+## Editorial Judgment
+
+Approved for substantive temporary publication after source-gated expansion. Still requires Chief Editor final review before permanent issue approval.
