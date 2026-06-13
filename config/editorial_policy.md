@@ -33,6 +33,18 @@ When working from Korean-language material, use Korean raw sources for facts, st
 
 The analytical frame and prose standard should remain closer to The Economist, The Atlantic, Foreign Affairs, The New Yorker, Prospect, and New Statesman than to domestic Korean column conventions.
 
+## Korean Edition Editorial Identity
+
+The Korean edition is not a translation product. It is the Korean-language version of a bilingual parallel publication. Its editorial identity is that of a serious Korean intellectual quarterly — not a domesticated version of an English-language magazine.
+
+This has two implications.
+
+First, the Korean edition must meet the Korean prose standard defined in `config/style_guide_ko.md`. 번역투 (translation-ese) is a failure mode even when content is accurately reflected. Editors responsible for the Korean edition are responsible for prose quality, not only content accuracy.
+
+Second, where the English edition relies on the conventions of Anglophone analytical journalism, the Korean edition should rely on the conventions of serious Korean analytical writing. Section headings, rhetorical structure, vocabulary choices, and sentence architecture should be calibrated to Korean intellectual prose, not to how those elements would appear in English.
+
+These requirements do not override the obligation to preserve thesis, argument, evidence, and uncertainty markers from the English original. They operate in addition to it. The Korean edition must be both faithful to the argument and excellent as Korean prose.
+
 ## Political Concepts
 
 Terms such as authoritarianism, democratic backsliding, proto-fascism, fascism, punitive populism, and mass resentment require conceptual thresholds. They must not be used as casual insults or as a master frame for all politics.
