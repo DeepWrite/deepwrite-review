@@ -1,41 +1,50 @@
 ---
-title: "The New Macro Fragility"
-subtitle: "The world economy is still growing, but the conditions under which it grows are becoming narrower."
-slug: "new-macro-fragility"
-issue: "2026-Q2"
-date: "2026-06-11"
+title: The New Macro Fragility
+subtitle: The world economy is still growing, but the conditions under which it grows
+  are becoming narrower.
+slug: new-macro-fragility
+issue: 2026-Q2
+date: '2026-06-11'
 language: en
-translation_of: "original"
-counterpart_url: "/ko/new-macro-fragility/"
+translation_of: original
+counterpart_url: /ko/new-macro-fragility/
 authors:
-  - "DeepWrite Review Editorial Desk"
+- DeepWrite Review Editorial Desk
 contributors:
-  - "Codex Agenda Editor"
-  - "Codex Source Researcher"
-  - "Codex Data Researcher"
-  - "Codex Economics Editor"
-  - "Codex Style Editor EN"
+- Codex Agenda Editor
+- Codex Source Researcher
+- Codex Data Researcher
+- Codex Economics Editor
+- Codex Style Editor EN
 editors:
-  - "Jeyoun Son (손제연)"
-chief_editor: "Jeyoun Son"
-chief_editor_ko: "손제연"
-ai_assistance: "Prepared with Codex editorial agents under human editorial direction."
+- Jeyoun Son (손제연)
+chief_editor: Jeyoun Son
+chief_editor_ko: 손제연
+ai_assistance: Prepared with Codex editorial agents under human editorial direction.
 tags:
-  - macroeconomics
-  - energy
-  - inflation
-  - trade
-  - global economy
-abstract: "The striking feature of the 2026 global economy is not collapse. It is conditional resilience. Growth continues, but it depends on assumptions about limited conflict, manageable energy prices, contained inflation expectations, adaptable trade, and continued technology-related investment. This makes the quarter less a story of recession than of narrowing margins."
+- macroeconomics
+- energy
+- inflation
+- trade
+- global economy
+abstract: The striking feature of the 2026 global economy is not collapse. It is conditional
+  resilience. Growth continues, but it depends on assumptions about limited conflict,
+  manageable energy prices, contained inflation expectations, adaptable trade, and
+  continued technology-related investment. This makes the quarter less a story of
+  recession than of narrowing margins.
 evidence_level: moderate
 citation_status: checked_for_temporary_publication
 translation_status: checked_for_temporary_publication
 chief_editor_status: approved_for_temporary_publication
-draft_approved_date: "2026-06-11"
-temporary_publication_approved_date: "2026-06-11"
-temporary_published_date: "2026-06-11"
+draft_approved_date: '2026-06-11'
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
 status: temporary_publication
 publication_stage: temporary
+independent_editorial_pass: '2026-06-13'
+body_generation: independent_article_structure
+assigned_agent: Economics Editor with Data Researcher
+updated: '2026-06-13'
 ---
 
 # The New Macro Fragility
@@ -52,7 +61,7 @@ The most important macroeconomic fact of 2026 is not panic but conditional resil
 
 The old language of crisis is too blunt. The better phrase is macro fragility: a condition in which the system keeps working, but with less room for error.
 
-## Opening Issue
+## Resilience With Less Margin
 
 After the pandemic, the world economy acquired a reputation for surprise. It endured supply-chain disruption, inflation, interest-rate hikes, trade-policy volatility, and geopolitical shock with more resilience than many models and commentators predicted. That resilience was real. It should not be dismissed simply because the mood has darkened again.
 
@@ -66,7 +75,7 @@ The [World Bank's January 2026 Global Economic Prospects](https://openknowledge.
 
 These are not identical forecasts. They use different assumptions, dates, models, and scenarios. Their common message is more important than their differences: the global economy is growing, but the margin of safety has thinned.
 
-## Central Question
+## An Economy That Grows Under Conditions
 
 What kind of economy grows while becoming more fragile?
 
@@ -76,7 +85,7 @@ This matters because macroeconomic policy works best when problems can be separa
 
 The policy problem is therefore not simply choosing between growth and inflation. It is governing a world in which the old tradeoffs have become stacked.
 
-## Conceptual Clarification
+## Fragility Is Not Crisis
 
 Fragility is not the same as crisis.
 
@@ -84,7 +93,7 @@ A crisis is visible. It produces sudden institutional failure, market seizure, o
 
 This distinction matters because crisis language encourages drama, while fragility requires maintenance. It asks less spectacular questions: Are fiscal buffers adequate? Are energy systems flexible? Are supply chains diversified without becoming wasteful? Are central banks credible? Are households exhausted? Are developing economies being asked to absorb a world of higher rates, weaker demand, and climate risk with too little room to maneuver?
 
-## Evidence
+## Forecasts As Conditional Maps
 
 The strongest evidence for fragility is the conditional language of the major outlooks.
 
@@ -98,7 +107,7 @@ Energy is the most direct transmission channel. Higher oil, gas, or shipping cos
 
 Technology investment complicates the story. AI-related investment may support growth and explain why some advanced and export-oriented economies continue to show strength. But if that investment is concentrated in firms, regions, and supply chains with privileged access to capital, chips, and electricity, it can coexist with broader social and regional weakness.
 
-## Competing Interpretations
+## Four Readings Of Resilience
 
 The first interpretation is the resilience view. The world economy has repeatedly absorbed shocks. Firms have adapted. Consumers have adjusted. Central banks have learned from the inflation surge. Technology investment is adding a new source of demand. The right response is not pessimism but institutional confidence.
 
@@ -108,7 +117,7 @@ The third interpretation is the fragmentation view. The old global economy is no
 
 The fourth interpretation is the capacity view. The issue is not one macro variable but the ability of states, firms, and households to manage simultaneous adjustment. The world can grow and still become more difficult to govern.
 
-## Best Opposing View
+## The Adaptation Case
 
 The strongest objection is that "fragility" may be a polite name for pessimism.
 
@@ -118,7 +127,7 @@ This objection is important because it guards against a common editorial vice: m
 
 But the objection fails if it treats resilience as costless. Adaptation consumes resources. Higher inventories, duplicated supply chains, defense spending, energy subsidies, industrial policy, and climate adaptation all have opportunity costs. A world can be resilient in the sense that it does not collapse, while fragile in the sense that more of its political and fiscal capacity is spent merely keeping the system tolerable.
 
-## Argument
+## From Easy Resilience To Managed Fragility
 
 The global economy has moved from easy resilience to managed fragility.
 
@@ -132,7 +141,7 @@ That middle condition is especially hard for democracies. Democracies need time 
 
 This is why macro fragility belongs in the same issue as AI, democracy, displacement, and Korea's institutional moment. It is the economic background against which every other institutional question becomes more difficult.
 
-## Policy Or Civic Implications
+## What Policymakers Should Stop Hiding
 
 First, policymakers should stop speaking as if growth alone resolves legitimacy. Positive GDP growth does not answer distributional stress, regional decline, or household insecurity.
 
@@ -144,7 +153,7 @@ Fourth, technology investment should be evaluated not only by private return but
 
 Fifth, public communication should distinguish forecasts from promises. The major outlooks are scenarios with assumptions. They should be read as maps of conditional risk, not as prophecies.
 
-## Evidence Strength
+## What Forecasts Can Bear
 
 Overall evidence level: moderate.
 
@@ -167,19 +176,19 @@ Contested or incomplete claims:
 - Whether inflation expectations will remain anchored if energy disruption persists.
 - The distribution of macro stress between advanced economies and emerging markets.
 
-## Uncertainty Note
+## Forecasts Are Not Observations
 
 This article relies on institutional forecasts. Forecasts are useful because they make assumptions explicit, but they are not direct observations. Permanent issue review should compare IMF, OECD, World Bank, and central-bank assumptions before the article makes any stronger claim about the magnitude of global slowdown.
 
 This article should also avoid collapsing different regions into one global mood. Europe, the United States, China, India, Korea, and developing economies face different combinations of energy exposure, fiscal space, trade structure, and technology investment.
 
-## Further Reading
+## Sources For Conditional Resilience
 
 - [International Monetary Fund, *World Economic Outlook: Global Economy in the Shadow of War*, April 2026](https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026)
 - [OECD, *Economic Outlook, Volume 2026 Issue 1*, June 2026](https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6.html)
 - [World Bank, *Global Economic Prospects*, January 2026](https://openknowledge.worldbank.org/entities/publication/bb904ec6-730f-4dd9-b1af-ad3153ee1616)
 - [International Energy Agency, *Global Energy Review 2026*](https://www.iea.org/reports/global-energy-review-2026)
 
-## Citations
+## How To Read The Forecasts
 
 This temporary-publication version uses institutional forecasts as evidence of structured expectations, not as direct proof of future outcomes. Permanent issue fact-check should verify all forecast figures against the full reports and record scenario assumptions in the evidence log.

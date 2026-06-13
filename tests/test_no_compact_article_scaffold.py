@@ -17,12 +17,53 @@ FORBIDDEN_PUBLIC_PHRASES = [
     "임시 발행은 검토를 우회",
 ]
 
+FORBIDDEN_GENERATED_HEADINGS = [
+    "## Opening Issue",
+    "## Central Question",
+    "## Conceptual Clarification",
+    "## Evidence",
+    "## Competing Interpretations",
+    "## Policy Or Civic Implications",
+    "## Citations",
+    "## Best Opposing View",
+    "## Argument",
+    "## Evidence Strength",
+    "## Uncertainty Note",
+    "## Further Reading",
+    "## 가장 강한 반론",
+    "## 주장",
+    "## 근거 강도",
+    "## 불확실성 노트",
+    "## 더 읽을 자료",
+    "## 정책적·시민적 함의",
+]
+
+FORBIDDEN_GENERATED_HEADING_SET = set(FORBIDDEN_GENERATED_HEADINGS)
+
 
 def test_compact_generation_functions_are_retired():
     for path in (ROOT / "pipelines").glob("*.py"):
         text = read_text(path)
         assert "make_compact_en" not in text, path
         assert "make_compact_ko" not in text, path
+
+
+def test_independent_rewrite_pipeline_does_not_emit_generic_headings():
+    text = read_text(ROOT / "pipelines" / "rewrite_2026_q2_independent_articles.py")
+    for line in text.splitlines():
+        assert line.strip() not in FORBIDDEN_GENERATED_HEADING_SET
+
+
+def test_q2_article_files_do_not_retain_generic_headings():
+    article_roots = [
+        ROOT / "issues" / "2026-Q2" / "drafts",
+        ROOT / "issues" / "2026-Q2" / "final",
+        ROOT / "site" / "_articles",
+    ]
+    for root in article_roots:
+        for path in root.glob("*/*.md"):
+            for line in read_text(path).splitlines():
+                assert line.strip() not in FORBIDDEN_GENERATED_HEADING_SET, path
 
 
 def test_public_articles_do_not_expose_reporting_path_notes():

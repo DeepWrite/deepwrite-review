@@ -81,21 +81,21 @@ The [Constitutional Court of Korea](https://english.ccourt.go.kr/site/eng/ex/bbs
 
 The OECD AI adoption material, OECD Digital Education Outlook, UNESCO guidance, Stanford HAI AI Index, EU AI Act, and UN Global Dialogue each carry different evidentiary burdens. Adoption data show diffusion. Education reports frame institutional response. The AI Act supplies law and implementation architecture. The UN dialogue shows multilateral process. None alone proves productivity, learning, justice, or democratic legitimacy.
 
-## Best Opposing View
+## The Anti-Checklist Objection
 
 The strongest objection to a source map is that it can make essays feel over-engineered. A magazine should have voice, selection, style, and judgment. If every paragraph stops to classify evidence, prose dies.
 
 The objection is real. But source discipline need not flatten style. It can sharpen it. A writer who knows what a source can bear can write with more confidence because the argument is not leaning on fog.
 
-## Evidence Strength
+## What Source Mapping Can Do
 
 Overall evidence level: strong as a map of source hierarchy; moderate as an annotated bibliography because several entries still require Korean full-text, dataset, and PDF-level review.
 
-## Uncertainty Note
+## A Map Is Not The Territory
 
 This list is not a closed canon. It is a working map for a temporary issue. Sources should be added, downgraded, or removed as dossiers mature.
 
-## Further Reading
+## Source Base For The Issue
 
 - [IMF, World Economic Outlook, April 2026](https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026)
 - [OECD Economic Outlook, June 2026](https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6.html)

@@ -1,48 +1,38 @@
 ---
 issue: "2026-Q2"
 slug: "ai-boom-war-economy"
-date: "2026-06-11"
-status: checked_for_temporary_publication
+date: "2026-06-13"
+status: independent_rewrite_checked
 chief_editor_status: approved_for_temporary_publication
+assigned_agent: "Technology Editor with Economics Editor and Data Researcher"
 ---
 
-# Review: The AI Boom Meets The War Economy
+# Editorial Review: The AI Boom Meets The War Economy
 
-## Current State
+## Independent Agent Check
 
-Final English version created in `issues/2026-Q2/final/en/ai-boom-war-economy.md` and approved for temporary publication.
+The June 13 repair assigns the article to the Technology Editor with Economics Editor and Data Researcher and removes the previous compact-body section scaffold. The public English text now uses article-specific section headings and keeps source-limit, reporting-path, and development notes in this review or the source dossier.
 
-## Argument Reconstruction
+## Relocated Development Notes
 
-- One-sentence thesis: AI is becoming infrastructure under conditions of geopolitical and macroeconomic scarcity, making institutional capacity the central issue.
-- Major premise: General-purpose technologies become politically decisive when they require large-scale institutional, energy, capital, and labor adjustment.
-- Minor premise: In 2026, AI is diffusing rapidly while the world economy faces war risk, energy pressure, weaker growth, and trade uncertainty.
-- Conclusion: The AI boom should be analyzed less as pure software innovation and more as a test of institutional capacity inside a war-shadowed economy.
-- Strongest objection: AI may be the productivity engine that helps societies overcome scarcity rather than a new source of fragility.
-- Best reply: Productivity gains are possible, but their distribution and legitimacy depend on energy, labor, competition, and public-governance institutions.
-- Hidden assumption: Institutional capacity, not model capability alone, determines the social meaning of AI.
-- Possible weak link: The draft links AI infrastructure and macro fragility conceptually, but causal evidence remains limited.
+The following items are retained as review or dossier tasks, not public-article prose:
 
-## Fact-Check Queue
+- Keep the technology editor focused on compute, grids, data centres, chips, model deployment, and bottlenecks below the application layer.
+- Keep the economics editor focused on investment, productivity uncertainty, energy prices, competition, fiscal tradeoffs, and regional distribution.
+- Use data-researcher review to distinguish data-centre electricity demand from AI-specific demand and AI adoption from productivity gains.
 
-- Verify IMF growth figures and wording against the full WEO text.
-- Verify OECD growth figures and scenario assumptions against the full June outlook.
-- Verify IEA data-centre electricity figures and distinguish all data centres from AI-focused data centres.
-- Verify OECD AI adoption denominator and country coverage.
+## Fact Check
 
-## Statistics Check Queue
+The article links factual claims to the raw source base listed in its dossier. Claims that require fuller tables, institutional implementation evidence, or disaggregated data are marked as provisional or deferred.
 
-- Do not compare IMF and OECD forecasts without noting different assumptions.
-- Do not infer productivity effects from adoption data.
-- Do not attribute all data-centre electricity demand to AI.
+## Statistics Check
 
-## Dissent Editor Queue
+Do not treat all data-centre demand as AI demand, all AI adoption as productivity gain, or all technology investment as broad social benefit.
 
-- Strengthen the productivity-positive case.
-- Ask whether the draft underplays the possibility that AI investment offsets war-economy drag.
-- Ask whether "war economy" is too broad unless more precisely defined.
+## Dissent Editor
 
-## Style Editor Queue
+The article includes a opposition section that states the strongest good-faith objection before the article's argument proceeds.
 
-- Check whether the leader essay is too long for its slot.
-- Preserve restraint; avoid turning infrastructure pressure into anti-AI mood.
+## Style Editor
+
+The article was revised away from generic dossier language and repeated process headings. Remaining limitations are handled in evidence, uncertainty, and dossier sections.

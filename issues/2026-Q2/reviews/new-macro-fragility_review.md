@@ -1,48 +1,38 @@
 ---
 issue: "2026-Q2"
 slug: "new-macro-fragility"
-date: "2026-06-11"
-status: checked_for_temporary_publication
+date: "2026-06-13"
+status: independent_rewrite_checked
 chief_editor_status: approved_for_temporary_publication
+assigned_agent: "Economics Editor with Data Researcher"
 ---
 
-# Review: The New Macro Fragility
+# Editorial Review: The New Macro Fragility
 
-## Current State
+## Independent Agent Check
 
-Final English version created in `issues/2026-Q2/final/en/new-macro-fragility.md` and approved for temporary publication.
+The June 13 repair assigns the article to the Economics Editor with Data Researcher and removes the previous compact-body section scaffold. The public English text now uses article-specific section headings and keeps source-limit, reporting-path, and development notes in this review or the source dossier.
 
-## Argument Reconstruction
+## Relocated Development Notes
 
-- One-sentence thesis: The 2026 global economy is not collapsing but becoming conditionally resilient, with growth dependent on increasingly narrow assumptions.
-- Major premise: An economy becomes fragile when it can continue operating only under a narrower range of favorable conditions.
-- Minor premise: In 2026, global growth forecasts depend on limited conflict, manageable energy prices, anchored inflation, adaptable trade, and continuing technology investment.
-- Conclusion: The central macro story of the quarter is managed fragility rather than ordinary slowdown or dramatic crisis.
-- Strongest objection: The world economy has repeatedly adapted to shocks; fragility may understate actual resilience.
-- Best reply: Adaptation is real but costly, and repeated shock absorption can consume fiscal, household, institutional, and political buffers.
-- Hidden assumption: Policy margins and institutional buffers matter as much as headline GDP growth.
-- Possible weak link: The draft needs more regional differentiation before final publication.
+The following items are retained as review or dossier tasks, not public-article prose:
 
-## Fact-Check Queue
+- Use the economics editor role to distinguish forecast assumptions, observed outcomes, regional heterogeneity, and policy buffers.
+- Use data-researcher review to avoid merging IMF, OECD, World Bank, energy, and central-bank series as if they share one scenario.
+- In permanent review, add regional differentiation and central-bank source checks before stronger claims about slowdown magnitude.
 
-- Verify IMF growth and inflation wording against full WEO.
-- Verify OECD June growth projections and time-limited disruption scenario.
-- World Bank January 2026 source page verified; removed an unsafe numerical phrasing that could be confused with related-item text from the January 2025 report.
-- Add central-bank and energy data only after source review.
+## Fact Check
 
-## Statistics Check Queue
+The article links factual claims to the raw source base listed in its dossier. Claims that require fuller tables, institutional implementation evidence, or disaggregated data are marked as provisional or deferred.
 
-- Do not merge IMF, OECD, and World Bank forecasts as if they share identical assumptions.
-- Separate observed 2025 data from 2026-27 projections.
-- Mark all forecast numbers as conditional.
+## Statistics Check
 
-## Dissent Editor Queue
+Forecast evidence is conditional and scenario-dependent. It is evidence of structured expectations, not direct proof of future outcomes.
 
-- Strengthen the adaptation/resilience counterargument.
-- Ask whether "fragility" is too broad unless operationalized.
-- Add at least one case where resilience is genuinely strong.
+## Dissent Editor
 
-## Style Editor Queue
+The article includes a opposition section that states the strongest good-faith objection before the article's argument proceeds.
 
-- Watch for overuse of abstract nouns.
-- Keep the essay anchored in forecasts and institutional constraints.
+## Style Editor
+
+The article was revised away from generic dossier language and repeated process headings. Remaining limitations are handled in evidence, uncertainty, and dossier sections.

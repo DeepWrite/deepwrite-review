@@ -74,13 +74,13 @@ Indices can tell readers where to look. They cannot by themselves explain why in
 
 A serious magazine article should therefore use indices as a first map. The terrain is institutional behavior. What matters is whether the next dispute can be resolved through ordinary public mechanisms without each side treating loss as illegitimate.
 
-## Best Opposing View
+## The Index Skeptic's Case
 
 The strongest objection is that democracy warnings can become self-serving. Governments disliked by liberal NGOs may be marked as backsliding while structural failures in established democracies receive softer language. Expert coding may reproduce professional-class assumptions about courts, rights, and media. Some voters may see institutional restraints not as democracy but as elite insulation.
 
 This objection should be taken seriously. Democratic language has often been used to discipline electorates rather than to understand them. Yet the objection does not erase the problem. If courts, election administrators, journalists, and opposition parties become permanent enemies, voters do not gain sovereignty. They inherit a system in which one victory can disable future correction.
 
-## Argument
+## Correction As The Democratic Test
 
 The central democratic question after a long decline is not whether every threatened system has already ceased to be democratic. It is which systems remain correctable.
 
@@ -88,21 +88,21 @@ Correctability is a practical test. Can an opposition win and take office? Can a
 
 This is a less theatrical language than "democracy dies." It is also more exact. The first duty of democratic analysis is to preserve thresholds. Populism is not automatically authoritarianism. Authoritarianism is not automatically fascism. Fascism should be reserved for a narrower political formation involving anti-liberal mass mobilization, exclusionary national myth, organized coercion, and subordination of institutions to a totalizing project. Imprecision may feel morally satisfying; it weakens diagnosis.
 
-## Policy Or Civic Implications
+## What Democratic Readers Should Watch
 
 Watch institutions before slogans. Election bodies, courts, prosecutors, public broadcasters, audit agencies, police chains of command, and local governments are not procedural furniture. They are the machinery through which democratic conflict remains reversible.
 
 Citizens should ask a simple question of every crisis: does this action preserve the possibility that the other side can lawfully win, govern, criticize, sue, publish, organize, and return? If the answer repeatedly narrows, the society may still look democratic while becoming less able to correct itself.
 
-## Evidence Strength
+## What Indices Can And Cannot Show
 
 Overall evidence level: moderate. High-confidence claims are limited to documented institutional reports and court summaries. The interpretive claim, that normalization of erosion is the central danger, is stronger than a mood judgment but weaker than a country-level causal proof.
 
-## Uncertainty Note
+## Country Mechanisms Still Matter
 
 This article does not claim democracy is collapsing everywhere. It argues that a twenty-year pattern of decline changes the editorial question: where does correction still work, and where is it being habituated out of public life?
 
-## Further Reading
+## Sources On Democratic Correction
 
 - [Freedom House, Freedom in the World 2026](https://freedomhouse.org/report/freedom-world/2026/growing-shadow-autocracy)
 - [V-Dem, Democracy Report 2026](https://www.v-dem.net/publications/democracy-reports/)

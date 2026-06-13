@@ -77,13 +77,13 @@ Return can mean durable homecoming: safety, property access, school, livelihood,
 
 The same caution applies to integration. Local integration is not the mere passage of time. It requires work rights, education, health access, language or administrative support, political consent, and a path out of permanent exception.
 
-## Best Opposing View
+## The Improvement Case
 
 The strongest opposing view says this analysis risks minimizing improvement. If totals fall and returns increase, surely the system has achieved something. Host states cannot integrate everyone; wealthy states face political limits; international agencies must count progress where progress is real.
 
 That argument is right to resist despair. Humanitarian systems can save lives, restore families, and support return. But it fails if it treats exit from emergency statistics as settlement. The right measure is not whether a crisis looks smaller on one page. It is whether people have recovered secure membership somewhere.
 
-## Argument
+## From Protection To Membership
 
 The modern displacement system has more instruments for protection than for settlement. Protection keeps people alive. Settlement gives them a civic future.
 
@@ -97,15 +97,15 @@ Coverage should stop using displacement numbers as moral atmosphere. It should s
 
 Above all, it should avoid the comfort of a single humanitarian emotion. Pity is not policy. Border fear is not policy. Durable membership is policy.
 
-## Evidence Strength
+## What The Displacement Numbers Support
 
 Overall evidence level: moderate to strong for aggregate displacement categories; moderate for the interpretation that civic suspension is the central structural problem. Country-specific claims require further disaggregation.
 
-## Uncertainty Note
+## Return Is Not One Thing
 
 This article does not claim all returns are unsafe or all host states can integrate everyone. It claims that displacement remains unresolved when the endpoint is temporary protection rather than secure membership.
 
-## Further Reading
+## Sources On Durable Settlement
 
 - [UNHCR, Global Trends](https://www.unhcr.org/us/global-trends)
 - [UNHCR, Refugee Data Finder](https://www.unhcr.org/refugee-statistics)

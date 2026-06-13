@@ -84,13 +84,13 @@ The BOK's communication is also a warning. The same release that notes semicondu
 
 This means the welfare-state opportunity is real but constrained. Permanent commitments need revenue, not just cyclical confidence. Transfers can help households, but if housing supply, care capacity, and labor-market rules do not change, money may leak into prices or temporary relief.
 
-## Best Opposing View
+## The Strategic-Industry Caution
 
 The strongest opposing view says Korea should not burden a strategic industry with social expectations. Semiconductors face fierce competition, energy constraints, export controls, China risk, U.S. pressure, and enormous capital needs. The first duty is to keep the sector globally competitive; welfare-state debates should not dilute industrial urgency.
 
 This is a serious warning. Without industrial competitiveness, social promises become harder to fund. But the opposition becomes too narrow if it imagines competitiveness and welfare capacity as separate worlds. The legitimacy of industrial strategy depends on whether citizens see national success entering ordinary life.
 
-## Argument
+## The Boom Must Become Capacity
 
 Korea should treat the semiconductor recovery as fiscal breathing room and political leverage for social investment, not as proof that the social question has been solved.
 
@@ -98,15 +98,15 @@ The right policy vocabulary is conversion. Convert export gains into stable reve
 
 The semiconductor cycle can make this easier. It cannot do it by itself.
 
-## Evidence Strength
+## What Export Strength Can Support
 
 Overall evidence level: moderate. Strong evidence supports the existence of a chip-led recovery in 2026 forecasts. The broader argument about welfare-state conversion is interpretive and requires additional fiscal, labor, regional, and household data.
 
-## Uncertainty Note
+## The Cycle May Still Turn
 
 This article does not claim semiconductor strength will fade soon or that welfare policy should override industrial policy. It claims the boom's political meaning depends on whether it becomes social capacity.
 
-## Further Reading
+## Sources On Industry And Welfare Capacity
 
 - [Bank of Korea, May 28 2026 Monetary Policy Decision](https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10098190&programType=newsDataEng&relate=Y)
 - [KDI Economic Outlook 2026-1st Half](https://www.kdi.re.kr/eng/research/economy)

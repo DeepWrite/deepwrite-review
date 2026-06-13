@@ -39,6 +39,10 @@ publication_stage: temporary
 article_type: editor's note
 regional_scope: comparative
 substantive_editorial_pass: '2026-06-11'
+independent_editorial_pass: '2026-06-13'
+body_generation: independent_article_structure
+assigned_agent: Final Managing Editor with Source Researcher
+updated: '2026-06-13'
 ---
 
 # The Quarter When Capacity Became The Question
@@ -55,7 +59,7 @@ The 2026-Q2 issue is organized around one editorial judgment. The important ques
 
 This frame links AI governance, a war-shadowed world economy, forced displacement, democratic erosion, Korea's local elections, Korea's semiconductor recovery, fertility, constitutional adjudication, universities after generative AI, and the culture of AI fatalism. These are not the same problem. They are different problems that expose a shared weakness: institutions are being asked to absorb pressure faster than they can rebuild trust.
 
-## Opening Issue
+## Why Capacity
 
 A theme can become a trap. Editors like themes because they give shape to disorder. Readers like them because they make the quarter feel legible. But a theme can also bully the evidence. It can make unrelated developments look more coherent than they are. It can turn simultaneity into causation.
 
@@ -67,7 +71,7 @@ When [UNHCR](https://www.unhcr.org/us/global-trends) reports 117.8 million forci
 
 The quarter's structure is therefore not crisis alone. It is the widening gap between acceleration and absorption.
 
-## Central Question
+## Problems That Became Institutional Tests
 
 What changed this quarter is that more public problems became simultaneously material, administrative, and legitimacy-sensitive.
 
@@ -75,7 +79,7 @@ AI is not just software. It is electricity, chips, procurement, standards, audit
 
 The repeated question is this: can institutions translate pressure into policy before citizens experience the pressure as betrayal?
 
-## Conceptual Clarification
+## Seven Capacities
 
 Capacity has at least seven components.
 
@@ -83,7 +87,7 @@ First, factual capacity: statistical systems, public data, administrative record
 
 These forms of capacity are not automatically democratic. A capable state can be cruel. A technically sophisticated system can be unjust. But democratic judgment without capacity becomes performance. Rights without institutions become slogans. Public promises without fiscal and administrative design become cynicism.
 
-## Evidence
+## Source Hierarchy For The Issue
 
 The issue's evidence base is deliberately institutional. For macroeconomic claims, it uses the IMF, OECD, and World Bank as conditional forecasts and risk maps, not as prophecy. For displacement, it uses UNHCR categories and denominators. For democracy, it uses Freedom House and V-Dem as warning systems, not as replacements for country analysis. For AI, it uses OECD adoption data, the EU AI Act, the UN Global Dialogue, UNESCO, and Stanford HAI as sources on diffusion and governance. For Korea, it privileges the Bank of Korea, KOSIS, the Ministry of Data and Statistics, the National Election Commission, and the Constitutional Court over commentary.
 
@@ -91,7 +95,7 @@ This hierarchy matters. If an article says Korea's fertility problem is structur
 
 The evidence supports disciplined concern, not theatrical certainty. The world economy is not collapsing, but the margin is narrower. AI is not merely hype, but productivity effects remain uneven and institution-dependent. Democracy is not dead everywhere, but repeated erosion changes what people learn to accept. Korea's births have improved from very low levels, but one rebound does not repair the conditions of family formation.
 
-## Competing Interpretations
+## Speed, Exhaustion, Fragmentation
 
 The acceleration view says speed is the central fact. Technology, war risk, capital, and political reaction are moving faster than institutions can adapt.
 
@@ -101,13 +105,13 @@ The fragmentation view says the common world is breaking apart into rival system
 
 The capacity view, used here, says these are connected. Speed, fatigue, and fragmentation matter politically because they test institutions. The question is not whether things move quickly. It is whether public systems can still make change governable.
 
-## Best Opposing View
+## The Technocracy Objection
 
 The strongest objection is that "capacity" can become a polite word for technocracy. It can privilege administrators over citizens, competence over justice, order over conflict, and expertise over democratic argument. Some failures are not failures of competence. They are failures of power, distribution, representation, or moral courage.
 
 That objection is right. Capacity is not virtue. But its opposite is not justice. A democracy that cannot implement its promises will not remain trusted. A court that cannot explain its reasoning will not command legitimacy. A school that cannot say what it assesses will not educate. A welfare state that cannot count costs will not endure. The point is not to replace politics with administration. It is to make democratic politics capable of acting.
 
-## Argument
+## The Issue As Institutional Absorption
 
 The structural politics of 2026 are increasingly politics of institutional absorption.
 
@@ -117,21 +121,21 @@ That is why the issue moves between global and Korean subjects. Korea is not a l
 
 A serious quarterly should not reassure readers that everything will be fine. Nor should it train them in helplessness. It should show where decisions remain possible, which evidence is strong, which claims are premature, and which institutions deserve attention before the next shock arrives.
 
-## Policy Or Civic Implications
+## How To Read The Issue
 
 Readers should treat forecasts as conditional arguments. They should ask institutional questions before ideological ones: who has authority, what data are used, what denominator matters, who pays, what can be appealed, what happens if the policy fails? They should read Korean issues through raw official sources before commentary. They should treat bilingual publication as editorial responsibility, not format.
 
-## Evidence Strength
+## What The Issue Frame Can Support
 
 Overall evidence level: moderate.
 
 High confidence: the issue's core pressures are documented by institutional sources. Moderate confidence: institutional capacity is the most useful organizing frame for the quarter. Contested: capacity does not explain everything; ideology, class, leadership, geopolitics, and power still matter.
 
-## Uncertainty Note
+## Where The Frame May Break
 
 This is a substantive temporary-publication editor's note, not a final declaration of the magazine's permanent line. Later revision should change the frame if deeper source dossiers point elsewhere.
 
-## Further Reading
+## Sources Behind The Issue Frame
 
 - [IMF, World Economic Outlook, April 2026](https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026)
 - [OECD, Economic Outlook, Volume 2026 Issue 1](https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6.html)

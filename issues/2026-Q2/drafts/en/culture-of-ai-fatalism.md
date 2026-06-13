@@ -69,13 +69,13 @@ AI fatalism flourishes because acceleration feels real. Students use tools befor
 
 The mood is therefore understandable. But understandable moods can still mislead. A fast change is not the same as a settled future.
 
-## Best Opposing View
+## The Realism Objection
 
 The strongest opposing view says fatalism is a straw man. The real danger is denial. Institutions that keep debating too long will fail their students, workers, companies, and citizens. Adaptation is not surrender; it is realism.
 
 This objection is partly right. Refusing to adapt is irresponsible. But adaptation without choice is not realism. It is obedience. The question is not whether AI should be used. It is under what terms, for whose benefit, with which rights, and with what capacity to revise mistakes.
 
-## Argument
+## Agency Against Inevitability
 
 The culture of AI fatalism should be resisted because it weakens democratic agency at the moment when institutions need more of it.
 
@@ -83,15 +83,15 @@ A society can recognize capability gains and still govern procurement. It can te
 
 Fatalism is not a description of the future. It is a way of closing the present.
 
-## Evidence Strength
+## What Diffusion Evidence Can Show
 
 Overall evidence level: moderate. Adoption and diffusion are well documented by institutional sources. Claims about fatalism as cultural politics are interpretive and should be strengthened in later revisions through systematic discourse evidence.
 
-## Uncertainty Note
+## Fatalism Needs Discourse Evidence
 
 This article does not deny AI's importance. It denies that importance settles governance. The more consequential the technology becomes, the less acceptable fatalism should be.
 
-## Further Reading
+## Sources On AI Mood And Governance
 
 - [Stanford HAI, 2026 AI Index Report](https://hai.stanford.edu/ai-index/2026-ai-index-report)
 - [OECD, AI use by individuals and firms](https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html)

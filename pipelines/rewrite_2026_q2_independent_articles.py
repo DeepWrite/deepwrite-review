@@ -8,7 +8,7 @@ from lib import ISSUES, copy_approved_articles_to_site, dump_front_matter, read_
 
 
 ISSUE = "2026-Q2"
-TODAY = "2026-06-12"
+TODAY = "2026-06-13"
 BASE = ISSUES / ISSUE
 RETIRED_EN_BUILDER = "make_" + "compact_en"
 RETIRED_KO_BUILDER = "make_" + "compact_ko"
@@ -102,13 +102,13 @@ ARTICLES: list[IndependentArticle] = [
 
             A serious magazine article should therefore use indices as a first map. The terrain is institutional behavior. What matters is whether the next dispute can be resolved through ordinary public mechanisms without each side treating loss as illegitimate.
 
-            ## Best Opposing View
+            ## The Index Skeptic's Case
 
             The strongest objection is that democracy warnings can become self-serving. Governments disliked by liberal NGOs may be marked as backsliding while structural failures in established democracies receive softer language. Expert coding may reproduce professional-class assumptions about courts, rights, and media. Some voters may see institutional restraints not as democracy but as elite insulation.
 
             This objection should be taken seriously. Democratic language has often been used to discipline electorates rather than to understand them. Yet the objection does not erase the problem. If courts, election administrators, journalists, and opposition parties become permanent enemies, voters do not gain sovereignty. They inherit a system in which one victory can disable future correction.
 
-            ## Argument
+            ## Correction As The Democratic Test
 
             The central democratic question after a long decline is not whether every threatened system has already ceased to be democratic. It is which systems remain correctable.
 
@@ -116,21 +116,21 @@ ARTICLES: list[IndependentArticle] = [
 
             This is a less theatrical language than "democracy dies." It is also more exact. The first duty of democratic analysis is to preserve thresholds. Populism is not automatically authoritarianism. Authoritarianism is not automatically fascism. Fascism should be reserved for a narrower political formation involving anti-liberal mass mobilization, exclusionary national myth, organized coercion, and subordination of institutions to a totalizing project. Imprecision may feel morally satisfying; it weakens diagnosis.
 
-            ## Policy Or Civic Implications
+            ## What Democratic Readers Should Watch
 
             Watch institutions before slogans. Election bodies, courts, prosecutors, public broadcasters, audit agencies, police chains of command, and local governments are not procedural furniture. They are the machinery through which democratic conflict remains reversible.
 
             Citizens should ask a simple question of every crisis: does this action preserve the possibility that the other side can lawfully win, govern, criticize, sue, publish, organize, and return? If the answer repeatedly narrows, the society may still look democratic while becoming less able to correct itself.
 
-            ## Evidence Strength
+            ## What Indices Can And Cannot Show
 
             Overall evidence level: moderate. High-confidence claims are limited to documented institutional reports and court summaries. The interpretive claim, that normalization of erosion is the central danger, is stronger than a mood judgment but weaker than a country-level causal proof.
 
-            ## Uncertainty Note
+            ## Country Mechanisms Still Matter
 
             This article does not claim democracy is collapsing everywhere. It argues that a twenty-year pattern of decline changes the editorial question: where does correction still work, and where is it being habituated out of public life?
 
-            ## Further Reading
+            ## Sources On Democratic Correction
 
             - [Freedom House, Freedom in the World 2026](https://freedomhouse.org/report/freedom-world/2026/growing-shadow-autocracy)
             - [V-Dem, Democracy Report 2026](https://www.v-dem.net/publications/democracy-reports/)
@@ -165,13 +165,13 @@ ARTICLES: list[IndependentArticle] = [
 
             그러므로 진지한 잡지는 지수를 첫 지도처럼 사용해야 한다. 실제 지형은 제도 행동이다. 다음 갈등이 평범한 공적 절차로 해결될 수 있는가, 패배가 곧 불법으로 번역되지 않는가가 중요하다.
 
-            ## 가장 강한 반론
+            ## 지수 회의론자의 반론
 
             가장 강한 반론은 민주주의 경고가 자기편 언어가 될 수 있다는 것이다. 자유주의 NGO가 싫어하는 정부는 후퇴로 표시되고, 오래된 민주국가의 구조적 실패에는 더 부드러운 말이 쓰일 수 있다. 전문가 코딩은 법원, 권리, 미디어에 관한 전문직 계층의 전제를 반복할 수 있다. 어떤 유권자는 제도적 제약을 민주주의가 아니라 엘리트 방어막으로 볼 수 있다.
 
             이 반론은 진지하다. 민주주의 언어는 때로 유권자를 이해하기보다 훈육하는 데 쓰였다. 그러나 그것이 문제를 지우지는 않는다. 법원, 선거관리자, 언론, 야당이 영구적 적으로 바뀌면 유권자는 주권을 얻는 것이 아니다. 한 번의 승리가 미래의 교정을 무력화할 수 있는 체계를 물려받는다.
 
-            ## 주장
+            ## 민주주의의 시험으로서의 교정
 
             긴 하락 이후 민주주의의 핵심 질문은 모든 위협받는 체제가 이미 민주주의를 잃었는가가 아니다. 어떤 체계가 아직 교정 가능한가이다.
 
@@ -179,21 +179,21 @@ ARTICLES: list[IndependentArticle] = [
 
             이것은 “민주주의가 죽는다”보다 덜 극적인 언어다. 그러나 더 정확하다. 민주주의 분석의 첫 의무는 기준을 지키는 것이다. 포퓰리즘은 곧 권위주의가 아니고, 권위주의는 곧 파시즘이 아니다. 파시즘은 반자유주의 대중동원, 배제적 국민 신화, 조직적 강제, 제도의 총체적 종속 같은 좁은 조건에 맞을 때 써야 한다.
 
-            ## 정책적·시민적 함의
+            ## 민주주의 독자가 보아야 할 것
 
             구호보다 제도를 보아야 한다. 선거기관, 법원, 검찰, 공영 미디어, 감사기관, 경찰 지휘체계, 지방정부는 절차적 장식이 아니다. 민주적 갈등이 되돌릴 수 있는 상태로 남게 하는 장치다.
 
             모든 위기에서 시민은 이렇게 물어야 한다. 이 행동은 상대가 합법적으로 이기고, 통치하고, 비판하고, 소송하고, 출판하고, 조직하고, 다시 돌아올 가능성을 보존하는가. 답이 반복적으로 좁아진다면 그 사회는 민주적으로 보이면서도 교정 능력을 잃고 있을 수 있다.
 
-            ## 근거 강도
+            ## 지수가 보여주는 것과 보여주지 못하는 것
 
             전체 근거 수준: 중간. 높은 확신은 제도 보고서와 법원 요약으로 확인되는 사실에 한정된다. 침식의 정상화가 핵심 위험이라는 해석은 단순한 분위기 판단보다는 강하지만 국가별 인과 증명보다는 약하다.
 
-            ## 불확실성 노트
+            ## 국가별 메커니즘은 여전히 필요하다
 
             이 글은 민주주의가 모든 곳에서 붕괴한다고 말하지 않는다. 20년에 걸친 하락 패턴이 편집 질문을 바꾼다고 말한다. 어디에서 교정이 아직 작동하며, 어디에서 교정이 공적 삶에서 습관적으로 밀려나고 있는가.
 
-            ## 더 읽을 자료
+            ## 민주적 교정에 관한 출처
 
             - [Freedom House, Freedom in the World 2026](https://freedomhouse.org/report/freedom-world/2026/growing-shadow-autocracy)
             - [V-Dem, Democracy Report 2026](https://www.v-dem.net/publications/democracy-reports/)
@@ -249,13 +249,13 @@ ARTICLES: list[IndependentArticle] = [
 
             The same caution applies to integration. Local integration is not the mere passage of time. It requires work rights, education, health access, language or administrative support, political consent, and a path out of permanent exception.
 
-            ## Best Opposing View
+            ## The Improvement Case
 
             The strongest opposing view says this analysis risks minimizing improvement. If totals fall and returns increase, surely the system has achieved something. Host states cannot integrate everyone; wealthy states face political limits; international agencies must count progress where progress is real.
 
             That argument is right to resist despair. Humanitarian systems can save lives, restore families, and support return. But it fails if it treats exit from emergency statistics as settlement. The right measure is not whether a crisis looks smaller on one page. It is whether people have recovered secure membership somewhere.
 
-            ## Argument
+            ## From Protection To Membership
 
             The modern displacement system has more instruments for protection than for settlement. Protection keeps people alive. Settlement gives them a civic future.
 
@@ -269,15 +269,15 @@ ARTICLES: list[IndependentArticle] = [
 
             Above all, it should avoid the comfort of a single humanitarian emotion. Pity is not policy. Border fear is not policy. Durable membership is policy.
 
-            ## Evidence Strength
+            ## What The Displacement Numbers Support
 
             Overall evidence level: moderate to strong for aggregate displacement categories; moderate for the interpretation that civic suspension is the central structural problem. Country-specific claims require further disaggregation.
 
-            ## Uncertainty Note
+            ## Return Is Not One Thing
 
             This article does not claim all returns are unsafe or all host states can integrate everyone. It claims that displacement remains unresolved when the endpoint is temporary protection rather than secure membership.
 
-            ## Further Reading
+            ## Sources On Durable Settlement
 
             - [UNHCR, Global Trends](https://www.unhcr.org/us/global-trends)
             - [UNHCR, Refugee Data Finder](https://www.unhcr.org/refugee-statistics)
@@ -314,13 +314,13 @@ ARTICLES: list[IndependentArticle] = [
 
             통합도 마찬가지다. 지역 통합은 단순한 시간의 경과가 아니다. 노동권, 교육, 의료, 언어와 행정 지원, 정치적 동의, 영구적 예외 상태에서 벗어나는 길이 필요하다.
 
-            ## 가장 강한 반론
+            ## 개선론
 
             가장 강한 반론은 이 분석이 개선을 작게 볼 위험이 있다는 것이다. 총량이 줄고 귀환이 늘었다면 시스템이 무언가를 해낸 것 아닌가. 수용국이 모두를 통합할 수는 없고, 부유한 나라에도 정치적 한계가 있으며, 국제기구는 실제 개선을 개선으로 세어야 한다.
 
             이 반론은 절망을 경계한다는 점에서 옳다. 인도주의 체계는 생명을 구하고, 가족을 회복시키고, 귀환을 지원할 수 있다. 그러나 통계상 비상에서 빠지는 것을 정착으로 다루면 실패한다. 올바른 척도는 한 페이지에서 위기가 작아졌는가가 아니라 사람들이 어딘가의 안정적 구성원 자격을 회복했는가이다.
 
-            ## 주장
+            ## 보호에서 구성원 자격으로
 
             현대 강제이주 체계에는 보호 수단이 정착 수단보다 많다. 보호는 사람을 살린다. 정착은 시민적 미래를 준다.
 
@@ -334,15 +334,15 @@ ARTICLES: list[IndependentArticle] = [
 
             연민은 정책이 아니다. 국경 공포도 정책이 아니다. 지속 가능한 구성원 자격이 정책이다.
 
-            ## 근거 강도
+            ## 강제이주 수치가 지탱하는 것
 
             전체 근거 수준: 집계 범주에 대해서는 중간 이상, 시민적 유예가 구조 문제라는 해석에 대해서는 중간. 국가별 주장은 추가 분해 자료가 필요하다.
 
-            ## 불확실성 노트
+            ## 귀환은 하나의 일이 아니다
 
             이 글은 모든 귀환이 위험하다거나 모든 수용국이 모두를 통합할 수 있다고 주장하지 않는다. 끝점이 안정적 구성원 자격이 아니라 임시 보호일 때 강제이주는 해결되지 않았다고 말한다.
 
-            ## 더 읽을 자료
+            ## 지속 가능한 정착에 관한 출처
 
             - [UNHCR, Global Trends](https://www.unhcr.org/us/global-trends)
             - [UNHCR, Refugee Data Finder](https://www.unhcr.org/refugee-statistics)
@@ -400,13 +400,13 @@ ARTICLES: list[IndependentArticle] = [
 
             Local victories strengthen implementation where local governments matter. They do not erase courts, opposition rights, fiscal constraints, administrative competence, or the need to explain policy. They also do not settle national constitutional questions. The lesson is not that voters spoke with one voice. They rarely do. The lesson is that they rearranged the governing field.
 
-            ## Best Opposing View
+            ## The Mandate Case
 
             The strongest opposing view is that this caution underrates the democratic force of victory. Elections are how citizens allocate power. If a party wins most contests, it has earned authority to govern. Constantly qualifying wins can become a way for commentators to deny the public's choice.
 
             That argument is right about legitimacy. Winning matters. But a serious reading of elections must distinguish authority from blank checks. A local election produces offices, not metaphysical unanimity. The democratic value of a mandate increases when winners state its limits as clearly as its uses.
 
-            ## Argument
+            ## Mandates Need Translation
 
             Korea's 2026 local elections should be read as a mandate for implementation, not a mandate for institutional impatience.
 
@@ -414,15 +414,15 @@ ARTICLES: list[IndependentArticle] = [
 
             Good analysis lives in that tension. It should ask where the government now has administrative capacity, where it lacks urban consent, where local policy can produce visible results, and where the next conflict may come from schools, housing, welfare delivery, or local finance.
 
-            ## Evidence Strength
+            ## What The Pre-Table Evidence Supports
 
             Overall evidence level: moderate and provisional. High confidence: the election was held on June 3, 2026, and high-quality reporting documents a ruling-party majority with a Seoul loss. Lower confidence: voter motives and national mandate interpretation until NEC data and post-election surveys are fully analyzed.
 
-            ## Uncertainty Note
+            ## What The Official Tables Must Decide
 
             This article intentionally avoids asserting a national psychology. The next evidentiary step is official election data, not louder interpretation.
 
-            ## Further Reading
+            ## Sources For Election Verification
 
             - [AP, South Korea's ruling party wins most races in local elections](https://apnews.com/article/south-korea-elections-mayors-lee-yoon-3f75bc77d129daecbcfac5afafbeb8d0)
             - [NEC election schedule PDF](https://img.nec.go.kr/common/board/Download.do?bcIdx=294445&cbIdx=1084&streFileNm=b7498932-8ad9-487c-ac6d-37b420175dc0.pdf)
@@ -461,13 +461,13 @@ ARTICLES: list[IndependentArticle] = [
 
             지방 승리는 지방정부가 중요한 곳에서 실행력을 높인다. 그러나 법원, 야당 권리, 재정 제약, 행정 능력, 정책 설명 의무를 지우지 않는다. 헌정 문제도 끝내지 않는다. 유권자가 한 목소리로 말했다는 것이 교훈은 아니다. 유권자는 거의 그렇게 말하지 않는다. 교훈은 통치 장이 재배열되었다는 것이다.
 
-            ## 가장 강한 반론
+            ## 위임론
 
             가장 강한 반론은 이런 신중함이 승리의 민주적 힘을 과소평가한다는 것이다. 선거는 시민이 권력을 배분하는 방식이다. 한 정당이 대부분의 경쟁에서 이겼다면 통치 권한을 얻은 것이다. 승리를 계속 조건부로 만드는 것은 논평가가 대중의 선택을 부정하는 방식이 될 수 있다.
 
             이 반론은 정당성에 관해 옳다. 이긴다는 것은 중요하다. 그러나 선거를 진지하게 읽는 일은 권한과 백지수표를 구분해야 한다. 지방선거는 직위를 만들지 형이상학적 만장일치를 만들지 않는다. 위임의 민주적 가치는 승자가 그 한계를 그 사용처만큼 분명히 말할 때 커진다.
 
-            ## 주장
+            ## 위임은 번역되어야 한다
 
             2026년 지방선거는 실행의 위임으로 읽어야지, 제도적 조급함의 위임으로 읽어서는 안 된다.
 
@@ -475,15 +475,15 @@ ARTICLES: list[IndependentArticle] = [
 
             좋은 분석은 이 긴장 속에 있다. 정부가 어디에서 행정 역량을 갖게 되었는지, 어디에서 도시적 동의를 잃었는지, 어떤 지역 정책이 가시적 성과를 만들 수 있는지, 다음 갈등이 학교·주거·복지 전달·지방재정 중 어디에서 나올지를 물어야 한다.
 
-            ## 근거 강도
+            ## 공식 표 전의 근거가 지탱하는 것
 
             전체 근거 수준: 중간, 그리고 잠정적. 높은 확신: 선거는 2026년 6월 3일 실시되었고, 고품질 보도는 집권당 다수 승리와 서울 패배를 기록했다. 낮은 확신: 유권자 동기와 전국 위임 해석은 선관위 자료와 선거 후 조사가 분석되기 전까지 제한적이다.
 
-            ## 불확실성 노트
+            ## 공식 표가 결정해야 할 것
 
             이 글은 전국적 심리를 단정하지 않는다. 다음 증거 단계는 더 큰 해석이 아니라 공식 선거 자료다.
 
-            ## 더 읽을 자료
+            ## 선거 검증을 위한 출처
 
             - [AP, South Korea's ruling party wins most races in local elections](https://apnews.com/article/south-korea-elections-mayors-lee-yoon-3f75bc77d129daecbcfac5afafbeb8d0)
             - [NEC election schedule PDF](https://img.nec.go.kr/common/board/Download.do?bcIdx=294445&cbIdx=1084&streFileNm=b7498932-8ad9-487c-ac6d-37b420175dc0.pdf)
@@ -543,13 +543,13 @@ ARTICLES: list[IndependentArticle] = [
 
             This means the welfare-state opportunity is real but constrained. Permanent commitments need revenue, not just cyclical confidence. Transfers can help households, but if housing supply, care capacity, and labor-market rules do not change, money may leak into prices or temporary relief.
 
-            ## Best Opposing View
+            ## The Strategic-Industry Caution
 
             The strongest opposing view says Korea should not burden a strategic industry with social expectations. Semiconductors face fierce competition, energy constraints, export controls, China risk, U.S. pressure, and enormous capital needs. The first duty is to keep the sector globally competitive; welfare-state debates should not dilute industrial urgency.
 
             This is a serious warning. Without industrial competitiveness, social promises become harder to fund. But the opposition becomes too narrow if it imagines competitiveness and welfare capacity as separate worlds. The legitimacy of industrial strategy depends on whether citizens see national success entering ordinary life.
 
-            ## Argument
+            ## The Boom Must Become Capacity
 
             Korea should treat the semiconductor recovery as fiscal breathing room and political leverage for social investment, not as proof that the social question has been solved.
 
@@ -557,15 +557,15 @@ ARTICLES: list[IndependentArticle] = [
 
             The semiconductor cycle can make this easier. It cannot do it by itself.
 
-            ## Evidence Strength
+            ## What Export Strength Can Support
 
             Overall evidence level: moderate. Strong evidence supports the existence of a chip-led recovery in 2026 forecasts. The broader argument about welfare-state conversion is interpretive and requires additional fiscal, labor, regional, and household data.
 
-            ## Uncertainty Note
+            ## The Cycle May Still Turn
 
             This article does not claim semiconductor strength will fade soon or that welfare policy should override industrial policy. It claims the boom's political meaning depends on whether it becomes social capacity.
 
-            ## Further Reading
+            ## Sources On Industry And Welfare Capacity
 
             - [Bank of Korea, May 28 2026 Monetary Policy Decision](https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10098190&programType=newsDataEng&relate=Y)
             - [KDI Economic Outlook 2026-1st Half](https://www.kdi.re.kr/eng/research/economy)
@@ -606,13 +606,13 @@ ARTICLES: list[IndependentArticle] = [
 
             이는 복지국가의 기회가 현실적이지만 제약되어 있음을 뜻한다. 영구적 약속에는 경기 자신감이 아니라 안정적 재원이 필요하다. 현금 이전은 가계를 도울 수 있지만, 주거 공급, 돌봄 역량, 노동시장 규칙이 바뀌지 않으면 돈은 가격이나 임시 완화로 새어 나갈 수 있다.
 
-            ## 가장 강한 반론
+            ## 전략산업 신중론
 
             가장 강한 반론은 전략 산업에 사회적 기대를 너무 많이 얹지 말라는 것이다. 반도체는 치열한 경쟁, 에너지 제약, 수출통제, 중국 리스크, 미국 압력, 거대한 자본 수요에 놓여 있다. 첫 임무는 세계 경쟁력을 지키는 것이며, 복지국가 논쟁이 산업적 긴급성을 흐려서는 안 된다.
 
             이 경고는 진지하다. 산업 경쟁력이 없으면 사회적 약속을 재정적으로 감당하기 어렵다. 그러나 경쟁력과 복지 역량을 별개의 세계로 상상하면 시야가 좁아진다. 산업전략의 정당성은 시민이 국가적 성공을 보통의 삶 속에서 느끼는가에 달려 있다.
 
-            ## 주장
+            ## 호황은 역량이 되어야 한다
 
             한국은 반도체 회복을 사회 문제가 해결되었다는 증거가 아니라 사회투자를 위한 재정적 호흡과 정치적 지렛대로 보아야 한다.
 
@@ -620,15 +620,15 @@ ARTICLES: list[IndependentArticle] = [
 
             반도체 경기는 이 일을 쉽게 만들 수 있다. 그러나 혼자 해내지는 못한다.
 
-            ## 근거 강도
+            ## 수출 강세가 지탱할 수 있는 것
 
             전체 근거 수준: 중간. 2026년 전망에서 반도체 주도 회복이 나타난다는 점은 강한 근거가 있다. 복지국가 전환에 관한 넓은 주장은 해석이며 추가적인 재정, 노동, 지역, 가구 자료가 필요하다.
 
-            ## 불확실성 노트
+            ## 사이클은 여전히 바뀔 수 있다
 
             이 글은 반도체 강세가 곧 사라진다거나 복지정책이 산업정책을 압도해야 한다고 주장하지 않는다. 호황의 정치적 의미는 그것이 사회적 역량으로 바뀌는가에 달려 있다고 주장한다.
 
-            ## 더 읽을 자료
+            ## 산업과 복지역량에 관한 출처
 
             - [Bank of Korea, May 28 2026 Monetary Policy Decision](https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10098190&programType=newsDataEng&relate=Y)
             - [KDI Economic Outlook 2026-1st Half](https://www.kdi.re.kr/eng/research/economy)
@@ -682,13 +682,13 @@ ARTICLES: list[IndependentArticle] = [
 
             Korea has spent heavily on low fertility for years. The issue is not whether the state has tried. It is whether policy changes the life conditions that make parenthood feel possible. A subsidy cannot by itself lower the price of apartments, reduce after-school competition, shorten punishing work cultures, or redistribute care inside households.
 
-            ## Best Opposing View
+            ## The Rebound Case
 
             The strongest opposing view says analysts should stop finding reasons to discount good news. Births rose, marriages improved, and attitudes may be shifting. If policy, social adaptation, and cohort timing finally produce better numbers, excessive skepticism could become another form of fatalism.
 
             That objection is fair. A society should notice improvement. But the purpose of caution is not pessimism. It is protection against false explanation. If a temporary cohort effect is mistaken for structural repair, policy will relax too soon. If policy effects are real, they need to be identified precisely so they can be strengthened.
 
-            ## Argument
+            ## Family Formation As Institutional Confidence
 
             The fertility rebound should be treated as an opening, not a verdict.
 
@@ -696,15 +696,15 @@ ARTICLES: list[IndependentArticle] = [
 
             Only that disaggregation can turn relief into knowledge.
 
-            ## Evidence Strength
+            ## What The Rebound Shows
 
             Overall evidence level: moderate. High confidence: official sources document a 2025 rise in births and TFR from very low levels. Moderate to low confidence: causal attribution among policy, marriage timing, cohort effects, housing, and labor conditions.
 
-            ## Uncertainty Note
+            ## One Better Year Is Not A Settlement
 
             This article welcomes the rebound but refuses to turn it into a demographic doctrine. The next serious version must be disaggregated or it will merely decorate a number.
 
-            ## Further Reading
+            ## Sources On Births, Housing, And Family Formation
 
             - [KOSIS, Vital Statistics of Korea](https://kosis.kr/statHtml/statHtml.do?language=en&orgId=101&tblId=DT_1B8000F)
             - [Ministry of Data and Statistics, Preliminary Results of Birth and Death Statistics in 2025](https://www.kostat.go.kr/board.es?act=view&bid=11773&list_no=444910&mid=a20108010000&nPage=1&ref_bid=11742%2C11743%2C11744%2C11745%2C11746%2C11747%2C11748%2C11749%2C11773%2C11774%2C11750&tag=)
@@ -739,13 +739,13 @@ ARTICLES: list[IndependentArticle] = [
 
             한국은 저출산에 오랫동안 많은 돈을 썼다. 문제는 국가가 시도했는가가 아니다. 정책이 부모가 될 수 있다는 생활 조건을 바꾸었는가이다. 보조금 하나가 아파트 가격, 사교육 경쟁, 긴 노동문화, 가구 내 돌봄 분배를 혼자 바꾸지는 못한다.
 
-            ## 가장 강한 반론
+            ## 반등론
 
             가장 강한 반론은 분석가들이 좋은 소식을 할인할 이유만 찾는다는 것이다. 출생아가 늘고 혼인이 회복되었으며 태도도 바뀌고 있을 수 있다. 정책, 사회적 적응, 코호트 효과가 더 나은 숫자를 만들었다면 과도한 회의주의는 또 다른 숙명론일 수 있다.
 
             이 반론은 공정하다. 사회는 개선을 알아보아야 한다. 그러나 신중함의 목적은 비관이 아니다. 잘못된 설명을 막는 것이다. 일시적 코호트 효과를 구조적 회복으로 오해하면 정책은 너무 빨리 느슨해진다. 정책 효과가 실제라면 무엇이 작동했는지 정확히 찾아 강화해야 한다.
 
-            ## 주장
+            ## 제도 신뢰로서의 가족 형성
 
             출산 반등은 판결이 아니라 기회로 다루어야 한다.
 
@@ -753,15 +753,15 @@ ARTICLES: list[IndependentArticle] = [
 
             그 분해만이 안도를 지식으로 바꿀 수 있다.
 
-            ## 근거 강도
+            ## 반등이 보여주는 것
 
             전체 근거 수준: 중간. 공식 자료가 2025년 출생아 수와 합계출산율의 상승을 보여준다는 점은 높은 확신이다. 정책, 혼인 시기, 코호트 효과, 주거, 노동 조건 사이의 인과 배분은 중간 이하의 확신이다.
 
-            ## 불확실성 노트
+            ## 한 해의 개선은 해결이 아니다
 
             이 글은 반등을 환영하지만 그것을 인구학 교리로 만들지 않는다. 다음 본격 판은 분해 자료를 갖추어야 한다. 그렇지 않으면 숫자를 장식하는 글에 그칠 것이다.
 
-            ## 더 읽을 자료
+            ## 출생·주거·가족 형성에 관한 출처
 
             - [KOSIS, Vital Statistics of Korea](https://kosis.kr/statHtml/statHtml.do?language=en&orgId=101&tblId=DT_1B8000F)
             - [Ministry of Data and Statistics, Preliminary Results of Birth and Death Statistics in 2025](https://www.kostat.go.kr/board.es?act=view&bid=11773&list_no=444910&mid=a20108010000&nPage=1&ref_bid=11742%2C11743%2C11744%2C11745%2C11746%2C11747%2C11748%2C11749%2C11773%2C11774%2C11750&tag=)
@@ -819,27 +819,27 @@ ARTICLES: list[IndependentArticle] = [
 
             These questions sound technical. They are democratic infrastructure. Without them, constitutional politics becomes either heroic sentiment or raw power.
 
-            ## Best Opposing View
+            ## The Anti-Judicialization Case
 
             The strongest opposing view is that courts can become too central in democratic life. If every political conflict is judicialized, elected institutions may lose responsibility. Courts may also be shaped by appointments, ideology, professional culture, and strategic self-protection. A court that saves democracy once cannot be assumed to save it always.
 
             This objection is right. Constitutional courts are not democratic angels. But Korea's recent experience shows why legal thresholds matter. The alternative to judicial review of emergency power is not pure democracy. It can be executive unilateralism covered in popular language.
 
-            ## Argument
+            ## Correction Without Court Worship
 
             Korea's Constitutional Court should be read as an institution of correction, not as a heroic substitute for politics.
 
             Its value lies in the ability to say what ordinary politics may not do even under pressure. That role is strongest when it is legally narrow, publicly reasoned, procedurally careful, and consistent across spectacular and ordinary cases. Emergency-power decisions need ordinary-rights decisions around them. Otherwise constitutionalism becomes a one-time rescue rather than a habit.
 
-            ## Evidence Strength
+            ## What Official Summaries Support
 
             Overall evidence level: moderate. Official English summaries support the article's institutional framing. Full doctrinal evaluation remains limited until Korean full texts, separate opinions, and remedial details are reviewed.
 
-            ## Uncertainty Note
+            ## Korean Full Texts Still Matter
 
             This article deliberately avoids final doctrinal claims based only on English summaries. It treats the summaries as a map of institutional questions requiring deeper Korean-language legal review.
 
-            ## Further Reading
+            ## Sources On Constitutional Correction
 
             - [Constitutional Court of Korea, Latest Decisions](https://english.ccourt.go.kr/site/eng/ex/bbs/List.do?cbIdx=1143)
             - [Constitutional Court of Korea, Case Search](https://english.ccourt.go.kr/site/eng/ex/bbs/List.do?cbIdx=1143)
@@ -877,27 +877,27 @@ ARTICLES: list[IndependentArticle] = [
 
             이런 질문은 기술적으로 들린다. 그러나 민주주의의 인프라다. 그것이 없으면 헌정 정치는 영웅적 감정이나 날것의 권력으로 바뀐다.
 
-            ## 가장 강한 반론
+            ## 사법화 경계론
 
             가장 강한 반론은 법원이 민주적 삶에서 지나치게 중심이 될 수 있다는 것이다. 모든 정치 갈등이 사법화되면 선출 기관은 책임을 잃을 수 있다. 법원 역시 임명, 이념, 직업문화, 자기보호 전략의 영향을 받는다. 한 번 민주주의를 구한 법원이 언제나 구할 것이라고 볼 수는 없다.
 
             이 반론은 옳다. 헌법재판소는 민주주의의 천사가 아니다. 그러나 한국의 최근 경험은 법적 기준이 왜 중요한지 보여준다. 비상 권한에 대한 사법심사의 대안은 순수 민주주의가 아니다. 대중 언어로 포장된 행정부 일방주의일 수 있다.
 
-            ## 주장
+            ## 법원 숭배 없는 교정
 
             한국 헌법재판소는 정치를 대체하는 영웅이 아니라 교정 기관으로 읽어야 한다.
 
             그 가치는 압력 속에서도 보통 정치가 해서는 안 되는 것을 말할 수 있다는 데 있다. 이 역할은 법적으로 좁고, 공개적으로 이유를 제시하며, 절차적으로 조심스럽고, 극적 사건과 일상 사건에서 일관될 때 가장 강하다. 비상 권한 판결 주변에는 일상적 권리 판결이 있어야 한다. 그렇지 않으면 헌정주의는 습관이 아니라 일회성 구조가 된다.
 
-            ## 근거 강도
+            ## 공식 요약이 지탱하는 것
 
             전체 근거 수준: 중간. 공식 영문 요약은 제도적 프레임을 지지한다. 최종 법리 평가는 한국어 전문, 별개의견, 구제 방식 검토 전까지 제한된다.
 
-            ## 불확실성 노트
+            ## 한국어 결정문 전문은 여전히 필요하다
 
             이 글은 영문 요약만으로 최종 법리 주장을 하지 않는다. 요약을 더 깊은 한국어 법률 검토가 필요한 제도 질문의 지도처럼 사용한다.
 
-            ## 더 읽을 자료
+            ## 헌법적 교정에 관한 출처
 
             - [Constitutional Court of Korea, Latest Decisions](https://english.ccourt.go.kr/site/eng/ex/bbs/List.do?cbIdx=1143)
             - [Constitutional Court of Korea, Case Search](https://english.ccourt.go.kr/site/eng/ex/bbs/List.do?cbIdx=1143)
@@ -948,13 +948,13 @@ ARTICLES: list[IndependentArticle] = [
 
             No single regime fits all disciplines. Philosophy, engineering, language learning, studio art, medicine, journalism, law, and computer science have different relationships to tools, evidence, and professional competence.
 
-            ## Best Opposing View
+            ## The Fast-Adaptation Case
 
             The strongest opposing view says universities are overreacting. Calculators, search engines, grammar checkers, and coding tools all changed academic work. Students should learn to use AI because workplaces will demand it. Excessive policing will waste faculty time and punish honest students.
 
             This is partly right. AI literacy is now educationally relevant. But the analogy fails when it ignores assessment. A calculator does not write a legal memo, simulate a lab report, or produce a plausible literature review in seconds. The question is not whether tools belong in education. It is which claims a credential makes about the graduate.
 
-            ## Argument
+            ## Assessment As Institutional Governance
 
             The university after generative AI must shift from artifact trust to assessment design.
 
@@ -962,15 +962,15 @@ ARTICLES: list[IndependentArticle] = [
 
             The best university response is neither panic nor surrender. It is explicitness. Tell students what counts, why it counts, and how the evidence of learning will be gathered.
 
-            ## Evidence Strength
+            ## What The Education Sources Support
 
             Overall evidence level: moderate. Strong evidence supports broad diffusion and policy urgency. Evidence on learning gains, reliable detection, and discipline-specific best practice remains developing.
 
-            ## Uncertainty Note
+            ## The Artifact Problem Is Still Moving
 
             This article does not claim traditional writing is obsolete. It claims the evidentiary status of submitted work has changed, and universities must redesign assessment around that fact.
 
-            ## Further Reading
+            ## Sources On AI And Assessment
 
             - [OECD Digital Education Outlook 2026](https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html)
             - [UNESCO, Guidance for generative AI in education and research](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research)
@@ -1003,13 +1003,13 @@ ARTICLES: list[IndependentArticle] = [
 
             모든 학문에 하나의 체제가 맞지는 않는다. 철학, 공학, 언어교육, 예술, 의학, 저널리즘, 법학, 컴퓨터과학은 도구, 증거, 전문 능력과 맺는 관계가 다르다.
 
-            ## 가장 강한 반론
+            ## 빠른 적응론
 
             가장 강한 반론은 대학이 과잉반응한다는 것이다. 계산기, 검색엔진, 문법 교정기, 코딩 도구도 학업을 바꾸었다. 직장에서도 AI를 요구할 것이므로 학생은 사용법을 배워야 한다. 과도한 단속은 교수 시간을 낭비하고 정직한 학생을 벌할 수 있다.
 
             부분적으로 맞다. AI 리터러시는 이제 교육적으로 중요하다. 그러나 비유는 평가를 무시할 때 실패한다. 계산기는 법률 메모, 실험 보고서, 그럴듯한 문헌 검토를 순식간에 작성하지 않는다. 문제는 도구가 교육에 속하는가가 아니라 학위가 졸업생에 대해 어떤 주장을 하는가이다.
 
-            ## 주장
+            ## 제도 거버넌스로서의 평가
 
             생성형 AI 이후의 대학은 산출물 신뢰에서 평가 설계로 이동해야 한다.
 
@@ -1017,15 +1017,15 @@ ARTICLES: list[IndependentArticle] = [
 
             최선의 대학 반응은 공포도 항복도 아니다. 명시성이다. 무엇이 평가되는지, 왜 평가되는지, 학습 증거를 어떻게 모을지 학생에게 말해야 한다.
 
-            ## 근거 강도
+            ## 교육 출처가 지탱하는 것
 
             전체 근거 수준: 중간. 넓은 확산과 정책 긴급성에는 강한 근거가 있다. 학습 효과, 신뢰 가능한 탐지, 학문별 최선 관행에 관한 증거는 아직 발전 중이다.
 
-            ## 불확실성 노트
+            ## 산출물 문제는 여전히 움직인다
 
             이 글은 전통적 글쓰기가 쓸모없어졌다고 주장하지 않는다. 제출물의 증거 지위가 바뀌었고, 대학은 그 사실에 맞게 평가를 다시 설계해야 한다고 주장한다.
 
-            ## 더 읽을 자료
+            ## AI와 평가에 관한 출처
 
             - [OECD Digital Education Outlook 2026](https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html)
             - [UNESCO, Guidance for generative AI in education and research](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research)
@@ -1075,13 +1075,13 @@ ARTICLES: list[IndependentArticle] = [
 
             The mood is therefore understandable. But understandable moods can still mislead. A fast change is not the same as a settled future.
 
-            ## Best Opposing View
+            ## The Realism Objection
 
             The strongest opposing view says fatalism is a straw man. The real danger is denial. Institutions that keep debating too long will fail their students, workers, companies, and citizens. Adaptation is not surrender; it is realism.
 
             This objection is partly right. Refusing to adapt is irresponsible. But adaptation without choice is not realism. It is obedience. The question is not whether AI should be used. It is under what terms, for whose benefit, with which rights, and with what capacity to revise mistakes.
 
-            ## Argument
+            ## Agency Against Inevitability
 
             The culture of AI fatalism should be resisted because it weakens democratic agency at the moment when institutions need more of it.
 
@@ -1089,15 +1089,15 @@ ARTICLES: list[IndependentArticle] = [
 
             Fatalism is not a description of the future. It is a way of closing the present.
 
-            ## Evidence Strength
+            ## What Diffusion Evidence Can Show
 
             Overall evidence level: moderate. Adoption and diffusion are well documented by institutional sources. Claims about fatalism as cultural politics are interpretive and should be strengthened in later revisions through systematic discourse evidence.
 
-            ## Uncertainty Note
+            ## Fatalism Needs Discourse Evidence
 
             This article does not deny AI's importance. It denies that importance settles governance. The more consequential the technology becomes, the less acceptable fatalism should be.
 
-            ## Further Reading
+            ## Sources On AI Mood And Governance
 
             - [Stanford HAI, 2026 AI Index Report](https://hai.stanford.edu/ai-index/2026-ai-index-report)
             - [OECD, AI use by individuals and firms](https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html)
@@ -1128,13 +1128,13 @@ ARTICLES: list[IndependentArticle] = [
 
             그래서 분위기는 이해할 만하다. 그러나 이해 가능한 분위기도 틀릴 수 있다. 빠른 변화는 확정된 미래와 같지 않다.
 
-            ## 가장 강한 반론
+            ## 현실주의 반론
 
             가장 강한 반론은 숙명론 비판이 허수아비라는 것이다. 진짜 위험은 부정이다. 너무 오래 논쟁하는 제도는 학생, 노동자, 기업, 시민을 실패하게 할 수 있다. 적응은 항복이 아니라 현실주의다.
 
             이 반론은 부분적으로 맞다. 적응을 거부하는 것은 무책임하다. 그러나 선택 없는 적응은 현실주의가 아니라 복종이다. 문제는 AI를 쓸 것인가가 아니다. 어떤 조건에서, 누구의 이익을 위해, 어떤 권리와 함께, 어떤 수정 능력을 갖고 쓸 것인가이다.
 
-            ## 주장
+            ## 필연성에 맞서는 행위성
 
             AI 숙명론의 문화는 저항되어야 한다. 제도에 더 많은 민주적 행위성이 필요한 순간에 그것을 약화시키기 때문이다.
 
@@ -1142,15 +1142,15 @@ ARTICLES: list[IndependentArticle] = [
 
             숙명론은 미래에 대한 설명이 아니다. 현재를 닫는 방식이다.
 
-            ## 근거 강도
+            ## 확산 근거가 보여줄 수 있는 것
 
             전체 근거 수준: 중간. 채택과 확산은 제도 출처로 잘 문서화된다. 숙명론을 문화정치로 보는 주장은 해석이며, 다음 수정에서는 기업 발언, 정책 연설, 잡지 논쟁, 교육 현장의 담론 증거로 더 강화되어야 한다.
 
-            ## 불확실성 노트
+            ## 숙명론에는 담론 증거가 필요하다
 
             이 글은 AI의 중요성을 부정하지 않는다. 중요성이 거버넌스를 대신 결정한다는 생각을 부정한다. 기술이 중요해질수록 숙명론은 더 용납되기 어렵다.
 
-            ## 더 읽을 자료
+            ## AI 분위기와 거버넌스에 관한 출처
 
             - [Stanford HAI, 2026 AI Index Report](https://hai.stanford.edu/ai-index/2026-ai-index-report)
             - [OECD, AI use by individuals and firms](https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html)
@@ -1215,21 +1215,21 @@ ARTICLES: list[IndependentArticle] = [
 
             The OECD AI adoption material, OECD Digital Education Outlook, UNESCO guidance, Stanford HAI AI Index, EU AI Act, and UN Global Dialogue each carry different evidentiary burdens. Adoption data show diffusion. Education reports frame institutional response. The AI Act supplies law and implementation architecture. The UN dialogue shows multilateral process. None alone proves productivity, learning, justice, or democratic legitimacy.
 
-            ## Best Opposing View
+            ## The Anti-Checklist Objection
 
             The strongest objection to a source map is that it can make essays feel over-engineered. A magazine should have voice, selection, style, and judgment. If every paragraph stops to classify evidence, prose dies.
 
             The objection is real. But source discipline need not flatten style. It can sharpen it. A writer who knows what a source can bear can write with more confidence because the argument is not leaning on fog.
 
-            ## Evidence Strength
+            ## What Source Mapping Can Do
 
             Overall evidence level: strong as a map of source hierarchy; moderate as an annotated bibliography because several entries still require Korean full-text, dataset, and PDF-level review.
 
-            ## Uncertainty Note
+            ## A Map Is Not The Territory
 
             This list is not a closed canon. It is a working map for a temporary issue. Sources should be added, downgraded, or removed as dossiers mature.
 
-            ## Further Reading
+            ## Source Base For The Issue
 
             - [IMF, World Economic Outlook, April 2026](https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026)
             - [OECD Economic Outlook, June 2026](https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6.html)
@@ -1275,21 +1275,21 @@ ARTICLES: list[IndependentArticle] = [
 
             OECD AI 채택 자료, OECD 디지털 교육 전망, UNESCO 지침, Stanford HAI AI Index, EU AI Act, 유엔 AI 거버넌스 글로벌 대화는 각각 다른 부담을 진다. 채택 자료는 확산을 보여준다. 교육 보고서는 제도 대응을 틀짓는다. AI Act는 법과 실행 구조를 제공한다. 유엔 대화는 다자 과정을 보여준다. 어느 하나도 생산성, 학습, 정의, 민주적 정당성을 단독으로 증명하지 않는다.
 
-            ## 가장 강한 반론
+            ## 체크리스트 반론
 
             출처 지도의 가장 강한 반론은 글을 지나치게 설계된 것처럼 만들 수 있다는 것이다. 잡지에는 목소리, 선택, 문체, 판단이 있어야 한다. 모든 문단이 증거를 분류하다 멈추면 산문은 죽는다.
 
             이 반론은 현실적이다. 그러나 출처 규율이 반드시 문체를 평평하게 만들지는 않는다. 오히려 날카롭게 할 수 있다. 출처가 감당할 수 있는 무게를 아는 필자는 안개에 기대지 않기 때문에 더 자신 있게 쓸 수 있다.
 
-            ## 근거 강도
+            ## 출처 지도가 할 수 있는 것
 
             전체 근거 수준: 출처 위계 지도에 대해서는 강함. 주석 달린 참고목록으로서는 중간. 여러 항목은 한국어 전문, 데이터셋, PDF 수준 검토가 아직 필요하다.
 
-            ## 불확실성 노트
+            ## 지도는 영토가 아니다
 
             이 목록은 닫힌 정전이 아니다. 임시 호를 위한 작업 지도다. 도시에는 성숙함에 따라 출처를 추가, 하향, 삭제해야 한다.
 
-            ## 더 읽을 자료
+            ## 이번 호의 출처 기반
 
             - [IMF, World Economic Outlook, April 2026](https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026)
             - [OECD Economic Outlook, June 2026](https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6.html)
@@ -1392,11 +1392,11 @@ The article links factual claims to the raw source base listed in its dossier. C
 
 ## Dissent Editor
 
-The article includes a Best Opposing View section that states the strongest good-faith objection before the author's argument proceeds.
+The article includes an article-specific opposition section that states the strongest good-faith objection before the author's argument proceeds.
 
 ## Style Editor
 
-The article was revised away from dossier language and repeated process phrases. Remaining limitations are handled in Evidence Strength and Uncertainty Note sections.
+The article was revised away from dossier language and repeated process phrases. Remaining limitations are handled in article-specific evidence and uncertainty sections.
 """
     write_text(path, text, overwrite=True)
 
@@ -1431,11 +1431,11 @@ chief_editor_status: approved_for_review
 
 ## Finding
 
-The original policy documents required article work to be performed by distinct editorial agents: political editor, economics editor, sociology editor, law and institutions editor, technology editor, education editor, foreign affairs editor, culture editor, source researcher, data researcher, dissent editor, fact checker, statistics checker, translation editors, and final managing editor. The previous June 11 production pass did not satisfy that standard for nine articles.
+The original policy documents required article work to be performed by distinct editorial agents: political editor, economics editor, sociology editor, law and institutions editor, technology editor, education editor, foreign affairs editor, culture editor, source researcher, data researcher, dissent editor, fact checker, statistics checker, translation editors, and final managing editor. The June 11 production pass did not satisfy that standard. The June 12 repair corrected nine articles but left four core English originals on the older scaffold: the editor's note, the AI governance essay, the AI/war-economy leader, and the macro fragility essay.
 
 ## Immediate Cause
 
-The retired `pipelines/substantive_2026_q2_editorial_pass.py` centralized nine article bodies through compact generator functions named `{RETIRED_EN_BUILDER}` and `{RETIRED_KO_BUILDER}`. Those functions imposed the same section order, the same argument-reconstruction language, the same temporary-publication language, and similar source-limit paragraphs across unrelated articles.
+The retired `pipelines/substantive_2026_q2_editorial_pass.py` centralized article bodies through compact generator functions named `{RETIRED_EN_BUILDER}` and `{RETIRED_KO_BUILDER}`. Those functions imposed the same section order, the same argument-reconstruction language, the same temporary-publication language, and similar source-limit paragraphs across unrelated articles. The later repair fixed the visible generator symbols but did not require every public English original to declare an assigned editor, use an independent article structure, or carry matching independent dossiers and reviews.
 
 ## Process Cause
 
@@ -1447,15 +1447,17 @@ The public files identified broad "Codex Editorial Agents" rather than enforcing
 
 ## Review Gap
 
-Existing tests checked publication gates, bilingual links, citation status, and required headings. They did not check repeated prose, identical section structures, public-facing development notes, or whether source dossiers had been separated from article prose.
+Existing tests checked publication gates, bilingual links, citation status, and required headings. They did not check repeated prose, identical section structures, public-facing development notes, whether source dossiers had been separated from article prose, or whether every public English original had an assigned editor and independent rewrite review.
 
 ## Corrective Actions Taken
 
 - Retired the compact generation script and removed `{RETIRED_EN_BUILDER}` / `{RETIRED_KO_BUILDER}`.
 - Added `pipelines/rewrite_2026_q2_independent_articles.py`, which stores article-specific bodies and assigned agents without a shared body template.
 - Rewrote the nine affected article pairs with distinct structures, cases, and argument development.
+- Completed the missed four core article pairs on June 13: `editors-note-capacity-question`, `govern-ai-before-infrastructure`, `ai-boom-war-economy`, and `new-macro-fragility`.
 - Moved "stronger final version" and similar reporting-path material into source dossiers and review files.
 - Added a regression test blocking compact-generation symbols and public-facing reporting-path phrases in final/site article files.
+- Added regression tests requiring public English originals to declare `assigned_agent`, `body_generation: independent_article_structure`, and `independent_editorial_pass`; requiring matching independent source dossiers and reviews; blocking reuse of compact heading scaffolds; and blocking duplicate final English heading signatures.
 
 ## Remaining Editorial Risk
 

@@ -1,39 +1,48 @@
 ---
-title: "The AI Boom Meets The War Economy"
-subtitle: "Artificial intelligence is becoming infrastructure before the world economy has escaped geopolitical scarcity."
-slug: "ai-boom-war-economy"
-issue: "2026-Q2"
-date: "2026-06-11"
+title: The AI Boom Meets The War Economy
+subtitle: Artificial intelligence is becoming infrastructure before the world economy
+  has escaped geopolitical scarcity.
+slug: ai-boom-war-economy
+issue: 2026-Q2
+date: '2026-06-11'
 language: en
-translation_of: "original"
-counterpart_url: "/ko/ai-boom-war-economy/"
+translation_of: original
+counterpart_url: /ko/ai-boom-war-economy/
 authors:
-  - "DeepWrite Review Editorial Desk"
+- DeepWrite Review Editorial Desk
 contributors:
-  - "Codex Agenda Editor"
-  - "Codex Source Researcher"
-  - "Codex Data Researcher"
-  - "Codex Economics Editor"
-  - "Codex Technology Editor"
-  - "Codex Style Editor EN"
+- Codex Agenda Editor
+- Codex Source Researcher
+- Codex Data Researcher
+- Codex Economics Editor
+- Codex Technology Editor
+- Codex Style Editor EN
 editors:
-  - "Jeyoun Son (손제연)"
-chief_editor: "Jeyoun Son"
-chief_editor_ko: "손제연"
-ai_assistance: "Prepared with Codex editorial agents under human editorial direction."
+- Jeyoun Son (손제연)
+chief_editor: Jeyoun Son
+chief_editor_ko: 손제연
+ai_assistance: Prepared with Codex editorial agents under human editorial direction.
 tags:
-  - AI
-  - political economy
-  - energy
-  - war economy
-  - infrastructure
-abstract: "The 2026 AI boom is not occurring in a frictionless economy. It is unfolding amid war risk, energy pressure, trade uncertainty, and a weaker global outlook. The central question is therefore not whether AI is transformative, but whether institutions can govern its transformation when the material foundations of computation are becoming strategic, expensive, and politically contested."
+- AI
+- political economy
+- energy
+- war economy
+- infrastructure
+abstract: The 2026 AI boom is not occurring in a frictionless economy. It is unfolding
+  amid war risk, energy pressure, trade uncertainty, and a weaker global outlook.
+  The central question is therefore not whether AI is transformative, but whether
+  institutions can govern its transformation when the material foundations of computation
+  are becoming strategic, expensive, and politically contested.
 evidence_level: moderate
 citation_status: draft_cited
 translation_status: draft
 chief_editor_status: approved_for_review
-draft_approved_date: "2026-06-11"
+draft_approved_date: '2026-06-11'
 status: draft
+independent_editorial_pass: '2026-06-13'
+body_generation: independent_article_structure
+assigned_agent: Technology Editor with Economics Editor and Data Researcher
+updated: '2026-06-13'
 ---
 
 # The AI Boom Meets The War Economy
@@ -48,7 +57,7 @@ The public argument about artificial intelligence still tends to divide itself i
 
 The more important fact is that AI is becoming infrastructure at the same time the world economy is being reorganized by war, energy scarcity, trade friction, and industrial policy. The question is not whether AI will matter. It already does. The question is whether societies can absorb a general-purpose technology whose physical requirements are suddenly visible: chips, grids, cooling systems, data centers, capital markets, trained workers, export controls, and public tolerance for the local costs of a global platform economy.
 
-## Opening Issue
+## Electricity Returns To The AI Story
 
 The AI boom arrived with a strangely old-fashioned demand: electricity.
 
@@ -58,7 +67,7 @@ That shift would matter in any year. It matters more in this one because the glo
 
 These forecasts may change. Forecasts are not facts; they are disciplined conditional arguments. But their convergence matters. They describe a world in which the AI investment cycle is not floating above politics. It is occurring inside a more expensive, more securitized, more fragile global economy.
 
-## Central Question
+## Compute Under Geopolitical Scarcity
 
 How should readers understand an AI boom when it is unfolding inside a war-shadowed economy?
 
@@ -68,7 +77,7 @@ Can energy systems expand fast enough without worsening emissions, local backlas
 
 This is why "AI and the economy" is the wrong frame. The actual subject is AI as infrastructure under conditions of scarcity.
 
-## Conceptual Clarification
+## Three Distinctions For The Boom
 
 Three distinctions matter.
 
@@ -78,7 +87,7 @@ Second, AI infrastructure is not immaterial. The [IEA estimates](https://www.iea
 
 Third, the war economy is not simply a matter of defense spending. It is a broader condition in which energy, shipping, components, sanctions, export controls, insurance, fiscal space, and industrial capacity become politically exposed. AI develops inside that condition. It does not escape it.
 
-## Evidence
+## Macro, Adoption, Energy, Capacity
 
 The strongest evidence for this article is not one dramatic number but the alignment of several source families.
 
@@ -90,7 +99,7 @@ The energy evidence makes the infrastructure problem concrete. Data centers are 
 
 The institutional evidence is weaker but more important. We do not yet have enough evidence to say which countries will govern this well. But we can specify the capacities that will matter: grid planning, energy permitting, competition policy, labor-market adjustment, public procurement, education reform, data governance, and fiscal discipline.
 
-## Competing Interpretations
+## Four Readings Of The AI Boom
 
 The first interpretation is the productivity view. On this account, AI is a rare positive supply-side shock. It can lift output, help firms reorganize work, improve science and medicine, reduce bureaucratic friction, and generate the very fiscal capacity that aging societies and climate adaptation will require. The short-term costs are real, but historically general-purpose technologies create more social wealth than they destroy.
 
@@ -100,7 +109,7 @@ The third interpretation is the control view. This is less interested in product
 
 The fourth interpretation, favored here, is the capacity view. AI's benefits and dangers will be determined less by the abstract capability of models than by the institutions into which those models are inserted. Under stable conditions, that would already be difficult. Under war-shadowed macroeconomic conditions, the institutional test becomes sharper.
 
-## Best Opposing View
+## The Productivity Rescue Case
 
 The strongest opposing view is that this article overburdens AI with the anxieties of the moment.
 
@@ -110,7 +119,7 @@ This objection should be taken seriously. It is correct that infrastructure dema
 
 But the objection does not remove the institutional question. It sharpens it. A useful technology can still be badly governed. A productivity-enhancing technology can still distribute gains narrowly. An infrastructure buildout can still impose local costs without public legitimacy. A boom can be real and still create fragility.
 
-## Argument
+## From Demonstration To Institutional Absorption
 
 AI is now entering the stage at which technological possibility becomes political economy.
 
@@ -130,7 +139,7 @@ Public policy is poorly suited to this ambiguity. It prefers clean categories: e
 
 The central problem, then, is not that AI is too powerful to govern. It is that governing AI requires capacities that many states have allowed to weaken: technical expertise, administrative legitimacy, long-term infrastructure planning, competition enforcement, education redesign, and the ability to tell citizens the truth about tradeoffs.
 
-## Policy Or Civic Implications
+## What Governance Must See
 
 First, energy policy is now AI policy. A government that wants AI capacity without grid capacity is not planning; it is wishing. Data-center permitting, transmission investment, electricity pricing, clean generation, and local compensation should be treated as part of AI governance.
 
@@ -140,7 +149,7 @@ Third, competition policy should look below the app layer. The strategic bottlen
 
 Fourth, public communication should become more honest. AI policy is damaged by both promotional mysticism and apocalyptic fatalism. Citizens do not need reassurance that everything will be fine. They need visible institutions capable of making tradeoffs intelligible.
 
-## Evidence Strength
+## What The Infrastructure Evidence Supports
 
 Overall evidence level: moderate.
 
@@ -162,13 +171,13 @@ Contested or incomplete claims:
 - The causal role of AI in current layoffs or corporate restructuring.
 - Whether data-center electricity growth will translate into higher emissions, given changes in generation mix.
 
-## Uncertainty Note
+## What The Boom Has Not Yet Proved
 
 This draft does not claim that the AI boom is a bubble. It also does not claim that AI will rescue the global economy. The evidence does not yet support either conclusion.
 
 The strongest uncertainty concerns time scale. AI adoption can rise quickly while productivity gains appear slowly. Infrastructure demand can be immediate while social benefits remain diffuse. Labor displacement can occur through hiring slowdowns and task compression before unemployment statistics register a clean shock. The article should therefore avoid both near-term panic and long-term complacency.
 
-## Further Reading
+## Sources For The Infrastructure Question
 
 - [International Monetary Fund, *World Economic Outlook: Global Economy in the Shadow of War*, April 2026](https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026)
 - [OECD, *Economic Outlook, Volume 2026 Issue 1*, June 2026](https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6.html)
@@ -176,6 +185,6 @@ The strongest uncertainty concerns time scale. AI adoption can rise quickly whil
 - [International Energy Agency, *Key Questions on Energy and AI*, Executive Summary](https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary)
 - [OECD, "AI use by individuals surges across the OECD as adoption by firms continues to expand"](https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html)
 
-## Citations
+## Why Official Sources Lead
 
 This draft uses only institutional and official-source evidence for factual and statistical claims. Commentary and journalism should be added later only as evidence of discourse, investor mood, or public controversy, not as raw evidence for the article's causal claims.

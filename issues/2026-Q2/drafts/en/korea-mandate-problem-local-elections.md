@@ -78,13 +78,13 @@ A mandate is not a magic word. It has at least three components. Electoral scope
 
 Local victories strengthen implementation where local governments matter. They do not erase courts, opposition rights, fiscal constraints, administrative competence, or the need to explain policy. They also do not settle national constitutional questions. The lesson is not that voters spoke with one voice. They rarely do. The lesson is that they rearranged the governing field.
 
-## Best Opposing View
+## The Mandate Case
 
 The strongest opposing view is that this caution underrates the democratic force of victory. Elections are how citizens allocate power. If a party wins most contests, it has earned authority to govern. Constantly qualifying wins can become a way for commentators to deny the public's choice.
 
 That argument is right about legitimacy. Winning matters. But a serious reading of elections must distinguish authority from blank checks. A local election produces offices, not metaphysical unanimity. The democratic value of a mandate increases when winners state its limits as clearly as its uses.
 
-## Argument
+## Mandates Need Translation
 
 Korea's 2026 local elections should be read as a mandate for implementation, not a mandate for institutional impatience.
 
@@ -92,15 +92,15 @@ The ruling party can reasonably claim that voters gave it local machinery to pur
 
 Good analysis lives in that tension. It should ask where the government now has administrative capacity, where it lacks urban consent, where local policy can produce visible results, and where the next conflict may come from schools, housing, welfare delivery, or local finance.
 
-## Evidence Strength
+## What The Pre-Table Evidence Supports
 
 Overall evidence level: moderate and provisional. High confidence: the election was held on June 3, 2026, and high-quality reporting documents a ruling-party majority with a Seoul loss. Lower confidence: voter motives and national mandate interpretation until NEC data and post-election surveys are fully analyzed.
 
-## Uncertainty Note
+## What The Official Tables Must Decide
 
 This article intentionally avoids asserting a national psychology. The next evidentiary step is official election data, not louder interpretation.
 
-## Further Reading
+## Sources For Election Verification
 
 - [AP, South Korea's ruling party wins most races in local elections](https://apnews.com/article/south-korea-elections-mayors-lee-yoon-3f75bc77d129daecbcfac5afafbeb8d0)
 - [NEC election schedule PDF](https://img.nec.go.kr/common/board/Download.do?bcIdx=294445&cbIdx=1084&streFileNm=b7498932-8ad9-487c-ac6d-37b420175dc0.pdf)

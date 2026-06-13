@@ -71,13 +71,13 @@ The prohibition regime bans AI use for defined tasks. It can preserve certain sk
 
 No single regime fits all disciplines. Philosophy, engineering, language learning, studio art, medicine, journalism, law, and computer science have different relationships to tools, evidence, and professional competence.
 
-## Best Opposing View
+## The Fast-Adaptation Case
 
 The strongest opposing view says universities are overreacting. Calculators, search engines, grammar checkers, and coding tools all changed academic work. Students should learn to use AI because workplaces will demand it. Excessive policing will waste faculty time and punish honest students.
 
 This is partly right. AI literacy is now educationally relevant. But the analogy fails when it ignores assessment. A calculator does not write a legal memo, simulate a lab report, or produce a plausible literature review in seconds. The question is not whether tools belong in education. It is which claims a credential makes about the graduate.
 
-## Argument
+## Assessment As Institutional Governance
 
 The university after generative AI must shift from artifact trust to assessment design.
 
@@ -85,15 +85,15 @@ That means every program should state which competencies must be unaided, which 
 
 The best university response is neither panic nor surrender. It is explicitness. Tell students what counts, why it counts, and how the evidence of learning will be gathered.
 
-## Evidence Strength
+## What The Education Sources Support
 
 Overall evidence level: moderate. Strong evidence supports broad diffusion and policy urgency. Evidence on learning gains, reliable detection, and discipline-specific best practice remains developing.
 
-## Uncertainty Note
+## The Artifact Problem Is Still Moving
 
 This article does not claim traditional writing is obsolete. It claims the evidentiary status of submitted work has changed, and universities must redesign assessment around that fact.
 
-## Further Reading
+## Sources On AI And Assessment
 
 - [OECD Digital Education Outlook 2026](https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html)
 - [UNESCO, Guidance for generative AI in education and research](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research)

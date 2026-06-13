@@ -1,32 +1,38 @@
 ---
 issue: "2026-Q2"
 slug: "govern-ai-before-infrastructure"
-date: "2026-06-11"
-status: substantive_editorial_pass_checked
+date: "2026-06-13"
+status: independent_rewrite_checked
 chief_editor_status: approved_for_temporary_publication
+assigned_agent: "Technology Editor with Law and Institutions Editor"
 ---
 
 # Editorial Review: Can The World Govern AI Before It Becomes Infrastructure?
 
-## Argument Reconstruction
+## Independent Agent Check
 
-- One-sentence thesis: AI governance is moving from principles to implementation while AI becomes operating infrastructure; the decisive question is whether public institutions can inspect, enforce, update, and legitimate rules before dependency hardens.
-- Major premise: A serious quarterly article should distinguish fact, interpretation, hypothesis, normative judgment, and speculation.
-- Minor premise: This article uses official or institutional sources for factual claims and reconstructs the best opposing view before judgment.
-- Conclusion: The article is acceptable for temporary publication as a substantive draft, not as final permanent approval.
+The June 13 repair assigns the article to the Technology Editor with Law and Institutions Editor and removes the previous compact-body section scaffold. The public English text now uses article-specific section headings and keeps source-limit, reporting-path, and development notes in this review or the source dossier.
+
+## Relocated Development Notes
+
+The following items are retained as review or dossier tasks, not public-article prose:
+
+- Keep the technology editor focused on deployment, procurement, infrastructure, and system behavior rather than abstract AI ethics alone.
+- Keep the law-and-institutions editor focused on classification, auditability, appeal, enforcement capacity, and legal legitimacy.
+- In permanent review, separate legal timetable facts from evidence that enforcement is actually effective.
 
 ## Fact Check
 
-Source links were verified or rechecked during the June 11, 2026 substantive pass. Factual claims are limited to the listed institutional, official, or high-quality wire sources.
+The article links factual claims to the raw source base listed in its dossier. Claims that require fuller tables, institutional implementation evidence, or disaggregated data are marked as provisional or deferred.
 
 ## Statistics Check
 
-Adoption data do not prove productivity growth. EU implementation dates are legal timelines, not evidence of enforcement effectiveness.
+Adoption data show diffusion, not productivity or safety. Legal timelines show formal obligations, not enforcement capacity.
 
 ## Dissent Editor
 
-The article includes or requires a strong opposing view. The opposition is treated as a real analytical challenge, not as decoration.
+The article includes a opposition section that states the strongest good-faith objection before the article's argument proceeds.
 
 ## Style Editor
 
-The article was revised away from outline form into a magazine-style analytical draft with opening issue, evidence, competing interpretation, argument, implications, and uncertainty note.
+The article was revised away from generic dossier language and repeated process headings. Remaining limitations are handled in evidence, uncertainty, and dossier sections.

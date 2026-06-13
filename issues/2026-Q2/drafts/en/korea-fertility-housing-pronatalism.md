@@ -73,13 +73,13 @@ Pronatal policy is politically tempting because it promises a direct response to
 
 Korea has spent heavily on low fertility for years. The issue is not whether the state has tried. It is whether policy changes the life conditions that make parenthood feel possible. A subsidy cannot by itself lower the price of apartments, reduce after-school competition, shorten punishing work cultures, or redistribute care inside households.
 
-## Best Opposing View
+## The Rebound Case
 
 The strongest opposing view says analysts should stop finding reasons to discount good news. Births rose, marriages improved, and attitudes may be shifting. If policy, social adaptation, and cohort timing finally produce better numbers, excessive skepticism could become another form of fatalism.
 
 That objection is fair. A society should notice improvement. But the purpose of caution is not pessimism. It is protection against false explanation. If a temporary cohort effect is mistaken for structural repair, policy will relax too soon. If policy effects are real, they need to be identified precisely so they can be strengthened.
 
-## Argument
+## Family Formation As Institutional Confidence
 
 The fertility rebound should be treated as an opening, not a verdict.
 
@@ -87,15 +87,15 @@ The right question is not "has Korea solved low fertility?" It plainly has not. 
 
 Only that disaggregation can turn relief into knowledge.
 
-## Evidence Strength
+## What The Rebound Shows
 
 Overall evidence level: moderate. High confidence: official sources document a 2025 rise in births and TFR from very low levels. Moderate to low confidence: causal attribution among policy, marriage timing, cohort effects, housing, and labor conditions.
 
-## Uncertainty Note
+## One Better Year Is Not A Settlement
 
 This article welcomes the rebound but refuses to turn it into a demographic doctrine. The next serious version must be disaggregated or it will merely decorate a number.
 
-## Further Reading
+## Sources On Births, Housing, And Family Formation
 
 - [KOSIS, Vital Statistics of Korea](https://kosis.kr/statHtml/statHtml.do?language=en&orgId=101&tblId=DT_1B8000F)
 - [Ministry of Data and Statistics, Preliminary Results of Birth and Death Statistics in 2025](https://www.kostat.go.kr/board.es?act=view&bid=11773&list_no=444910&mid=a20108010000&nPage=1&ref_bid=11742%2C11743%2C11744%2C11745%2C11746%2C11747%2C11748%2C11749%2C11773%2C11774%2C11750&tag=)

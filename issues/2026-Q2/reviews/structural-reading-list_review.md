@@ -31,8 +31,8 @@ A bibliography should not blur primary sources, forecasts, indices, journalism, 
 
 ## Dissent Editor
 
-The article includes a Best Opposing View section that states the strongest good-faith objection before the author's argument proceeds.
+The article includes a opposition section that states the strongest good-faith objection before the author's argument proceeds.
 
 ## Style Editor
 
-The article was revised away from dossier language and repeated process phrases. Remaining limitations are handled in Evidence Strength and Uncertainty Note sections.
+The article was revised away from dossier language and repeated process phrases. Remaining limitations are handled in evidence and uncertainty sections.

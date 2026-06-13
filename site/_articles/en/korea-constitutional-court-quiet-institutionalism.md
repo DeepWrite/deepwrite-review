@@ -82,27 +82,27 @@ Quiet institutionalism is the practice of keeping thresholds visible. What count
 
 These questions sound technical. They are democratic infrastructure. Without them, constitutional politics becomes either heroic sentiment or raw power.
 
-## Best Opposing View
+## The Anti-Judicialization Case
 
 The strongest opposing view is that courts can become too central in democratic life. If every political conflict is judicialized, elected institutions may lose responsibility. Courts may also be shaped by appointments, ideology, professional culture, and strategic self-protection. A court that saves democracy once cannot be assumed to save it always.
 
 This objection is right. Constitutional courts are not democratic angels. But Korea's recent experience shows why legal thresholds matter. The alternative to judicial review of emergency power is not pure democracy. It can be executive unilateralism covered in popular language.
 
-## Argument
+## Correction Without Court Worship
 
 Korea's Constitutional Court should be read as an institution of correction, not as a heroic substitute for politics.
 
 Its value lies in the ability to say what ordinary politics may not do even under pressure. That role is strongest when it is legally narrow, publicly reasoned, procedurally careful, and consistent across spectacular and ordinary cases. Emergency-power decisions need ordinary-rights decisions around them. Otherwise constitutionalism becomes a one-time rescue rather than a habit.
 
-## Evidence Strength
+## What Official Summaries Support
 
 Overall evidence level: moderate. Official English summaries support the article's institutional framing. Full doctrinal evaluation remains limited until Korean full texts, separate opinions, and remedial details are reviewed.
 
-## Uncertainty Note
+## Korean Full Texts Still Matter
 
 This article deliberately avoids final doctrinal claims based only on English summaries. It treats the summaries as a map of institutional questions requiring deeper Korean-language legal review.
 
-## Further Reading
+## Sources On Constitutional Correction
 
 - [Constitutional Court of Korea, Latest Decisions](https://english.ccourt.go.kr/site/eng/ex/bbs/List.do?cbIdx=1143)
 - [Constitutional Court of Korea, Case Search](https://english.ccourt.go.kr/site/eng/ex/bbs/List.do?cbIdx=1143)

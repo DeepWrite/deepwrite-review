@@ -35,6 +35,10 @@ status: draft
 article_type: technology and society essay
 regional_scope: global
 substantive_editorial_pass: '2026-06-11'
+independent_editorial_pass: '2026-06-13'
+body_generation: independent_article_structure
+assigned_agent: Technology Editor with Law and Institutions Editor
+updated: '2026-06-13'
 ---
 
 # Can The World Govern AI Before It Becomes Infrastructure?
@@ -51,7 +55,7 @@ The tension is visible in three institutional signals. The [UN Global Dialogue o
 
 The question is not whether governance is necessary. It is what kind of governance is still possible once AI has become infrastructure.
 
-## Opening Issue
+## From Principles To Implementation
 
 AI regulation used to sound like a seminar question. It was discussed as ethics, safety, alignment, bias, creativity, or existential risk. Those questions remain real. But the practical center of gravity has moved. AI is now procurement, audit, employment practice, classroom policy, platform moderation, public-service automation, energy demand, competition policy, and international coordination.
 
@@ -59,7 +63,7 @@ That movement changes the politics. It is one thing to regulate a technology who
 
 This is why the UN dialogue matters even if it produces no binding law. It marks the point at which AI governance is no longer only national or corporate. It is now a multilateral legitimacy problem. But it also exposes the weakness of multilateralism: dialogue can coordinate vocabulary, but it cannot by itself build domestic regulators, auditors, data systems, courts, procurement rules, or public trust.
 
-## Central Question
+## The Infrastructure Trap
 
 Can institutions shape AI before AI becomes too deeply embedded to contest?
 
@@ -67,7 +71,7 @@ The answer depends on a distinction often blurred in public debate. To govern AI
 
 OECD data show the time pressure. More than one-third of individuals across the OECD used generative AI tools in 2025; three-quarters of students aged 16 and over reported use. Firm adoption rose to 20.2 percent in countries with available data, more than double the share two years earlier. These figures do not tell us whether AI is being used well. They tell us that governance is arriving after mass diffusion has begun.
 
-## Evidence And Analysis
+## Law, Adoption, And Institutional Capacity
 
 The EU AI Act is the most ambitious regulatory experiment now entering implementation. The Commission describes a risk-based architecture: banned practices, high-risk uses, transparency obligations, rules for general-purpose models, and institutions such as the AI Office and member-state authorities. The timetable matters. Prohibited practices and AI literacy obligations entered application in February 2025. GPAI obligations became applicable in August 2025. Transparency rules come into effect in August 2026, while some high-risk rules arrive later.
 
@@ -77,7 +81,7 @@ The OECD adoption data reveal another problem: unevenness. Large firms are far m
 
 The Stanford AI Index is useful not because it settles the argument but because it shows how many dimensions now move at once: capability, investment, deployment, policy, education, and public attitudes. AI governance is therefore synchronization across domains that do not move at the same speed.
 
-## Competing Interpretations
+## Four Governance Stories
 
 The regulatory-optimist view says the architecture is arriving in time. The EU has law, the UN has dialogue, the OECD supplies adoption data, and standards bodies will fill gaps.
 
@@ -87,13 +91,13 @@ The capture view says AI governance will strengthen incumbents. Complex complian
 
 The democratic-capacity view, favored here, asks whether affected people can contest decisions, whether public agencies can inspect systems, and whether rules can keep pace without surrendering to panic or inevitability.
 
-## Best Opposing View
+## The Capture Objection
 
 The strongest objection is that early regulation may entrench the very firms it seeks to control. Large model providers can hire lawyers, produce documentation, lobby over standards, and operate regulatory-affairs teams. Smaller developers, public-interest projects, and open-source communities may struggle. If the state lacks independent technical capacity, it may rely on vendor explanations and call that oversight.
 
 This objection is serious. A bad AI law can create the appearance of control while consolidating power. But the objection does not support no governance. It supports better governance. If AI becomes infrastructure, the price of weak oversight rises over time.
 
-## Argument
+## Democratic Capacity, Not Paper Control
 
 AI governance should begin from a sober premise: AI will not wait for institutions to become ready.
 
@@ -107,19 +111,19 @@ The third task is public expertise. Governments cannot govern AI through vendor 
 
 The fourth task is humility. Some risks are measurable; others emerge through use. Rules must be stable enough to guide behavior and revisable enough to learn.
 
-## Policy Or Civic Implications
+## Governance Where Deployment Happens
 
 Governments should build technical civil-service capacity before procurement dependence becomes irreversible. Public agencies should require audit rights, documentation, incident reporting, and appeal mechanisms for high-stakes systems. Education policy should treat AI literacy as institutional design, not slogan. Competition policy should monitor compute, cloud, model access, data concentration, and standards capture.
 
-## Evidence Strength
+## What The Governance Sources Show
 
 Overall evidence level: moderate. High confidence: OECD documents diffusion; the EU AI Act has a staged risk-based framework; the UN dialogue is scheduled for July 2026. Moderate confidence: implementation capacity will determine whether governance matters. Contested: the optimal balance between innovation, competition, rights, and enforcement.
 
-## Uncertainty Note
+## What Implementation May Prove
 
 This article does not claim that any current framework is sufficient. It claims that the window for building enforceable public capacity is narrower than the rhetoric of future regulation suggests.
 
-## Further Reading
+## Governance Sources To Watch
 
 - [United Nations, Global Dialogue on AI Governance](https://www.un.org/global-dialogue-ai-governance/en)
 - [European Commission, AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
