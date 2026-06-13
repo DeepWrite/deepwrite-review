@@ -5,6 +5,7 @@ date: "2026-06-13"
 status: independent_rewrite_checked
 chief_editor_status: approved_for_temporary_publication
 assigned_agent: "Technology Editor with Economics Editor and Data Researcher"
+representative_full_rewrite: "2026-06-13"
 ---
 
 # Editorial Review: The AI Boom Meets The War Economy
@@ -12,6 +13,10 @@ assigned_agent: "Technology Editor with Economics Editor and Data Researcher"
 ## Independent Agent Check
 
 The June 13 repair assigns the article to the Technology Editor with Economics Editor and Data Researcher and removes the previous compact-body section scaffold. The public English text now uses article-specific section headings and keeps source-limit, reporting-path, and development notes in this review or the source dossier.
+
+## Representative Full-Rewrite Check
+
+The later June 13 pass rewrote this article as the representative test case for the new policy. The body now follows the article's assigned desks rather than merely naming them in metadata: the technology line follows compute, cloud, chips, siting, and vendor dependency; the economics line follows investment, productivity uncertainty, and distribution; the data line separates adoption, productivity, electricity demand, AI-specific demand, investment, and welfare. This is the model to use when the remaining Q2 manuscripts are rewritten.
 
 ## Relocated Development Notes
 
@@ -31,7 +36,7 @@ Do not treat all data-centre demand as AI demand, all AI adoption as productivit
 
 ## Dissent Editor
 
-The article includes a opposition section that states the strongest good-faith objection before the article's argument proceeds.
+The article includes an opposition section that states the strongest good-faith objection before the article's argument proceeds.
 
 ## Style Editor
 

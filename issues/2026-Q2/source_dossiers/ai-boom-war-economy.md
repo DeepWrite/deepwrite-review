@@ -6,6 +6,7 @@ status: independent_rewrite_dossier
 chief_editor_status: approved_for_review
 updated: "2026-06-13"
 assigned_agent: "Technology Editor with Economics Editor and Data Researcher"
+representative_full_rewrite: "2026-06-13"
 ---
 
 # Source Dossier: The AI Boom Meets The War Economy
@@ -13,6 +14,10 @@ assigned_agent: "Technology Editor with Economics Editor and Data Researcher"
 ## Independent Reporting Assignment
 
 This article is assigned to the Technology Editor with Economics Editor and Data Researcher. It must proceed as a magazine article, not a compact briefing skeleton. The public article should carry argument, evidence, cases, and prose; development notes belong here or in review files.
+
+## Representative Full-Rewrite Note
+
+The June 13 representative rewrite moved beyond heading repair. The public article now stages the assigned desks inside the prose itself: compute-stack analysis for the technology editor, investment and distribution analysis for the economics editor, and denominator discipline for the data researcher. The rewrite deliberately avoids treating AI adoption, productivity gains, data-centre demand, AI-specific electricity demand, investment, and welfare as interchangeable measures.
 
 ## Central Thesis
 

@@ -28,11 +28,12 @@ tags:
 - energy
 - war economy
 - infrastructure
-abstract: The 2026 AI boom is not occurring in a frictionless economy. It is unfolding
-  amid war risk, energy pressure, trade uncertainty, and a weaker global outlook.
-  The central question is therefore not whether AI is transformative, but whether
-  institutions can govern its transformation when the material foundations of computation
-  are becoming strategic, expensive, and politically contested.
+abstract: The AI boom is now a material political economy, not just a software story.
+  Its central inputs are electricity, chips, data centres, capital, permitting, technical
+  labour, and public consent, all under war-shadowed macroeconomic conditions. The
+  useful question is therefore not whether AI is transformative, but whether societies
+  can build the capacities that let transformation become broad welfare rather than
+  concentrated fragility.
 evidence_level: moderate
 citation_status: draft_cited
 translation_status: draft
@@ -43,6 +44,8 @@ independent_editorial_pass: '2026-06-13'
 body_generation: independent_article_structure
 assigned_agent: Technology Editor with Economics Editor and Data Researcher
 updated: '2026-06-13'
+representative_full_rewrite: '2026-06-13'
+full_rewrite_model: agent_specific_prose_rewrite
 ---
 
 # The AI Boom Meets The War Economy
@@ -53,103 +56,79 @@ updated: '2026-06-13'
 
 ## Abstract
 
-The public argument about artificial intelligence still tends to divide itself into two theatrical camps: transformation and doom. The first sees a productivity revolution gathering force; the second sees labor markets, schools, media, and democratic politics sliding into automated disorder. Both arguments contain evidence. Neither is adequate to the quarter now in front of us.
+The AI boom is now a material political economy, not just a software story. Its central inputs are electricity, chips, data centres, capital, permitting, technical labour, and public consent, all under war-shadowed macroeconomic conditions. The useful question is therefore not whether AI is transformative, but whether societies can build the capacities that let transformation become broad welfare rather than concentrated fragility.
 
-The more important fact is that AI is becoming infrastructure at the same time the world economy is being reorganized by war, energy scarcity, trade friction, and industrial policy. The question is not whether AI will matter. It already does. The question is whether societies can absorb a general-purpose technology whose physical requirements are suddenly visible: chips, grids, cooling systems, data centers, capital markets, trained workers, export controls, and public tolerance for the local costs of a global platform economy.
+## The Boom Is A Supply Chain
 
-## Electricity Returns To The AI Story
+The first mistake in reading the 2026 AI boom is to treat it as a debate about model intelligence alone. That was the earlier phase. The present phase is rougher and more institutional. Artificial intelligence now arrives as a queue for grid connections, a claim on semiconductor capacity, a contract for cloud infrastructure, a zoning dispute around data centres, a water and cooling problem, a balance-sheet bet by firms, and a political promise that future productivity will justify present costs.
 
-The AI boom arrived with a strangely old-fashioned demand: electricity.
+That is why the war economy matters. The [IMF's April 2026 World Economic Outlook](https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026) describes the global economy as growing under the shadow of war, with 2026 growth projected below recent and pre-pandemic norms. The [OECD's June 2026 Economic Outlook](https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6.html) similarly frames growth as slower and more exposed to disruption. These are not background decorations. They are the conditions under which AI infrastructure is being financed, permitted, powered, and justified.
 
-For years, the most influential stories about artificial intelligence were abstract. They concerned intelligence, labor substitution, creativity, cheating, surveillance, alignment, or existential risk. Those questions remain real. But in 2026 the argument has acquired a harder material edge. AI no longer appears only as software. It appears as load on the grid, demand for chips, pressure on water systems, claims on capital, and a reason for states to treat computing infrastructure as strategic capacity.
+A boom inside abundance is one kind of political problem. A boom inside scarcity is another. When energy systems are tight, fiscal space is contested, trade routes are more fragile, and export controls shape the chip frontier, the question of who gets compute becomes a question of economic power. AI is no longer only a tool that firms adopt. It is a stack of bottlenecks that states and firms try to command.
 
-That shift would matter in any year. It matters more in this one because the global economy is again living inside geopolitical disruption. The [IMF's April 2026 World Economic Outlook](https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026) frames the world economy as one "in the shadow of war": under its limited-conflict assumption, global growth is projected at 3.1 percent in 2026 and 3.2 percent in 2027, below recent outcomes and well below pre-pandemic averages. The [OECD's June 2026 Economic Outlook](https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6.html) is still more severe in its central framing, projecting global growth to slow from 3.4 percent in 2025 to 2.8 percent in 2026 before recovering to 3.1 percent in 2027 under a time-limited disruption scenario.
+## At The Compute Layer
 
-These forecasts may change. Forecasts are not facts; they are disciplined conditional arguments. But their convergence matters. They describe a world in which the AI investment cycle is not floating above politics. It is occurring inside a more expensive, more securitized, more fragile global economy.
+Viewed from the technology desk, the critical fact is that AI has become legible below the application layer. The visible interface may be a chatbot, coding assistant, tutor, search product, design tool, or office workflow. But the strategic layer is lower: chips, cloud platforms, model distribution, data-centre siting, energy contracts, and technical operations.
 
-## Compute Under Geopolitical Scarcity
+The [OECD reported](https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html) that firm AI use in OECD countries with available data rose to 20.2 percent in 2025, from 14.2 percent in 2024 and 8.7 percent in 2023. That diffusion is real. But adoption is not the same thing as control over the stack. A small firm may use AI while remaining dependent on model providers, cloud vendors, app distributors, and energy prices it cannot influence. A university may adopt AI tools while lacking the assessment architecture to govern them. A government may announce AI capacity while lacking technical staff able to audit vendors.
 
-How should readers understand an AI boom when it is unfolding inside a war-shadowed economy?
+The infrastructure question therefore changes the politics of innovation. It asks who owns the scarce layer, who can inspect it, who can afford access, who bears local costs, and who is locked into dependency. A society can have widespread AI use and still have narrow AI power.
 
-The easy answer is to say that AI will rescue growth. The opposite easy answer is to say that AI is a bubble, a speculative fever made more dangerous by geopolitical stress. Both answers are premature. The better answer is that AI has become a test of institutional capacity.
+## At The Energy Layer
 
-Can energy systems expand fast enough without worsening emissions, local backlash, or price pressure? Can labor-market institutions distinguish displacement from reorganization? Can competition policy and industrial policy prevent the infrastructure layer from becoming too concentrated? Can democracies govern a technology whose costs are local, whose profits are concentrated, and whose claimed benefits are often diffuse and delayed?
+The energy evidence gives the article its discipline because it prevents AI from floating away into metaphor. The [IEA estimates](https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai) that data centres consumed around 415 terawatt-hours of electricity in 2024, about 1.5 percent of global electricity use, after several years of rapid growth. In its [Key Questions on Energy and AI](https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary), the IEA projects data-centre electricity consumption rising from 485 TWh in 2025 to about 950 TWh in 2030, with AI-focused data centres growing faster than the category as a whole.
 
-This is why "AI and the economy" is the wrong frame. The actual subject is AI as infrastructure under conditions of scarcity.
+These numbers do not prove that AI will break the grid. They do prove that AI policy is now also electricity policy. The relevant questions are concrete. Which grids can connect new loads quickly? Which localities are asked to host data centres? Which power contracts displace other users? Which clean-energy claims are additional and which merely reshuffle accounting? Which households experience the boom as higher prices, land conflict, or water stress?
 
-## Three Distinctions For The Boom
+The point is not to moralize electricity use. Many valuable technologies require power. The point is to make the denominator visible. A technology that asks for public infrastructure must enter public accounting.
 
-Three distinctions matter.
+## At The Macro Layer
 
-First, AI adoption is not the same as productivity growth. The [OECD reported](https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html) that 20.2 percent of firms in OECD countries with available data used AI in 2025, up from 14.2 percent in 2024 and 8.7 percent in 2023. That is a real diffusion curve. It does not, by itself, prove economy-wide productivity acceleration.
+Viewed from the economics desk, the AI boom has two faces. It is a possible productivity shock and an investment race with distributional risk.
 
-Second, AI infrastructure is not immaterial. The [IEA estimates](https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai) that data centers consumed around 415 terawatt-hours of electricity in 2024, about 1.5 percent of global electricity consumption, and that their electricity use had grown by about 12 percent per year over the previous five years. In its updated discussion of energy and AI, the [IEA projects](https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary) data-center electricity consumption rising from 485 TWh in 2025 to about 950 TWh in 2030, around 3 percent of global electricity demand, with AI-focused data centers growing faster than data centers overall.
+The optimistic case is straightforward. Advanced economies face aging, care burdens, fiscal pressure, defence commitments, climate adaptation, and weak productivity growth. If AI can raise output, improve scientific discovery, reduce administrative waste, and help firms reorganize work, then it may create the very capacity needed to meet these obligations. A society that refuses productivity growth may end up distributing scarcity more cruelly.
 
-Third, the war economy is not simply a matter of defense spending. It is a broader condition in which energy, shipping, components, sanctions, export controls, insurance, fiscal space, and industrial capacity become politically exposed. AI develops inside that condition. It does not escape it.
+But the investment race does not automatically become social productivity. Capital expenditure can concentrate in a few firms. Energy and land costs can be local while returns are global. Workers can be monitored before they are helped. Firms can adopt tools that reduce headcount in one department without producing economy-wide gains. Public authorities can subsidize data-centre buildouts while schools, care systems, and local governments remain under-capacitated.
 
-## Macro, Adoption, Energy, Capacity
+That is why the question is not whether AI investment is large. It is what kind of capacity the investment leaves behind. Does it build grids, skills, open standards, public competence, and competitive markets? Or does it build dependency on a narrow infrastructure club?
 
-The strongest evidence for this article is not one dramatic number but the alignment of several source families.
+## The Measurement Discipline
 
-The macro evidence points toward constrained resilience. The IMF and OECD both describe a world economy still growing, but doing so under weaker assumptions, higher uncertainty, and commodity or energy risks. That does not mean recession is inevitable. It does mean that the cost of error has risen.
+The data researcher has a simple task in this article: keep unlike numbers from pretending to be the same number.
 
-The technology evidence points toward real diffusion. OECD firm-adoption figures show AI moving beyond demonstration and into regular business use. The Stanford AI Index and other technical benchmarks will need to be reviewed in the next source pass, but the policy-relevant point is already visible: AI is no longer only a research field or consumer interface. It is becoming an operating layer for firms, governments, schools, and platforms.
+AI adoption is not productivity growth. Data-centre electricity demand is not identical to AI electricity demand. Investment is not welfare. User enthusiasm is not institutional readiness. Model capability is not deployment safety. A forecast is not an observation. A national aggregate is not a regional burden.
 
-The energy evidence makes the infrastructure problem concrete. Data centers are not the whole electricity story, and AI is not the whole data-center story. But the IEA's figures are large enough to change the terms of debate. A sector that uses roughly 1.5 percent of global electricity and may approach 3 percent by 2030 is not just a digital metaphor. It is a participant in energy planning.
+This sounds fussy until the policy consequences appear. If adoption is mistaken for productivity, governments may declare victory before gains reach wages or public services. If all data-centre demand is treated as AI demand, critics may exaggerate the technology's footprint and supporters may dismiss legitimate planning questions. If investment is treated as welfare, public policy may subsidize private capacity without asking what citizens receive in return.
 
-The institutional evidence is weaker but more important. We do not yet have enough evidence to say which countries will govern this well. But we can specify the capacities that will matter: grid planning, energy permitting, competition policy, labor-market adjustment, public procurement, education reform, data governance, and fiscal discipline.
-
-## Four Readings Of The AI Boom
-
-The first interpretation is the productivity view. On this account, AI is a rare positive supply-side shock. It can lift output, help firms reorganize work, improve science and medicine, reduce bureaucratic friction, and generate the very fiscal capacity that aging societies and climate adaptation will require. The short-term costs are real, but historically general-purpose technologies create more social wealth than they destroy.
-
-The second interpretation is the bubble view. On this account, AI is absorbing capital, energy, talent, and public attention before proving that it can deliver broad productivity gains. The data-center buildout becomes a physical expression of speculative excess. If growth slows and energy prices rise, societies may discover that they subsidized a fragile infrastructure race whose benefits are captured by a few firms.
-
-The third interpretation is the control view. This is less interested in productivity than in power. AI extends the capacity of firms and states to monitor, sort, predict, and discipline. The danger is not mass unemployment tomorrow but a quieter reorganization of authority: workers monitored more closely, students assessed more mechanically, citizens profiled more deeply, and institutions tempted to automate judgment before they have earned trust.
-
-The fourth interpretation, favored here, is the capacity view. AI's benefits and dangers will be determined less by the abstract capability of models than by the institutions into which those models are inserted. Under stable conditions, that would already be difficult. Under war-shadowed macroeconomic conditions, the institutional test becomes sharper.
+The 2026 AI debate needs fewer spectacular claims and better denominators.
 
 ## The Productivity Rescue Case
 
-The strongest opposing view is that this article overburdens AI with the anxieties of the moment.
+The strongest opposing view is that this article burdens AI with too much of the present crisis. Every major technology required infrastructure. Railways needed steel and land. Electrification needed grids. The internet needed cables, servers, protocols, and public standards. If AI requires electricity, chips, capital, and organizational change, that may show not fragility but seriousness.
 
-On this view, every major technology has required infrastructure. Railways required steel and land; electrification required grids; the internet required fiber, servers, and standards. The fact that AI needs electricity and chips does not make it uniquely dangerous. Nor does geopolitical disorder invalidate the productivity case. If anything, a world of war, aging, weak growth, and administrative overload needs more automation, not less. AI may help firms operate through labor scarcity, accelerate scientific discovery, improve logistics, and make public services more efficient.
+This objection is strong. It also has a humane side. In a world of war risk, aging, weak growth, public debt, and administrative overload, automation may be one of the few ways to avoid a politics of pure rationing. If AI helps laboratories discover faster, hospitals triage better, firms use labour more productively, and public agencies reduce waste, then delay has costs too.
 
-This objection should be taken seriously. It is correct that infrastructure demand is not an argument against a technology. It is also correct that productivity growth is the only humane way to meet many of the obligations now piling up on advanced societies: pensions, health care, defense, climate adaptation, education, and care.
+But the objection fails if it treats usefulness as self-governance. A useful technology can still create dependence. A productivity-enhancing tool can still concentrate returns. A data-centre buildout can still impose local costs without democratic legitimacy. The fact that AI may be needed makes governance more urgent, not less.
 
-But the objection does not remove the institutional question. It sharpens it. A useful technology can still be badly governed. A productivity-enhancing technology can still distribute gains narrowly. An infrastructure buildout can still impose local costs without public legitimacy. A boom can be real and still create fragility.
+## Capacity Is The Policy Unit
 
-## From Demonstration To Institutional Absorption
+The right policy unit is capacity. Not hype, not fear, not adoption, and not a single regulatory slogan.
 
-AI is now entering the stage at which technological possibility becomes political economy.
+Energy capacity means generation, transmission, permitting, pricing, local compensation, and credible clean-power accounting. Compute capacity means chips, cloud access, interoperability, auditability, procurement expertise, and resilience against geopolitical chokepoints. Labour capacity means training, bargaining power, transition support, and education systems that know what human competence they are certifying. Market capacity means competition rules that see infrastructure bottlenecks before dependency hardens. Democratic capacity means citizens can understand the tradeoffs being made in their name.
 
-The first stage of a technology boom is demonstration. The second is diffusion. The third is institutional absorption. AI is moving from the second to the third faster than many institutions can adapt. This is why the 2026 debate cannot be limited to whether the models are impressive. It must ask what must be built around them, who pays for that buildout, who governs it, and who can refuse it.
+This is why AI governance cannot be left to AI ministries, technology companies, or abstract ethics statements. It belongs in energy planning, industrial policy, competition law, labour-market institutions, public procurement, universities, and fiscal politics. The technology is general-purpose; the governing capacity must be distributed.
 
-The energy question is a useful discipline because it resists abstraction. One can argue endlessly about whether AI will produce general intelligence, replace writers, transform medicine, or destroy entry-level work. It is harder to avoid the practical question of where the power comes from. A data center that needs electricity, cooling, land, transmission, and political permission has entered the ordinary world of distributional conflict.
+A country can buy applications faster than it builds institutions. That is the danger. The appearance of adoption can outrun the reality of absorption.
 
-That ordinary world is now less forgiving. The IMF and OECD forecasts do not describe a collapsing global economy. They describe something more politically treacherous: a world still growing, but with less margin. Inflation risk complicates monetary easing. Energy shocks complicate household politics. Trade disruption complicates investment planning. War risk complicates everything.
+## What To Watch Before Calling It Transformation
 
-In such a world, AI investment can play two roles at once. It can support growth, especially in countries and firms positioned inside the hardware, software, and cloud infrastructure stack. It can also deepen divergence between those inside and outside the boom. Regions with chips, grids, capital, and technical labor may experience AI as opportunity. Regions with expensive energy, weak infrastructure, or exposed workers may experience it as extraction or threat.
+The next version of this article should watch five indicators before making stronger claims.
 
-That divergence is not a side issue. It is the politics of the AI economy.
+First, productivity: do measured gains appear outside a narrow set of firms and sectors? Second, energy: do data-centre loads produce grid upgrades, clean generation, local compensation, or merely queue-jumping? Third, labour: are workers moved into better tasks, or are entry-level pathways and bargaining power weakened? Fourth, competition: do compute, cloud, chip, and model-distribution markets remain contestable? Fifth, public capacity: can governments audit systems they procure and explain the tradeoffs they accept?
 
-The same is true for labor. The question is not simply whether AI destroys jobs. The evidence for immediate mass unemployment remains contested and often too weak for confident causal claims. The more plausible near-term pattern is uneven task reorganization: fewer entry-level openings in some sectors, more monitoring in others, new skill premiums for workers who can use AI well, and new insecurity for workers whose tasks are legible to automation but whose institutions cannot help them move.
+If these indicators improve together, the AI boom may become a broad institutional gain. If they diverge, the boom may still be technologically impressive while politically brittle.
 
-Public policy is poorly suited to this ambiguity. It prefers clean categories: employed or unemployed, regulated or unregulated, safe or unsafe, innovation or restriction. AI will produce messier transitions. Some workers will be replaced; others will be augmented; still others will be managed more intensely by systems sold as productivity tools. The distribution of gains will depend on bargaining power, competition, education, and welfare institutions.
-
-The central problem, then, is not that AI is too powerful to govern. It is that governing AI requires capacities that many states have allowed to weaken: technical expertise, administrative legitimacy, long-term infrastructure planning, competition enforcement, education redesign, and the ability to tell citizens the truth about tradeoffs.
-
-## What Governance Must See
-
-First, energy policy is now AI policy. A government that wants AI capacity without grid capacity is not planning; it is wishing. Data-center permitting, transmission investment, electricity pricing, clean generation, and local compensation should be treated as part of AI governance.
-
-Second, labor policy should focus less on theatrical predictions and more on transition architecture. The right question is not "Will AI take all the jobs?" but which tasks, occupations, regions, and career stages are exposed; which workers have bargaining power; and which institutions can help people move before displacement becomes social injury.
-
-Third, competition policy should look below the app layer. The strategic bottlenecks are likely to include compute, cloud access, chips, data, model distribution, and energy contracts. If AI becomes infrastructure, then concentration at the infrastructure layer matters.
-
-Fourth, public communication should become more honest. AI policy is damaged by both promotional mysticism and apocalyptic fatalism. Citizens do not need reassurance that everything will be fine. They need visible institutions capable of making tradeoffs intelligible.
-
-## What The Infrastructure Evidence Supports
+## What The Evidence Can Bear
 
 Overall evidence level: moderate.
 
@@ -157,25 +136,20 @@ High-confidence claims:
 
 - Major institutions forecast weaker global growth and elevated uncertainty in 2026.
 - Firm-level AI adoption is rising across OECD countries where data are available.
-- Data centers are already a material electricity-demand category, and projected demand growth is large enough to matter for energy planning.
+- Data centres are already a material electricity-demand category, and projected demand growth is large enough to matter for energy planning.
 
 Moderate-confidence claims:
 
-- AI infrastructure will intensify distributional and regional conflicts over energy, land, water, and capital.
-- AI investment may support growth in some sectors while deepening divergence elsewhere.
+- AI infrastructure will intensify conflicts over energy, land, water, capital, and local consent in some regions.
+- AI investment can support growth while also deepening dependency on concentrated infrastructure providers.
+- Institutional capacity will determine whether AI's benefits diffuse broadly.
 
-Contested or incomplete claims:
+Claims that remain incomplete:
 
 - The net effect of AI on employment.
 - The size and timing of productivity gains.
-- The causal role of AI in current layoffs or corporate restructuring.
-- Whether data-center electricity growth will translate into higher emissions, given changes in generation mix.
-
-## What The Boom Has Not Yet Proved
-
-This draft does not claim that the AI boom is a bubble. It also does not claim that AI will rescue the global economy. The evidence does not yet support either conclusion.
-
-The strongest uncertainty concerns time scale. AI adoption can rise quickly while productivity gains appear slowly. Infrastructure demand can be immediate while social benefits remain diffuse. Labor displacement can occur through hiring slowdowns and task compression before unemployment statistics register a clean shock. The article should therefore avoid both near-term panic and long-term complacency.
+- The share of data-centre growth directly attributable to AI rather than other digital demand.
+- The emissions effect of new data-centre load under different generation mixes.
 
 ## Sources For The Infrastructure Question
 
@@ -184,7 +158,3 @@ The strongest uncertainty concerns time scale. AI adoption can rise quickly whil
 - [International Energy Agency, "Energy demand from AI"](https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai)
 - [International Energy Agency, *Key Questions on Energy and AI*, Executive Summary](https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary)
 - [OECD, "AI use by individuals surges across the OECD as adoption by firms continues to expand"](https://www.oecd.org/en/about/news/announcements/2026/01/ai-use-by-individuals-surges-across-the-oecd-as-adoption-by-firms-continues-to-expand.html)
-
-## Why Official Sources Lead
-
-This draft uses only institutional and official-source evidence for factual and statistical claims. Commentary and journalism should be added later only as evidence of discourse, investor mood, or public controversy, not as raw evidence for the article's causal claims.
