@@ -28,13 +28,14 @@ tags:
   - global economy
 abstract: "The striking feature of the 2026 global economy is not collapse. It is conditional resilience. Growth continues, but it depends on assumptions about limited conflict, manageable energy prices, contained inflation expectations, adaptable trade, and continued technology-related investment. This makes the quarter less a story of recession than of narrowing margins."
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: "2026-06-11"
-publication_approved_date: "2026-06-11"
-published_date: "2026-06-11"
-status: published
+temporary_publication_approved_date: "2026-06-11"
+temporary_published_date: "2026-06-11"
+status: temporary_publication
+publication_stage: temporary
 ---
 
 # The New Macro Fragility
@@ -93,7 +94,7 @@ The OECD's June outlook similarly works through scenarios. Its time-limited disr
 
 The World Bank's January report adds a longer horizon. Even before the full force of the latest energy and conflict shock was reflected in later forecasts, it described a global economy that had proved resilient in aggregate while leaving many vulnerable economies behind. That matters because uneven and slower trend growth makes every shock more political. When growth is strong, adjustment can be hidden inside expansion. When growth is weak or uneven, every reallocation becomes a fight over shares.
 
-Energy is the most direct transmission channel. Higher oil, gas, or shipping costs do not remain in commodity markets. They pass into household bills, transport, food, industrial costs, fiscal subsidies, and central-bank decisions. The [IEA's 2026 energy work](https://www.iea.org/reports/global-energy-review-2026) should be used in the next evidence pass to specify the electricity, fuel, and emissions picture more precisely; for this draft, the point is narrower: energy is again a macro variable, not a sectoral afterthought.
+Energy is the most direct transmission channel. Higher oil, gas, or shipping costs do not remain in commodity markets. They pass into household bills, transport, food, industrial costs, fiscal subsidies, and central-bank decisions. The [IEA's 2026 energy work](https://www.iea.org/reports/global-energy-review-2026) should be used in the next evidence pass to specify the electricity, fuel, and emissions picture more precisely; for this temporary-publication version, the point is narrower: energy is again a macro variable, not a sectoral afterthought.
 
 Technology investment complicates the story. AI-related investment may support growth and explain why some advanced and export-oriented economies continue to show strength. But if that investment is concentrated in firms, regions, and supply chains with privileged access to capital, chips, and electricity, it can coexist with broader social and regional weakness.
 
@@ -168,9 +169,9 @@ Contested or incomplete claims:
 
 ## Uncertainty Note
 
-This draft relies on institutional forecasts. Forecasts are useful because they make assumptions explicit, but they are not direct observations. Final review should compare IMF, OECD, World Bank, and central-bank assumptions before the article makes any stronger claim about the magnitude of global slowdown.
+This article relies on institutional forecasts. Forecasts are useful because they make assumptions explicit, but they are not direct observations. Permanent issue review should compare IMF, OECD, World Bank, and central-bank assumptions before the article makes any stronger claim about the magnitude of global slowdown.
 
-The draft should also avoid collapsing different regions into one global mood. Europe, the United States, China, India, Korea, and developing economies face different combinations of energy exposure, fiscal space, trade structure, and technology investment.
+This article should also avoid collapsing different regions into one global mood. Europe, the United States, China, India, Korea, and developing economies face different combinations of energy exposure, fiscal space, trade structure, and technology investment.
 
 ## Further Reading
 
@@ -181,4 +182,4 @@ The draft should also avoid collapsing different regions into one global mood. E
 
 ## Citations
 
-This draft uses institutional forecasts as evidence of structured expectations, not as direct proof of future outcomes. Final fact-check should verify all forecast figures against the full reports and record scenario assumptions in the evidence log.
+This temporary-publication version uses institutional forecasts as evidence of structured expectations, not as direct proof of future outcomes. Permanent issue fact-check should verify all forecast figures against the full reports and record scenario assumptions in the evidence log.

@@ -25,13 +25,14 @@ tags:
 abstract: 최근 헌법재판소 결정들은 절제되어 있지만 중요한 권리 보호적 제도주의를 보여준다. 2026년에 헌법재판소는 미신고 옥외집회 형사처벌과
   체포적부심을 준비하던 피의자에 대한 변호인 접견 거부를 다뤘다. 교훈은 헌정 승리주의가 아니다. 권리는 종종 기술적이고 일상적인 결정 속에서 살아남는다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: law and institutions essay
 regional_scope: korea
 substantive_editorial_pass: '2026-06-11'
@@ -41,7 +42,7 @@ assigned_agent: Law and Institutions Editor
 updated: '2026-06-12'
 ---
 
-# 한국 헌법재판소와 조용한 제도주의
+# 헌법재판소의 조용한 제도주의
 
 > 편집 상태: 편집장 임시 승인에 따른 임시 발행.
 >
@@ -49,7 +50,7 @@ updated: '2026-06-12'
 
 ## 초록
 
-헌정 회복력은 자주 극적인 사건으로 상상된다. 군인이 멈추고, 재판관이 말하고, 군중이 환호하고, 대통령이 물러나는 장면이다. 계엄 이후 한국의 헌정 이야기에는 그런 드라마가 있다. 그러나 더 깊은 제도적 교훈은 조용한 작업에 있다. 재판 가능성, 비례성, 변호인 접견, 집회 규율, 선거 의석 배분 기준, 개선입법 시한, 정치 갈등과 비상 권한의 경계가 그것이다.
+헌정 회복력은 자주 극적인 사건으로 상상된다. 군인이 멈추고, 재판관이 말하고, 군중이 환호하고, 대통령이 물러나는 장면이다. 계엄 이후 한국의 헌정 이야기에는 그런 드라마가 있다. 그러나 더 깊은 제도적 교훈은 조용한 작업에 있다. 재판 가능성, 비례성, 변호인 접견, 집회 규율, 선거 의석 배분 기준, 개선입법 시한, 정치 갈등과 비상 권한의 경계 같은 문제들이다.
 
 ## 위기 사건
 
@@ -75,7 +76,7 @@ updated: '2026-06-12'
 
 조용한 제도주의란 기준을 보이게 유지하는 일이다. 무엇이 비상인가. 무엇이 중대한 위반인가. 제한은 언제 비례적인가. 법은 언제 즉시 무효가 되고, 언제 입법자가 고칠 때까지 잠정 적용되는가. 어떤 절차 하자가 중요한가. 어떤 청구는 재판 대상이 아닌가.
 
-이런 질문은 기술적으로 들린다. 그러나 민주주의의 인프라다. 그것이 없으면 헌정 정치는 영웅적 감정이나 날것의 권력으로 바뀐다.
+이런 질문은 기술적으로 들린다. 그러나 민주주의의 인프라다. 이 기준들이 없으면 헌정 정치는 영웅적 감정이나 날것의 권력으로 바뀐다.
 
 ## 가장 강한 반론
 
@@ -93,7 +94,7 @@ updated: '2026-06-12'
 
 전체 근거 수준: 중간. 공식 영문 요약은 제도적 프레임을 지지한다. 최종 법리 평가는 한국어 전문, 별개의견, 구제 방식 검토 전까지 제한된다.
 
-## 불확실성 노트
+## 불확실성에 대하여
 
 이 글은 영문 요약만으로 최종 법리 주장을 하지 않는다. 요약을 더 깊은 한국어 법률 검토가 필요한 제도 질문의 지도처럼 사용한다.
 

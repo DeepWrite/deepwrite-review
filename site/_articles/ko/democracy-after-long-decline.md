@@ -25,13 +25,14 @@ tags:
 abstract: 민주주의의 후퇴는 더 이상 짧은 비상사태로만 이해하기 어렵다. 2026년에는 그것이 배경 조건이 되었다. 권리, 사법 독립, 시민
   공간, 선거 신뢰의 반복적 악화는 체제 붕괴가 되기 전에 평범한 제도적 날씨가 될 수 있다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: institutional analysis
 regional_scope: global
 substantive_editorial_pass: '2026-06-11'

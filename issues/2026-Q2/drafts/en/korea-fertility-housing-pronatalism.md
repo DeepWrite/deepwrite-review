@@ -27,13 +27,11 @@ abstract: 'Korea''s fertility problem cannot be reduced to birth incentives. Off
   fertility, but the structural question remains: can young adults form households
   under current housing, work, education, care, and gender arrangements?'
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: draft_cited
+translation_status: draft
+chief_editor_status: approved_for_review
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+status: draft
 article_type: demography and family essay
 regional_scope: korea
 substantive_editorial_pass: '2026-06-11'
@@ -45,7 +43,7 @@ updated: '2026-06-12'
 
 # Korea's Fertility Rebound And The Housing Question
 
-> Editorial status: temporarily published by Chief Editor approval.
+> Editorial status: draft submission. Not approved for publication from this drafts path.
 >
 > Prepared with Codex editorial agents. Human editorial responsibility remains with Jeyoun Son (손제연).
 

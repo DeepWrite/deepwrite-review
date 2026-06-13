@@ -25,13 +25,11 @@ tags:
 abstract: 한국의 출산 문제는 출산 인센티브로 환원될 수 없다. 공식 자료 발표와 정부 요약은 2025년 출생아 수와 합계출산율의 반등을 전했지만,
   구조적 질문은 남아 있다. 청년들은 현재의 주거, 일, 교육, 돌봄, 젠더 질서 아래에서 가계를 형성할 수 있는가?
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: draft_cited
+translation_status: draft
+chief_editor_status: approved_for_review
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+status: draft
 article_type: demography and family essay
 regional_scope: korea
 substantive_editorial_pass: '2026-06-11'
@@ -43,7 +41,7 @@ updated: '2026-06-12'
 
 # 한국의 출산 반등과 주거 질문
 
-> 편집 상태: 편집장 임시 승인에 따른 임시 발행.
+> 편집 상태: 초안 제출본입니다. 이 drafts 경로의 파일은 발행 승인본이 아닙니다.
 >
 > Codex 편집 에이전트가 작성 준비에 참여했으며, 최종 편집 책임은 손제연에게 있습니다.
 

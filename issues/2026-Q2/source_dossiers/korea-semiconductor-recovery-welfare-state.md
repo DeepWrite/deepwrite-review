@@ -3,7 +3,7 @@ issue: "2026-Q2"
 slug: "korea-semiconductor-recovery-welfare-state"
 title: "Korea's Semiconductor Recovery And The Welfare State"
 status: independent_rewrite_dossier
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_review
 updated: "2026-06-12"
 assigned_agent: "Economics Editor with Korea Data Researcher"
 ---

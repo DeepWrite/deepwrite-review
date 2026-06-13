@@ -1321,7 +1321,7 @@ issue: "{ISSUE}"
 slug: "{article.slug}"
 title: "{article.en_title}"
 status: independent_rewrite_dossier
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_review
 updated: "{TODAY}"
 assigned_agent: "{article.agent}"
 ---
@@ -1366,7 +1366,7 @@ issue: "{ISSUE}"
 slug: "{article.slug}"
 date: "{TODAY}"
 status: independent_rewrite_checked
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_temporary_publication
 assigned_agent: "{article.agent}"
 ---
 
@@ -1408,7 +1408,7 @@ issue: "{ISSUE}"
 slug: "{article.slug}"
 date: "{TODAY}"
 status: independent_translation_checked
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_temporary_publication
 ---
 
 # Translation Review: {article.en_title}
@@ -1424,7 +1424,7 @@ def write_failure_memo() -> None:
 issue: "{ISSUE}"
 date: "{TODAY}"
 status: corrective_review
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_review
 ---
 
 # Corrective Review: Why The Independent-Agent Standard Failed

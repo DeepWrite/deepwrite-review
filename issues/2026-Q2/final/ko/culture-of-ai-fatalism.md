@@ -22,16 +22,17 @@ tags:
 - AI 문화
 - 여론
 - 미디어
-abstract: AI 숙명론은 단순한 비합리적 공포가 아니다. 그것은 보이는 속도와 보이지 않는 거버넌스에 대한 문화적 반응이다. 사람들은 기술이
+abstract: AI 숙명론은 단순한 비합리적 공포가 아니다. 보이는 속도와 보이지 않는 거버넌스에 대한 문화적 반응이다. 사람들은 기술이
   중요하다고 믿으면서도 제도가 그 결과를 형성할 수 있는지 의심하기 때문에 낙관과 불안이 함께 커질 수 있다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: culture essay
 regional_scope: global
 substantive_editorial_pass: '2026-06-11'
@@ -87,7 +88,7 @@ AI 숙명론의 문화는 저항되어야 한다. 제도에 더 많은 민주적
 
 전체 근거 수준: 중간. 채택과 확산은 제도 출처로 잘 문서화된다. 숙명론을 문화정치로 보는 주장은 해석이며, 다음 수정에서는 기업 발언, 정책 연설, 잡지 논쟁, 교육 현장의 담론 증거로 더 강화되어야 한다.
 
-## 불확실성 노트
+## 불확실성에 대하여
 
 이 글은 AI의 중요성을 부정하지 않는다. 중요성이 거버넌스를 대신 결정한다는 생각을 부정한다. 기술이 중요해질수록 숙명론은 더 용납되기 어렵다.
 

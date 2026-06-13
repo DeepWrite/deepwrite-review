@@ -6,4 +6,4 @@ permalink: /archive/
 
 ## 2026
 
-- 2026-Q2: workspace scaffold, publication pending.
+- 2026-Q2: temporary full-issue publication, 13 English-Korean article pairs.

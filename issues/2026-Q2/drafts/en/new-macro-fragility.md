@@ -30,7 +30,7 @@ abstract: "The striking feature of the 2026 global economy is not collapse. It i
 evidence_level: moderate
 citation_status: draft_cited
 translation_status: draft
-chief_editor_status: approved_for_translation
+chief_editor_status: approved_for_review
 draft_approved_date: "2026-06-11"
 status: draft
 ---

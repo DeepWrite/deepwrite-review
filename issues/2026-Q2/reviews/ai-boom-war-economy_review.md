@@ -3,7 +3,7 @@ issue: "2026-Q2"
 slug: "ai-boom-war-economy"
 date: "2026-06-11"
 status: checked_for_temporary_publication
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_temporary_publication
 ---
 
 # Review: The AI Boom Meets The War Economy

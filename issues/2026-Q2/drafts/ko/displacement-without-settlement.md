@@ -26,13 +26,11 @@ abstract: 강제이주는 흐름의 문제일 뿐 아니라 누적의 문제로 
   추정한다. 소폭 감소는 중요하지만 더 깊은 문제는 지속 기간이다. 수백만 명은 안전하지 않은 귀환, 제한된 통합, 정치적으로 제약된 재정착 사이에
   머문다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: draft_cited
+translation_status: draft
+chief_editor_status: approved_for_review
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+status: draft
 article_type: data essay
 regional_scope: global
 substantive_editorial_pass: '2026-06-11'
@@ -44,7 +42,7 @@ updated: '2026-06-12'
 
 # 정착 없는 강제이주
 
-> 편집 상태: 편집장 임시 승인에 따른 임시 발행.
+> 편집 상태: 초안 제출본입니다. 이 drafts 경로의 파일은 발행 승인본이 아닙니다.
 >
 > Codex 편집 에이전트가 작성 준비에 참여했으며, 최종 편집 책임은 손제연에게 있습니다.
 

@@ -2,7 +2,7 @@
 issue: "2026-Q2"
 date: "2026-06-12"
 status: corrective_review
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_temporary_publication
 ---
 
 # Corrective Review: Why The Independent-Agent Standard Failed

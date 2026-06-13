@@ -26,13 +26,14 @@ abstract: 강제이주는 흐름의 문제일 뿐 아니라 누적의 문제로 
   추정한다. 소폭 감소는 중요하지만 더 깊은 문제는 지속 기간이다. 수백만 명은 안전하지 않은 귀환, 제한된 통합, 정치적으로 제약된 재정착 사이에
   머문다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: data essay
 regional_scope: global
 substantive_editorial_pass: '2026-06-11'

@@ -4,7 +4,7 @@ slug: "govern-ai-before-infrastructure"
 date: "2026-06-11"
 status: substantive_translation_checked
 review_type: translation_consistency
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_temporary_publication
 ---
 
 # Translation Review: AI가 인프라가 되기 전에 세계는 그것을 통치할 수 있는가

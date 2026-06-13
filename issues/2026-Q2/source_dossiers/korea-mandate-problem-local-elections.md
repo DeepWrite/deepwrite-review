@@ -3,7 +3,7 @@ issue: "2026-Q2"
 slug: "korea-mandate-problem-local-elections"
 title: "Korea's Mandate Problem After The Local Elections"
 status: independent_rewrite_dossier
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_review
 updated: "2026-06-12"
 assigned_agent: "Political Editor with Korea Source Researcher"
 ---

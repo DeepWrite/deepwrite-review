@@ -4,7 +4,7 @@ slug: "ai-boom-war-economy"
 date: "2026-06-11"
 status: checked_for_temporary_publication
 review_type: translation_consistency
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_temporary_publication
 ---
 
 # Translation Review: AI 붐은 전쟁경제와 만난다

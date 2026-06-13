@@ -29,13 +29,14 @@ tags:
   - infrastructure
 abstract: "The 2026 AI boom is not occurring in a frictionless economy. It is unfolding amid war risk, energy pressure, trade uncertainty, and a weaker global outlook. The central question is therefore not whether AI is transformative, but whether institutions can govern its transformation when the material foundations of computation are becoming strategic, expensive, and politically contested."
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: "2026-06-11"
-publication_approved_date: "2026-06-11"
-published_date: "2026-06-11"
-status: published
+temporary_publication_approved_date: "2026-06-11"
+temporary_published_date: "2026-06-11"
+status: temporary_publication
+publication_stage: temporary
 ---
 
 # The AI Boom Meets The War Economy
@@ -166,7 +167,7 @@ Contested or incomplete claims:
 
 ## Uncertainty Note
 
-This draft does not claim that the AI boom is a bubble. It also does not claim that AI will rescue the global economy. The evidence does not yet support either conclusion.
+This article does not claim that the AI boom is a bubble. It also does not claim that AI will rescue the global economy. The evidence does not yet support either conclusion.
 
 The strongest uncertainty concerns time scale. AI adoption can rise quickly while productivity gains appear slowly. Infrastructure demand can be immediate while social benefits remain diffuse. Labor displacement can occur through hiring slowdowns and task compression before unemployment statistics register a clean shock. The article should therefore avoid both near-term panic and long-term complacency.
 
@@ -180,4 +181,4 @@ The strongest uncertainty concerns time scale. AI adoption can rise quickly whil
 
 ## Citations
 
-This draft uses only institutional and official-source evidence for factual and statistical claims. Commentary and journalism should be added later only as evidence of discourse, investor mood, or public controversy, not as raw evidence for the article's causal claims.
+This temporary-publication version uses only institutional and official-source evidence for factual and statistical claims. Commentary and journalism may be added in later revision only as evidence of discourse, investor mood, or public controversy, not as raw evidence for the article's causal claims.

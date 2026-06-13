@@ -26,13 +26,11 @@ abstract: 2026-Q2 호는 하나의 단순한 주장 위에 놓인다. 이번 분
   AI, 전쟁의 그림자가 드리운 거시경제, 강제이주, 민주주의의 긴장, 한국의 국내 의제는 모두 압력이 불신으로 바뀌기 전에 공적 제도가 그것을
   흡수할 수 있는가를 묻는다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: draft_cited
+translation_status: draft
+chief_editor_status: approved_for_review
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+status: draft
 article_type: editor's note
 regional_scope: comparative
 substantive_editorial_pass: '2026-06-11'
@@ -40,7 +38,7 @@ substantive_editorial_pass: '2026-06-11'
 
 # 역량이 질문이 된 분기
 
-> 편집 상태: 편집장 임시 승인에 따른 임시 발행.
+> 편집 상태: 초안 제출본입니다. 이 drafts 경로의 파일은 발행 승인본이 아닙니다.
 >
 > Codex 편집 에이전트가 작성 준비에 참여했으며, 최종 편집 책임은 손제연에게 있습니다.
 

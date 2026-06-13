@@ -25,13 +25,14 @@ tags:
 abstract: 이 읽기 목록은 잡지의 방법을 보여준다. 일차·기관 근거에서 시작하고, 전망은 조건부 주장으로 사용하며, 저널리즘은 시간순 정리에
   쓰고, 논평은 담론 증거로 쓰며, 한국의 원자료와 한국어 해석 글을 구분한다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: annotated bibliography
 regional_scope: comparative
 substantive_editorial_pass: '2026-06-11'

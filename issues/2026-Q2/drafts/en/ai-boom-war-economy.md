@@ -31,7 +31,7 @@ abstract: "The 2026 AI boom is not occurring in a frictionless economy. It is un
 evidence_level: moderate
 citation_status: draft_cited
 translation_status: draft
-chief_editor_status: approved_for_translation
+chief_editor_status: approved_for_review
 draft_approved_date: "2026-06-11"
 status: draft
 ---

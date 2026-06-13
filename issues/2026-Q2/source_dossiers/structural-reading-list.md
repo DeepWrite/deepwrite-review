@@ -3,7 +3,7 @@ issue: "2026-Q2"
 slug: "structural-reading-list"
 title: "A Structural Reading List For The Quarter"
 status: independent_rewrite_dossier
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_review
 updated: "2026-06-12"
 assigned_agent: "Final Managing Editor with Source Researcher"
 ---

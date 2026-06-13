@@ -28,13 +28,11 @@ abstract: 'Democratic decline is no longer best understood as a short emergency.
   civic space, and electoral trust can become ordinary institutional weather before
   it becomes regime collapse.'
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: draft_cited
+translation_status: draft
+chief_editor_status: approved_for_review
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+status: draft
 article_type: institutional analysis
 regional_scope: global
 substantive_editorial_pass: '2026-06-11'
@@ -46,7 +44,7 @@ updated: '2026-06-12'
 
 # Democracy After The Long Decline
 
-> Editorial status: temporarily published by Chief Editor approval.
+> Editorial status: draft submission. Not approved for publication from this drafts path.
 >
 > Prepared with Codex editorial agents. Human editorial responsibility remains with Jeyoun Son (손제연).
 

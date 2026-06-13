@@ -3,7 +3,7 @@ issue: "2026-Q2"
 slug: "korea-fertility-housing-pronatalism"
 title: "Korea's Fertility Rebound And The Housing Question"
 status: independent_rewrite_dossier
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_review
 updated: "2026-06-12"
 assigned_agent: "Sociology Editor with Korea Data Researcher"
 ---

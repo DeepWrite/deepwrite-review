@@ -4,7 +4,7 @@ slug: "editors-note-capacity-question"
 date: "2026-06-11"
 status: substantive_translation_checked
 review_type: translation_consistency
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_temporary_publication
 ---
 
 # Translation Review: 역량이 질문이 된 분기

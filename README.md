@@ -62,12 +62,25 @@ Every article must move through this sequence:
 3. approved_for_draft
 4. approved_for_review
 5. approved_for_translation
-6. approved_for_publication
+6. approved_for_temporary_publication
+7. approved_for_publication
 
-No article may appear on the public site unless:
+No article may appear on the public site unless it is explicitly approved for either temporary or permanent publication.
+
+Temporary public articles must have:
+
+- `chief_editor_status: approved_for_temporary_publication`
+- `status: temporary_publication`
+- `publication_stage: temporary`
+- `citation_status: checked_for_temporary_publication`
+- `evidence_level` is assigned
+- `translation_status: checked_for_temporary_publication` where applicable
+
+Permanent public articles must have:
 
 - `chief_editor_status: approved_for_publication`
 - `status: published`
+- `publication_stage: final` or no `publication_stage`
 - `citation_status: checked`
 - `evidence_level` is assigned
 - `translation_status: checked` where applicable

@@ -27,13 +27,11 @@ abstract: 'Generative AI exposes an older university confusion: the conflation o
   matters, but enforcement alone cannot answer what writing, explanation, and judgment
   are for when machine assistance is ordinary.'
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: draft_cited
+translation_status: draft
+chief_editor_status: approved_for_review
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+status: draft
 article_type: education essay
 regional_scope: global
 substantive_editorial_pass: '2026-06-11'
@@ -45,7 +43,7 @@ updated: '2026-06-12'
 
 # Universities After Generative AI
 
-> Editorial status: temporarily published by Chief Editor approval.
+> Editorial status: draft submission. Not approved for publication from this drafts path.
 >
 > Prepared with Codex editorial agents. Human editorial responsibility remains with Jeyoun Son (손제연).
 

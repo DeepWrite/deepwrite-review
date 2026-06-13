@@ -3,7 +3,7 @@ issue: "2026-Q2"
 slug: "editors-note-capacity-question"
 date: "2026-06-11"
 status: substantive_editorial_pass_checked
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_temporary_publication
 ---
 
 # Editorial Review: The Quarter When Capacity Became The Question

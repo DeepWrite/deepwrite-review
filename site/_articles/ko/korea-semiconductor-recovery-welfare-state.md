@@ -25,13 +25,14 @@ tags:
 abstract: 2026년 한국의 회복은 실제이지만 고르지 않다. 한국은행의 5월 전망은 반도체 사이클과 유가 충격을 언급하며 성장률 2.6%,
   소비자물가 상승률 2.7%를 전망했다. 구조적 질문은 수출 주도의 힘을 가계 안정, 돌봄 역량, 주거 안정, 노동 조정으로 번역할 수 있는가이다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: political economy essay
 regional_scope: korea
 substantive_editorial_pass: '2026-06-11'

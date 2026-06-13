@@ -3,7 +3,7 @@ issue: "2026-Q2"
 slug: "universities-after-generative-ai"
 date: "2026-06-12"
 status: independent_rewrite_checked
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_temporary_publication
 assigned_agent: "Education Editor with Technology Editor"
 ---
 

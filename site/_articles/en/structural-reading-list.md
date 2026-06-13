@@ -27,13 +27,14 @@ abstract: This reading list models the magazine's method. Start with primary and
   use commentary as discourse evidence; and keep Korean raw sources separate from
   Korean interpretive writing.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: annotated bibliography
 regional_scope: comparative
 substantive_editorial_pass: '2026-06-11'

@@ -5,7 +5,7 @@ title: "Can The World Govern AI Before It Becomes Infrastructure?"
 article_type: "technology and society essay"
 regional_scope: global
 status: substantive_editorial_pass
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_review
 updated: "2026-06-11"
 ---
 

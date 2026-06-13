@@ -35,3 +35,20 @@ def test_public_articles_do_not_expose_reporting_path_notes():
             text = read_text(path)
             for phrase in FORBIDDEN_PUBLIC_PHRASES:
                 assert phrase not in text, f"{path} exposes {phrase!r}"
+
+
+def test_public_pages_do_not_show_stale_issue_state():
+    public_pages = [
+        ROOT / "site" / "pages" / "index.md",
+        ROOT / "site" / "pages" / "archive.md",
+        ROOT / "site" / "pages" / "current.md",
+    ]
+    stale_phrases = [
+        "drafting pending",
+        "publication pending",
+        "the rest of the issue remains in production",
+    ]
+    for path in public_pages:
+        text = read_text(path)
+        for phrase in stale_phrases:
+            assert phrase not in text, f"{path} exposes stale issue state {phrase!r}"

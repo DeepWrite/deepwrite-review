@@ -26,13 +26,14 @@ abstract: 2026-Q2 호는 하나의 단순한 주장 위에 놓인다. 이번 분
   AI, 전쟁의 그림자가 드리운 거시경제, 강제이주, 민주주의의 긴장, 한국의 국내 의제는 모두 압력이 불신으로 바뀌기 전에 공적 제도가 그것을
   흡수할 수 있는가를 묻는다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: editor's note
 regional_scope: comparative
 substantive_editorial_pass: '2026-06-11'

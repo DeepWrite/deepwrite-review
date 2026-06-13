@@ -1,13 +1,13 @@
 ---
 issue: "2026-Q2"
 date: "2026-06-11"
-status: temporary_publication
-chief_editor_status: partial_approved_for_publication
+status: temporary_full_issue_publication
+chief_editor_status: temporary_full_issue_approved
 ---
 
 # 2026-Q2 Publication Start Memo
 
-Publication production has begun. Two bilingual article pairs have been approved for temporary publication; the rest of the issue remains in production.
+Publication production has begun. All 13 bilingual article pairs have been approved for temporary publication; permanent issue approval remains open.
 
 ## Chief Editor Direction
 
@@ -19,7 +19,7 @@ The prose and analytic style should remain closer to Anglophone intellectual mag
 
 ## Production Stage
 
-Current stage: partial temporary publication plus continued drafting.
+Current stage: full temporary publication plus permanent-issue revision.
 
 Approved on 2026-06-11:
 
@@ -31,13 +31,12 @@ Approved on 2026-06-11:
 - source dossiers for drafting
 - English draft writing for all 13 commissioned pieces
 - Korean translation drafting for completed English drafts
-- temporary publication of `ai-boom-war-economy`
-- temporary publication of `new-macro-fragility`
+- temporary publication of all 13 bilingual article pairs
 
-Blocked until Chief Editor approval:
+Still blocked until later Chief Editor approval:
 
-- publication of the remaining 11 commissioned pieces
-- complete quarterly issue publication
+- permanent publication status
+- complete quarterly issue packaging after source strengthening, Korean style editing, and bilingual consistency review
 
 ## First Dossiers To Prepare After Approval
 

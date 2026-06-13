@@ -28,13 +28,14 @@ abstract: 'The 2026-Q2 issue is organized around a simple claim: the quarter''s 
   displacement, democratic strain, and Korea''s domestic questions all ask whether
   public institutions can absorb pressure before pressure becomes distrust.'
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: editor's note
 regional_scope: comparative
 substantive_editorial_pass: '2026-06-11'

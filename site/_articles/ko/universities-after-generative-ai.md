@@ -25,13 +25,14 @@ tags:
 abstract: 생성형 AI는 대학의 오래된 혼란을 드러낸다. 학습, 자격 부여, 평가, 초안 생산이 뒤섞여 있었다는 사실이다. 학문적 정직성은
   중요하지만, 기계의 도움이 일상적인 상황에서 글쓰기, 설명, 판단이 무엇을 위한 것인지는 단속만으로 답할 수 없다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: education essay
 regional_scope: global
 substantive_editorial_pass: '2026-06-11'

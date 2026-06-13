@@ -25,13 +25,14 @@ tags:
 abstract: 이 읽기 목록은 잡지의 방법을 보여준다. 일차·기관 근거에서 시작하고, 전망은 조건부 주장으로 사용하며, 저널리즘은 시간순 정리에
   쓰고, 논평은 담론 증거로 쓰며, 한국의 원자료와 한국어 해석 글을 구분한다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: annotated bibliography
 regional_scope: comparative
 substantive_editorial_pass: '2026-06-11'
@@ -91,7 +92,7 @@ OECD AI 채택 자료, OECD 디지털 교육 전망, UNESCO 지침, Stanford HAI
 
 전체 근거 수준: 출처 위계 지도에 대해서는 강함. 주석 달린 참고목록으로서는 중간. 여러 항목은 한국어 전문, 데이터셋, PDF 수준 검토가 아직 필요하다.
 
-## 불확실성 노트
+## 불확실성에 대하여
 
 이 목록은 닫힌 정전이 아니다. 임시 호를 위한 작업 지도다. 도시에는 성숙함에 따라 출처를 추가, 하향, 삭제해야 한다.
 

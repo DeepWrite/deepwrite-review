@@ -25,13 +25,11 @@ tags:
 abstract: AI 거버넌스는 원칙에서 실행으로 이동하고 있으며, 바로 그 순간 AI 시스템은 기업, 학교, 국가, 플랫폼의 작동 인프라가 되고
   있다. 핵심 문제는 규칙의 존재 여부가 아니라, 제도가 그것을 집행하고 갱신하며 정당화할 역량을 갖는가이다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: draft_cited
+translation_status: draft
+chief_editor_status: approved_for_review
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+status: draft
 article_type: technology and society essay
 regional_scope: global
 substantive_editorial_pass: '2026-06-11'
@@ -39,7 +37,7 @@ substantive_editorial_pass: '2026-06-11'
 
 # AI가 인프라가 되기 전에 세계는 그것을 통치할 수 있는가
 
-> 편집 상태: 편집장 임시 승인에 따른 임시 발행.
+> 편집 상태: 초안 제출본입니다. 이 drafts 경로의 파일은 발행 승인본이 아닙니다.
 >
 > Codex 편집 에이전트가 작성 준비에 참여했으며, 최종 편집 책임은 손제연에게 있습니다.
 

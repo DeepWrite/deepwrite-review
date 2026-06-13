@@ -25,13 +25,14 @@ tags:
 abstract: 최근 헌법재판소 결정들은 절제되어 있지만 중요한 권리 보호적 제도주의를 보여준다. 2026년에 헌법재판소는 미신고 옥외집회 형사처벌과
   체포적부심을 준비하던 피의자에 대한 변호인 접견 거부를 다뤘다. 교훈은 헌정 승리주의가 아니다. 권리는 종종 기술적이고 일상적인 결정 속에서 살아남는다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: law and institutions essay
 regional_scope: korea
 substantive_editorial_pass: '2026-06-11'

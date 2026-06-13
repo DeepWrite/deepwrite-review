@@ -27,13 +27,11 @@ abstract: AI governance is moving from principles to implementation just as AI s
   problem is not whether rules exist, but whether institutions have the capacity to
   enforce, update, and legitimate them.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: draft_cited
+translation_status: draft
+chief_editor_status: approved_for_review
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+status: draft
 article_type: technology and society essay
 regional_scope: global
 substantive_editorial_pass: '2026-06-11'
@@ -41,7 +39,7 @@ substantive_editorial_pass: '2026-06-11'
 
 # Can The World Govern AI Before It Becomes Infrastructure?
 
-> Editorial status: temporarily published by Chief Editor approval.
+> Editorial status: draft submission. Not approved for publication from this drafts path.
 >
 > Prepared with Codex editorial agents. Human editorial responsibility remains with Jeyoun Son (손제연).
 

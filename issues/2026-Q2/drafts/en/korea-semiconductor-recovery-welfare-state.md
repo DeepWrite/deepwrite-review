@@ -29,13 +29,11 @@ abstract: Korea's 2026 recovery is real but uneven. The Bank of Korea's May outl
   can be translated into household security, care capacity, housing stability, and
   labor adjustment.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: draft_cited
+translation_status: draft
+chief_editor_status: approved_for_review
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+status: draft
 article_type: political economy essay
 regional_scope: korea
 substantive_editorial_pass: '2026-06-11'
@@ -47,7 +45,7 @@ updated: '2026-06-12'
 
 # Korea's Semiconductor Recovery And The Welfare State
 
-> Editorial status: temporarily published by Chief Editor approval.
+> Editorial status: draft submission. Not approved for publication from this drafts path.
 >
 > Prepared with Codex editorial agents. Human editorial responsibility remains with Jeyoun Son (손제연).
 

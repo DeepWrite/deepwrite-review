@@ -27,13 +27,14 @@ abstract: AI fatalism is not simply irrational panic. It is a cultural response 
   together because people believe the technology matters while doubting that institutions
   can shape its consequences.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: culture essay
 regional_scope: global
 substantive_editorial_pass: '2026-06-11'

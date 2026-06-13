@@ -3,7 +3,7 @@ issue: "2026-Q2"
 slug: "democracy-after-long-decline"
 title: "Democracy After The Long Decline"
 status: independent_rewrite_dossier
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_review
 updated: "2026-06-12"
 assigned_agent: "Political Editor with Law and Institutions Editor"
 ---

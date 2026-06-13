@@ -5,7 +5,7 @@ title: "The Quarter When Capacity Became The Question"
 article_type: "editor's note"
 regional_scope: comparative
 status: substantive_editorial_pass
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_review
 updated: "2026-06-11"
 ---
 

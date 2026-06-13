@@ -3,7 +3,7 @@ issue: "2026-Q2"
 slug: "democracy-after-long-decline"
 date: "2026-06-12"
 status: independent_translation_checked
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_temporary_publication
 ---
 
 # Translation Review: Democracy After The Long Decline

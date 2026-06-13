@@ -28,13 +28,11 @@ abstract: 'The 2026-Q2 issue is organized around a simple claim: the quarter''s 
   displacement, democratic strain, and Korea''s domestic questions all ask whether
   public institutions can absorb pressure before pressure becomes distrust.'
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: draft_cited
+translation_status: draft
+chief_editor_status: approved_for_review
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+status: draft
 article_type: editor's note
 regional_scope: comparative
 substantive_editorial_pass: '2026-06-11'
@@ -42,7 +40,7 @@ substantive_editorial_pass: '2026-06-11'
 
 # The Quarter When Capacity Became The Question
 
-> Editorial status: temporarily published by Chief Editor approval.
+> Editorial status: draft submission. Not approved for publication from this drafts path.
 >
 > Prepared with Codex editorial agents. Human editorial responsibility remains with Jeyoun Son (손제연).
 

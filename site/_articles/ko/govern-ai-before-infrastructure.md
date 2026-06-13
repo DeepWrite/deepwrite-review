@@ -25,13 +25,14 @@ tags:
 abstract: AI 거버넌스는 원칙에서 실행으로 이동하고 있으며, 바로 그 순간 AI 시스템은 기업, 학교, 국가, 플랫폼의 작동 인프라가 되고
   있다. 핵심 문제는 규칙의 존재 여부가 아니라, 제도가 그것을 집행하고 갱신하며 정당화할 역량을 갖는가이다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: technology and society essay
 regional_scope: global
 substantive_editorial_pass: '2026-06-11'

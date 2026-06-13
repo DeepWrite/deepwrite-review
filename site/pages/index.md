@@ -32,8 +32,8 @@ permalink: /
     <ol class="mockup-list">
       <li><span>01</span><strong>Leader Essay</strong><em>temporarily published</em></li>
       <li><span>02</span><strong>Macro Essay</strong><em>temporarily published</em></li>
-      <li><span>03</span><strong>Korea Essays</strong><em>drafting pending</em></li>
-      <li><span>04</span><strong>Annotated Bibliography</strong><em>commissioned</em></li>
+      <li><span>03</span><strong>Korea Essays</strong><em>temporarily published</em></li>
+      <li><span>04</span><strong>Annotated Bibliography</strong><em>temporarily published</em></li>
     </ol>
   </aside>
 </section>
@@ -56,7 +56,9 @@ permalink: /
     <h2>Current Issue</h2>
     <a href="{{ '/archive/' | relative_url }}">Archive</a>
   </div>
-  {% assign published_articles = site.articles | where: "status", "published" | where: "chief_editor_status", "approved_for_publication" %}
+  {% assign temporary_articles = site.articles | where: "status", "temporary_publication" | where: "chief_editor_status", "approved_for_temporary_publication" %}
+  {% assign final_articles = site.articles | where: "status", "published" | where: "chief_editor_status", "approved_for_publication" %}
+  {% assign published_articles = temporary_articles | concat: final_articles %}
   {% if published_articles.size > 0 %}
     <div class="article-grid">
       {% for article in published_articles limit: 6 %}

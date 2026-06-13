@@ -27,7 +27,7 @@ abstract: "2026년의 AI 붐은 마찰 없는 경제 안에서 벌어지고 있�
 evidence_level: moderate
 citation_status: draft_cited
 translation_status: draft
-chief_editor_status: approved_for_translation
+chief_editor_status: approved_for_review
 draft_approved_date: "2026-06-11"
 status: draft
 ---

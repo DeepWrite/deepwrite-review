@@ -4,7 +4,7 @@ slug: "new-macro-fragility"
 date: "2026-06-11"
 status: checked_for_temporary_publication
 review_type: translation_consistency
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_temporary_publication
 ---
 
 # Translation Review: 새로운 거시경제 취약성

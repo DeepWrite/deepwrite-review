@@ -1,5 +1,5 @@
 ---
-title: 한국의 출산 반등은 가족에 관한 이론이 아니다
+title: 한국의 출산 반등, 아직 구조 회복은 아니다
 subtitle: 출생 반등만으로 가계 형성 문제는 해결되지 않는다.
 slug: korea-fertility-housing-pronatalism
 issue: 2026-Q2
@@ -25,13 +25,14 @@ tags:
 abstract: 한국의 출산 문제는 출산 인센티브로 환원될 수 없다. 공식 자료 발표와 정부 요약은 2025년 출생아 수와 합계출산율의 반등을 전했지만,
   구조적 질문은 남아 있다. 청년들은 현재의 주거, 일, 교육, 돌봄, 젠더 질서 아래에서 가계를 형성할 수 있는가?
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: demography and family essay
 regional_scope: korea
 substantive_editorial_pass: '2026-06-11'
@@ -41,7 +42,7 @@ assigned_agent: Sociology Editor with Korea Data Researcher
 updated: '2026-06-12'
 ---
 
-# 한국의 출산 반등과 주거 질문
+# 한국의 출산 반등, 아직 구조 회복은 아니다
 
 > 편집 상태: 편집장 임시 승인에 따른 임시 발행.
 >
@@ -91,9 +92,9 @@ updated: '2026-06-12'
 
 전체 근거 수준: 중간. 공식 자료가 2025년 출생아 수와 합계출산율의 상승을 보여준다는 점은 높은 확신이다. 정책, 혼인 시기, 코호트 효과, 주거, 노동 조건 사이의 인과 배분은 중간 이하의 확신이다.
 
-## 불확실성 노트
+## 불확실성에 대하여
 
-이 글은 반등을 환영하지만 그것을 인구학 교리로 만들지 않는다. 다음 본격 판은 분해 자료를 갖추어야 한다. 그렇지 않으면 숫자를 장식하는 글에 그칠 것이다.
+이 글은 반등을 환영하지만 인구학 교리로 만들지 않는다. 다음 본격 판은 분해 자료를 갖추어야 한다. 그렇지 않으면 숫자를 장식하는 글에 그칠 것이다.
 
 ## 더 읽을 자료
 

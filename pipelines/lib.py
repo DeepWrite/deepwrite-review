@@ -26,8 +26,17 @@ APPROVAL_SEQUENCE = [
     "approved_for_draft",
     "approved_for_review",
     "approved_for_translation",
+    "approved_for_temporary_publication",
     "approved_for_publication",
 ]
+
+PUBLIC_ARTICLE_STATUSES = {"temporary_publication", "published"}
+TEMPORARY_PUBLICATION_STATUSES = {"temporary_publication"}
+FINAL_PUBLICATION_STATUSES = {"published"}
+TEMPORARY_APPROVAL_STATUSES = {"approved_for_temporary_publication"}
+FINAL_APPROVAL_STATUSES = {"approved_for_publication"}
+TEMPORARY_CHECK_STATUSES = {"checked_for_temporary_publication"}
+FINAL_CHECK_STATUSES = {"checked"}
 
 
 def today() -> dt.date:
@@ -131,17 +140,46 @@ def article_paths(issue: str, slug: str) -> tuple[Path, Path]:
 def is_publishable_article(path: Path) -> tuple[bool, list[str]]:
     meta = read_front_matter(path)
     problems: list[str] = []
-    if meta.get("chief_editor_status") != "approved_for_publication":
-        problems.append("chief_editor_status is not approved_for_publication")
-    if meta.get("status") != "published":
-        problems.append("status is not published")
-    if meta.get("citation_status") != "checked":
-        problems.append("citation_status is not checked")
+    status = meta.get("status")
+    chief_status = meta.get("chief_editor_status")
+    publication_stage = meta.get("publication_stage")
+    citation_status = meta.get("citation_status")
+    translation_status = meta.get("translation_status")
+
+    if status in TEMPORARY_PUBLICATION_STATUSES:
+        if chief_status not in TEMPORARY_APPROVAL_STATUSES:
+            problems.append("temporary article is not approved_for_temporary_publication")
+        if publication_stage != "temporary":
+            problems.append("temporary article publication_stage is not temporary")
+        if citation_status not in TEMPORARY_CHECK_STATUSES | FINAL_CHECK_STATUSES:
+            problems.append("temporary article citation_status is not temporary-checked")
+        if meta.get("language") in ("en", "ko") and translation_status not in TEMPORARY_CHECK_STATUSES | FINAL_CHECK_STATUSES:
+            problems.append("temporary article translation_status is not temporary-checked")
+    elif status in FINAL_PUBLICATION_STATUSES:
+        if chief_status not in FINAL_APPROVAL_STATUSES:
+            problems.append("published article is not approved_for_publication")
+        if publication_stage not in (None, "", "final"):
+            problems.append("published article publication_stage is not final")
+        if citation_status not in FINAL_CHECK_STATUSES:
+            problems.append("published article citation_status is not checked")
+        if meta.get("language") in ("en", "ko") and translation_status not in FINAL_CHECK_STATUSES | {"not_applicable"}:
+            problems.append("published article translation_status is not checked or not_applicable")
+    else:
+        problems.append("status is not a public article status")
+
     if meta.get("evidence_level") in (None, "", "unassigned"):
         problems.append("evidence_level is unassigned")
-    if meta.get("language") in ("en", "ko") and meta.get("translation_status") not in ("checked", "not_applicable"):
-        problems.append("translation_status is not checked or not_applicable")
     return not problems, problems
+
+
+def is_public_article_meta(meta: dict[str, Any]) -> bool:
+    status = meta.get("status")
+    chief_status = meta.get("chief_editor_status")
+    if status in TEMPORARY_PUBLICATION_STATUSES:
+        return chief_status in TEMPORARY_APPROVAL_STATUSES
+    if status in FINAL_PUBLICATION_STATUSES:
+        return chief_status in FINAL_APPROVAL_STATUSES
+    return False
 
 
 def iter_issue_articles(stage: str = "final") -> list[Path]:

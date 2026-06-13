@@ -28,13 +28,14 @@ abstract: Korea's 2026 local elections should be read neither as a purely local 
   structural question is how a nationalized party system should interpret local authority,
   turnout, administration, and metropolitan exception.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: political institutions essay
 regional_scope: korea
 substantive_editorial_pass: '2026-06-11'

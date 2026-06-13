@@ -25,13 +25,11 @@ tags:
 abstract: 이 읽기 목록은 잡지의 방법을 보여준다. 일차·기관 근거에서 시작하고, 전망은 조건부 주장으로 사용하며, 저널리즘은 시간순 정리에
   쓰고, 논평은 담론 증거로 쓰며, 한국의 원자료와 한국어 해석 글을 구분한다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: draft_cited
+translation_status: draft
+chief_editor_status: approved_for_review
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+status: draft
 article_type: annotated bibliography
 regional_scope: comparative
 substantive_editorial_pass: '2026-06-11'
@@ -43,7 +41,7 @@ updated: '2026-06-12'
 
 # 이번 분기를 위한 구조적 읽기 목록
 
-> 편집 상태: 편집장 임시 승인에 따른 임시 발행.
+> 편집 상태: 초안 제출본입니다. 이 drafts 경로의 파일은 발행 승인본이 아닙니다.
 >
 > Codex 편집 에이전트가 작성 준비에 참여했으며, 최종 편집 책임은 손제연에게 있습니다.
 

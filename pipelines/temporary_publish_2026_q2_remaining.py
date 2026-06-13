@@ -440,13 +440,14 @@ def meta(article: dict, language: str) -> dict:
         "tags": article["tags_ko"] if is_ko else article["tags_en"],
         "abstract": article["abstract_ko"] if is_ko else article["abstract_en"],
         "evidence_level": "moderate",
-        "citation_status": "checked",
-        "translation_status": "checked",
-        "chief_editor_status": "approved_for_publication",
+        "citation_status": "checked_for_temporary_publication",
+        "translation_status": "checked_for_temporary_publication",
+        "chief_editor_status": "approved_for_temporary_publication",
         "draft_approved_date": TODAY,
-        "publication_approved_date": TODAY,
-        "published_date": TODAY,
-        "status": "published",
+        "temporary_publication_approved_date": TODAY,
+        "temporary_published_date": TODAY,
+        "status": "temporary_publication",
+        "publication_stage": "temporary",
         "article_type": article["type"],
         "regional_scope": article["scope"],
     }
@@ -601,7 +602,7 @@ issue: "{ISSUE}"
 slug: "{slug}"
 date: "{TODAY}"
 status: checked_for_temporary_publication
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_temporary_publication
 ---
 
 # Review: {article["en_title"]}
@@ -637,7 +638,7 @@ slug: "{slug}"
 date: "{TODAY}"
 status: checked_for_temporary_publication
 review_type: translation_consistency
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_temporary_publication
 ---
 
 # Translation Review: {article["ko_title"]}
@@ -845,7 +846,9 @@ The 2026-Q2 issue is temporarily published in full: 13 English-Korean article pa
 
 The issue remains open to later source strengthening, Korean style editing, and complete quarterly packaging.
 
-{% assign published_articles = site.articles | where: "status", "published" | where: "chief_editor_status", "approved_for_publication" %}
+{% assign temporary_articles = site.articles | where: "status", "temporary_publication" | where: "chief_editor_status", "approved_for_temporary_publication" %}
+{% assign final_articles = site.articles | where: "status", "published" | where: "chief_editor_status", "approved_for_publication" %}
+{% assign published_articles = temporary_articles | concat: final_articles %}
 
 {% if published_articles.size > 0 %}
 <div class="article-list">

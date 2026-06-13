@@ -3,7 +3,7 @@ issue: "2026-Q2"
 slug: "korea-constitutional-court-quiet-institutionalism"
 title: "Korea's Constitutional Court And Quiet Institutionalism"
 status: independent_rewrite_dossier
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_review
 updated: "2026-06-12"
 assigned_agent: "Law and Institutions Editor"
 ---

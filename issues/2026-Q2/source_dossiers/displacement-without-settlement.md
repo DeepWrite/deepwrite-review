@@ -3,7 +3,7 @@ issue: "2026-Q2"
 slug: "displacement-without-settlement"
 title: "Displacement Without Settlement"
 status: independent_rewrite_dossier
-chief_editor_status: approved_for_publication
+chief_editor_status: approved_for_review
 updated: "2026-06-12"
 assigned_agent: "Foreign Affairs Editor with Data Researcher"
 ---

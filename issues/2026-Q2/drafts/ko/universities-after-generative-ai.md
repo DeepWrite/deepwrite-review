@@ -25,13 +25,11 @@ tags:
 abstract: 생성형 AI는 대학의 오래된 혼란을 드러낸다. 학습, 자격 부여, 평가, 초안 생산이 뒤섞여 있었다는 사실이다. 학문적 정직성은
   중요하지만, 기계의 도움이 일상적인 상황에서 글쓰기, 설명, 판단이 무엇을 위한 것인지는 단속만으로 답할 수 없다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: draft_cited
+translation_status: draft
+chief_editor_status: approved_for_review
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+status: draft
 article_type: education essay
 regional_scope: global
 substantive_editorial_pass: '2026-06-11'
@@ -43,7 +41,7 @@ updated: '2026-06-12'
 
 # 생성형 AI 이후의 대학
 
-> 편집 상태: 편집장 임시 승인에 따른 임시 발행.
+> 편집 상태: 초안 제출본입니다. 이 drafts 경로의 파일은 발행 승인본이 아닙니다.
 >
 > Codex 편집 에이전트가 작성 준비에 참여했으며, 최종 편집 책임은 손제연에게 있습니다.
 

@@ -25,13 +25,14 @@ tags:
 abstract: 생성형 AI는 대학의 오래된 혼란을 드러낸다. 학습, 자격 부여, 평가, 초안 생산이 뒤섞여 있었다는 사실이다. 학문적 정직성은
   중요하지만, 기계의 도움이 일상적인 상황에서 글쓰기, 설명, 판단이 무엇을 위한 것인지는 단속만으로 답할 수 없다.
 evidence_level: moderate
-citation_status: checked
-translation_status: checked
-chief_editor_status: approved_for_publication
+citation_status: checked_for_temporary_publication
+translation_status: checked_for_temporary_publication
+chief_editor_status: approved_for_temporary_publication
 draft_approved_date: '2026-06-11'
-publication_approved_date: '2026-06-11'
-published_date: '2026-06-11'
-status: published
+temporary_publication_approved_date: '2026-06-11'
+temporary_published_date: '2026-06-11'
+status: temporary_publication
+publication_stage: temporary
 article_type: education essay
 regional_scope: global
 substantive_editorial_pass: '2026-06-11'
@@ -53,7 +54,7 @@ updated: '2026-06-12'
 
 ## 산출물의 문제
 
-대학은 오랫동안 글, 보고서, 과제, 코드, 성찰문, 요약문을 학습의 증거로 다루었다. 생성형 AI는 산출물과 작성 과정의 연결을 약화시킨다. 제출된 글은 여전히 지적이고 정돈되어 있으며 인용을 갖출 수 있다. 그러나 그것이 학생이 독립적으로 할 수 있는 일을 보여준다는 보장은 약해졌다.
+대학은 오랫동안 글, 보고서, 과제, 코드, 성찰문, 요약문을 학습의 증거로 다루었다. 생성형 AI는 산출물과 작성 과정의 연결을 약화시킨다. 제출된 글은 여전히 지적이고 정돈되어 있으며 인용을 갖출 수 있다. 그러나 해당 글이 학생이 독립적으로 할 수 있는 일을 보여준다는 보장은 약해졌다.
 
 탐지는 이해할 수 있는 반응이다. 그러나 불안정하다. AI 사용이 일상화될수록 모든 매끄러운 문장을 의심하고 모든 도구 상호작용을 비위로 다루기는 어렵다. 대학은 무엇을 원하는지 결정해야 한다. 무도구 수행인가, 안내된 도구 사용인가, 투명한 협업인가, 구술 방어인가, 과정 증거인가, 강의실 내 작성인가, 전문직 시뮬레이션인가.
 
@@ -89,7 +90,7 @@ updated: '2026-06-12'
 
 전체 근거 수준: 중간. 넓은 확산과 정책 긴급성에는 강한 근거가 있다. 학습 효과, 신뢰 가능한 탐지, 학문별 최선 관행에 관한 증거는 아직 발전 중이다.
 
-## 불확실성 노트
+## 불확실성에 대하여
 
 이 글은 전통적 글쓰기가 쓸모없어졌다고 주장하지 않는다. 제출물의 증거 지위가 바뀌었고, 대학은 그 사실에 맞게 평가를 다시 설계해야 한다고 주장한다.
 
