@@ -4,8 +4,10 @@ slug: "new-macro-fragility"
 title: "The New Macro Fragility"
 status: independent_rewrite_dossier
 chief_editor_status: approved_for_review
-updated: "2026-06-13"
+updated: "2026-06-14"
 assigned_agent: "Economics Editor with Data Researcher"
+full_rewrite_pass: "2026-06-14"
+full_rewrite_model: "agent_specific_prose_rewrite"
 ---
 
 # Source Dossier: The New Macro Fragility
@@ -13,6 +15,10 @@ assigned_agent: "Economics Editor with Data Researcher"
 ## Independent Reporting Assignment
 
 This article is assigned to the Economics Editor with Data Researcher. It must proceed as a magazine article, not a compact briefing skeleton. The public article should carry argument, evidence, cases, and prose; development notes belong here or in review files.
+
+## Full-Rewrite Note
+
+The June 14 rewrite uses the economics editor to frame the article as a policy-capacity ledger rather than a generic risk essay. The data researcher role is visible in the prose through denominator discipline: forecasts are separated from observations, global projections from country cases, headline growth from household welfare, AI investment from economy-wide productivity, and energy demand from a merely sectoral issue.
 
 ## Central Thesis
 

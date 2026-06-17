@@ -27,11 +27,12 @@ tags:
 - inflation
 - trade
 - global economy
-abstract: The striking feature of the 2026 global economy is not collapse. It is conditional
-  resilience. Growth continues, but it depends on assumptions about limited conflict,
-  manageable energy prices, contained inflation expectations, adaptable trade, and
-  continued technology-related investment. This makes the quarter less a story of
-  recession than of narrowing margins.
+abstract: The 2026 world economy is growing, but its resilience is conditional. The
+  central macro problem is not an immediate collapse; it is that growth now depends
+  on a thinner set of assumptions about conflict, energy, inflation, trade rerouting,
+  fiscal buffers, and technology investment. The economics desk should therefore read
+  the outlook as a ledger of policy capacity, while the data desk keeps forecasts,
+  observations, regions, and scenarios from being merged into one global mood.
 evidence_level: moderate
 citation_status: draft_cited
 translation_status: draft
@@ -41,7 +42,9 @@ status: draft
 independent_editorial_pass: '2026-06-13'
 body_generation: independent_article_structure
 assigned_agent: Economics Editor with Data Researcher
-updated: '2026-06-13'
+updated: '2026-06-14'
+full_rewrite_pass: '2026-06-14'
+full_rewrite_model: agent_specific_prose_rewrite
 ---
 
 # The New Macro Fragility
@@ -52,132 +55,92 @@ updated: '2026-06-13'
 
 ## Abstract
 
-The world economy is not falling apart. That is precisely why it is difficult to describe honestly.
+The 2026 world economy is growing, but its resilience is conditional. The central macro problem is not an immediate collapse; it is that growth now depends on a thinner set of assumptions about conflict, energy, inflation, trade rerouting, fiscal buffers, and technology investment. The economics desk should therefore read the outlook as a ledger of policy capacity, while the data desk keeps forecasts, observations, regions, and scenarios from being merged into one global mood.
 
-The most important macroeconomic fact of 2026 is not panic but conditional resilience. Growth continues. Financial systems have not seized up. Firms have adapted to trade barriers and policy uncertainty better than many expected. Technology investment, especially around artificial intelligence, continues to provide support in some economies and sectors. Yet the conditions under which this resilience holds are becoming narrower: the conflict must remain limited, energy prices must not spiral, inflation expectations must stay anchored, trade must continue to reroute rather than rupture, and central banks must manage inflation without crushing demand.
+## Growth Is Not The Same As Room
 
-The old language of crisis is too blunt. The better phrase is macro fragility: a condition in which the system keeps working, but with less room for error.
+The world economy has avoided the simple disaster story. That matters. A serious macro article should not pretend that every risk is already a recession, every geopolitical shock a financial crisis, or every forecast downgrade a collapse. The [IMF's April 2026 World Economic Outlook](https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026), the [OECD's June 2026 Economic Outlook](https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6.html), and the [World Bank's January 2026 Global Economic Prospects](https://openknowledge.worldbank.org/entities/publication/bb904ec6-730f-4dd9-b1af-ad3153ee1616) all describe an economy that continues to expand.
 
-## Resilience With Less Margin
+The mistake is to confuse expansion with room. Positive growth can coexist with exhausted households, strained public budgets, expensive energy, weak investment in poorer economies, and political systems that have less patience for adjustment. The macro fact that matters for this issue is not that the system has stopped. It is that the system keeps moving while requiring more conditions to hold at the same time.
 
-After the pandemic, the world economy acquired a reputation for surprise. It endured supply-chain disruption, inflation, interest-rate hikes, trade-policy volatility, and geopolitical shock with more resilience than many models and commentators predicted. That resilience was real. It should not be dismissed simply because the mood has darkened again.
+That is what this article means by macro fragility: not a crisis headline, but a reduced tolerance for error.
 
-But resilience can become misleading when it is treated as self-renewing. A system may absorb one shock and become more vulnerable to the next. Households can run down buffers. Firms can adapt supply chains at a cost. Governments can spend fiscal space. Central banks can hold credibility, but not infinitely. Energy markets can reroute flows, but not without price and political consequences.
+## The Forecast Ledger
 
-This is the setting for the 2026 outlook. The [IMF's April 2026 World Economic Outlook](https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026) says global activity faces a major test from war in the Middle East. Under the assumption that the conflict remains limited in duration and scope, it projects global growth at 3.1 percent in 2026 and 3.2 percent in 2027, with global headline inflation rising modestly in 2026 before resuming decline in 2027.
+The economics editor's first task is to read the major forecasts as ledgers of assumptions.
 
-The [OECD's June 2026 Economic Outlook](https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6.html) gives an even sharper picture of the adjustment: global GDP growth is projected to slow from 3.4 percent in 2025 to 2.8 percent in 2026, before picking up to 3.1 percent in 2027. The OECD's own framing emphasizes energy prices, supply shortages, tighter financial conditions, and weaker confidence as channels through which conflict can weigh on activity and intensify inflation.
+The IMF's outlook is built around a limited-conflict assumption. If the conflict remains contained, the forecast path is one thing; if energy disruption spreads, the path changes. The OECD's June outlook is similarly scenario-bound: slower growth, energy and supply risks, weaker confidence, and tighter financial conditions are not decorative caveats but transmission channels. The World Bank adds a developmental warning. Aggregate resilience can hide a weaker capacity to create jobs, reduce poverty, and sustain investment in vulnerable emerging and developing economies.
 
-The [World Bank's January 2026 Global Economic Prospects](https://openknowledge.worldbank.org/entities/publication/bb904ec6-730f-4dd9-b1af-ad3153ee1616) described a different but related problem: a global economy resilient to trade tensions and policy uncertainty, but with growth expected to edge down in 2026 and vulnerable emerging market and developing economies lagging behind. Its broader warning is developmental rather than cyclical: the world economy may keep expanding while becoming less able to generate jobs, reduce poverty, and support investment in weaker economies.
+These institutional forecasts should not be flattened into one number. They are different documents with different dates, baselines, and purposes. Their shared message is still clear: the global economy is not operating with the easy margins that made earlier shocks easier to absorb.
 
-These are not identical forecasts. They use different assumptions, dates, models, and scenarios. Their common message is more important than their differences: the global economy is growing, but the margin of safety has thinned.
+The forecast ledger has six columns: conflict, energy, inflation, trade, fiscal space, and technology investment. The problem is that each column is now linked to the others. Conflict can move energy prices. Energy can move inflation expectations. Inflation can move central-bank policy. Higher rates can move debt-service burdens. Trade rerouting can support resilience while raising costs. AI and semiconductor investment can support demand while increasing energy use and regional divergence.
 
-## An Economy That Grows Under Conditions
+## The Data Desk's Discipline
 
-What kind of economy grows while becoming more fragile?
+The data researcher's job is to stop unlike evidence from becoming a single mood.
 
-The answer is an economy in which shocks are no longer rare interruptions. They have become part of the operating environment. Energy shocks, trade restrictions, geopolitical conflict, climate events, debt stress, demographic pressure, and technology-driven reallocation do not arrive in neat sequence. They overlap.
+A forecast is not an observation. A global projection is not a country case. A headline growth number is not household welfare. Inflation decline is not price relief if the level remains painful. Trade rerouting is not free resilience. AI investment is not economy-wide productivity. Energy demand is not only an energy-sector issue when it shapes inflation, industry, fiscal subsidies, and household politics.
 
-This matters because macroeconomic policy works best when problems can be separated. Inflation can be treated as excess demand. Recession can be treated as deficient demand. Financial instability can be treated as a liquidity or solvency problem. But 2026's pressures are mixed. Energy shocks push prices up while weakening growth. Trade fragmentation may protect some sectors while raising costs. AI investment may support output while increasing energy demand and regional inequality. Defense and climate adaptation require public spending when fiscal space is already constrained.
+This discipline matters because weak denominators produce bad macro writing. If the article treats IMF, OECD, World Bank, IEA, and central-bank material as one interchangeable forecast family, it will overclaim. If it treats global growth as one lived experience, it will erase the difference between the United States, Europe, China, India, Korea, commodity importers, commodity exporters, and vulnerable developing economies. If it treats technology investment as a generic growth engine, it will miss who owns the capital, who pays for the energy, and who faces the labour-market adjustment.
 
-The policy problem is therefore not simply choosing between growth and inflation. It is governing a world in which the old tradeoffs have become stacked.
+The safer claim is narrower and stronger: 2026 is a year in which resilience exists, but the assumptions supporting it are more visible and more politically costly.
 
-## Fragility Is Not Crisis
+## Energy Is A Macro Variable
 
-Fragility is not the same as crisis.
+Energy is not a side chapter in the 2026 macro story. It is one of the ways fragility moves from a forecast into daily life.
 
-A crisis is visible. It produces sudden institutional failure, market seizure, or political emergency. Fragility is quieter. It is a reduction in the system's tolerance for error. A fragile economy can still grow, but it depends on benign assumptions. It can still attract investment, but only if financing conditions remain manageable. It can still control inflation, but only if energy and commodity shocks do not become expectations. It can still trade, but only if rerouting remains cheaper than rupture.
+Energy shocks pass through transport, food, heating, industrial production, trade balances, fiscal subsidies, and central-bank reaction functions. Even when the direct price shock fades, the political memory remains. Households that have already absorbed inflation are less tolerant of new energy volatility. Governments that used subsidies or fiscal support once may have less room to do it again. Firms that reorganized supply chains may find that resilience has a permanent cost.
 
-This distinction matters because crisis language encourages drama, while fragility requires maintenance. It asks less spectacular questions: Are fiscal buffers adequate? Are energy systems flexible? Are supply chains diversified without becoming wasteful? Are central banks credible? Are households exhausted? Are developing economies being asked to absorb a world of higher rates, weaker demand, and climate risk with too little room to maneuver?
+The [IEA's Global Energy Review 2026](https://www.iea.org/reports/global-energy-review-2026) belongs in the source base because macro resilience now depends on the physical economy: fuels, electricity, grids, emissions, and the geography of demand. The point is not that energy alone determines the outlook. The point is that a macro story without energy is now under-specified.
 
-## Forecasts As Conditional Maps
+## Technology Investment Cuts Both Ways
 
-The strongest evidence for fragility is the conditional language of the major outlooks.
+Technology investment, especially around AI and compute infrastructure, is one reason the outlook is not simply bleak. It supports capital expenditure, equity-market optimism, semiconductor demand, cloud infrastructure, and expectations of future productivity. For some countries and firms, it is a real source of growth.
 
-The IMF forecast is explicitly conditional on a limited conflict. That is not a footnote. It is the architecture of the forecast. If the conflict broadens or energy disruption deepens, the outlook changes.
+But the same investment can deepen macro fragility if it concentrates gains while spreading costs. AI-related infrastructure can demand electricity, land, water, chips, specialized labour, and public permitting before broad productivity gains are measurable. It can strengthen firms and regions already positioned inside the technology stack while leaving others with higher input costs and weaker bargaining power.
 
-The OECD's June outlook similarly works through scenarios. Its time-limited disruption scenario is not a declaration that disruption will be harmless. It is a description of a path in which damage is contained. The more severe question is what happens if disruption persists and inflation pressures become harder to manage.
-
-The World Bank's January report adds a longer horizon. Even before the full force of the latest energy and conflict shock was reflected in later forecasts, it described a global economy that had proved resilient in aggregate while leaving many vulnerable economies behind. That matters because uneven and slower trend growth makes every shock more political. When growth is strong, adjustment can be hidden inside expansion. When growth is weak or uneven, every reallocation becomes a fight over shares.
-
-Energy is the most direct transmission channel. Higher oil, gas, or shipping costs do not remain in commodity markets. They pass into household bills, transport, food, industrial costs, fiscal subsidies, and central-bank decisions. The [IEA's 2026 energy work](https://www.iea.org/reports/global-energy-review-2026) should be used in the next evidence pass to specify the electricity, fuel, and emissions picture more precisely; for this draft, the point is narrower: energy is again a macro variable, not a sectoral afterthought.
-
-Technology investment complicates the story. AI-related investment may support growth and explain why some advanced and export-oriented economies continue to show strength. But if that investment is concentrated in firms, regions, and supply chains with privileged access to capital, chips, and electricity, it can coexist with broader social and regional weakness.
-
-## Four Readings Of Resilience
-
-The first interpretation is the resilience view. The world economy has repeatedly absorbed shocks. Firms have adapted. Consumers have adjusted. Central banks have learned from the inflation surge. Technology investment is adding a new source of demand. The right response is not pessimism but institutional confidence.
-
-The second interpretation is the late-cycle view. Resilience is being mistaken for health. High interest rates, debt burdens, energy shocks, trade barriers, and exhausted households are accumulating. The apparent stability of headline growth conceals growing vulnerability beneath the surface.
-
-The third interpretation is the fragmentation view. The old global economy is not simply slowing; it is being reorganized into blocs, strategic supply chains, and security-driven investment. Growth numbers understate the institutional shift from efficiency to resilience.
-
-The fourth interpretation is the capacity view. The issue is not one macro variable but the ability of states, firms, and households to manage simultaneous adjustment. The world can grow and still become more difficult to govern.
+The right question is therefore not whether technology investment is good or bad. It is whether it increases policy capacity. Does it leave behind productivity that reaches wages, public services, and smaller firms? Does it improve infrastructure rather than merely reserve it? Does it broaden competition or harden dependency? Does it create fiscal capacity, or only market capitalization?
 
 ## The Adaptation Case
 
-The strongest objection is that "fragility" may be a polite name for pessimism.
+The strongest opposing view is that fragility is just pessimism in technical language. The world economy has repeatedly adapted. Supply chains did not permanently break. Inflation declined from its worst levels in many countries. Labour markets proved more flexible than expected. Firms absorbed tariff and policy uncertainty. Technology investment continues. A writer who keeps emphasizing fragility may be discounting the very adaptability that markets and institutions have demonstrated.
 
-On this view, the global economy has proved the pessimists wrong repeatedly. Supply chains did not permanently break after the pandemic. Inflation fell from its worst levels in many countries. Labor markets adapted. Firms absorbed tariff and policy uncertainty. Technology investment continues. Even if growth is slower than ideal, the language of fragility may underplay the actual capacity of markets and institutions to adapt.
+This objection is necessary. It prevents macro analysis from becoming a habit of elegant gloom. The world has adapted, and adaptation is real evidence.
 
-This objection is important because it guards against a common editorial vice: mistaking unease for analysis. A serious quarterly review should not turn every risk into a crisis.
+But adaptation is not free. Higher inventories, duplicate suppliers, industrial policy, defence spending, energy subsidies, climate adaptation, and emergency fiscal support all consume capacity. A system can be resilient because it keeps functioning and fragile because more of its resources are spent simply keeping functioning possible.
 
-But the objection fails if it treats resilience as costless. Adaptation consumes resources. Higher inventories, duplicated supply chains, defense spending, energy subsidies, industrial policy, and climate adaptation all have opportunity costs. A world can be resilient in the sense that it does not collapse, while fragile in the sense that more of its political and fiscal capacity is spent merely keeping the system tolerable.
+## Policy Capacity Is The Real Margin
 
-## From Easy Resilience To Managed Fragility
+The old macro question asks whether growth will continue. The sharper 2026 question asks how much policy capacity remains if another assumption fails.
 
-The global economy has moved from easy resilience to managed fragility.
+What happens if conflict lasts longer than the central scenario? What happens if energy prices rise while inflation expectations are only partly anchored? What happens if trade rerouting protects strategic sectors but raises household costs? What happens if fiscal politics cannot fund defence, climate adaptation, aging, health care, industrial policy, and education at once? What happens if technology investment supports markets before it supports wages?
 
-Easy resilience is what the world seemed to enjoy when shocks could be absorbed by private adaptation, household buffers, fiscal support, and central-bank credibility. Managed fragility is different. It is a world in which every source of stability has become conditional.
+These are capacity questions. They require governments to distinguish urgent spending from permanent commitments, energy security from energy subsidy, industrial strategy from corporate rescue, and productivity investment from speculative buildout. They also require public communication that does not sell forecasts as promises.
 
-Growth is conditional on conflict remaining limited. Inflation control is conditional on energy prices not becoming wage and price expectations. Trade stability is conditional on rerouting remaining possible. Fiscal policy is conditional on debt service and political consent. Technology optimism is conditional on productivity gains arriving before investment excess, labor disruption, and energy constraints produce backlash.
+Positive GDP growth does not settle these questions. It only tells us that the argument is being conducted inside motion rather than collapse.
 
-The distinction matters politically. If leaders tell citizens that the economy is healthy because GDP remains positive, they will miss the lived experience of fragility: expensive housing, insecure work, costly energy, weak public services, and a sense that institutions are always reacting late. If leaders tell citizens that collapse is imminent, they will create fatalism and poor policy. The task is to describe a middle condition: not collapse, not comfort, but narrowing room.
-
-That middle condition is especially hard for democracies. Democracies need time to deliberate and legitimacy to impose tradeoffs. Fragile macro conditions compress both. Central banks must choose between inflation credibility and growth support. Governments must fund defense, climate adaptation, health care, pensions, industrial policy, and education with finite fiscal room. Voters are asked to accept long-term investments while experiencing short-term pressure.
-
-This is why macro fragility belongs in the same issue as AI, democracy, displacement, and Korea's institutional moment. It is the economic background against which every other institutional question becomes more difficult.
-
-## What Policymakers Should Stop Hiding
-
-First, policymakers should stop speaking as if growth alone resolves legitimacy. Positive GDP growth does not answer distributional stress, regional decline, or household insecurity.
-
-Second, energy policy should be treated as macro policy. Energy shocks shape inflation, real wages, trade balances, industrial competitiveness, and fiscal politics.
-
-Third, fiscal policy needs triage rather than slogans. Defense, climate adaptation, aging, industrial policy, and welfare cannot all be treated as emergency exceptions to ordinary budget constraint.
-
-Fourth, technology investment should be evaluated not only by private return but by its effects on infrastructure, labor adjustment, concentration, and energy systems.
-
-Fifth, public communication should distinguish forecasts from promises. The major outlooks are scenarios with assumptions. They should be read as maps of conditional risk, not as prophecies.
-
-## What Forecasts Can Bear
+## What The Evidence Can Bear
 
 Overall evidence level: moderate.
 
 High-confidence claims:
 
 - Major institutions project continued but slower or subdued global growth in 2026.
-- Energy and conflict risks are central to current macro outlooks.
-- Forecasts depend heavily on assumptions about conflict duration, energy prices, inflation, and financial conditions.
+- Conflict and energy risks are central to current macro outlooks.
+- Current forecasts rely heavily on assumptions about conflict duration, energy prices, inflation, and financial conditions.
 
 Moderate-confidence claims:
 
-- The global economy is operating with narrower policy margins.
-- Technology investment may support growth while also increasing divergence.
-- Energy should be treated as a macroeconomic variable in 2026.
+- The global economy is operating with narrower policy margins than the headline growth numbers suggest.
+- Technology investment may support aggregate growth while increasing regional, firm-level, and infrastructure divergence.
+- Energy should be treated as a macroeconomic variable, not a sectoral afterthought.
 
-Contested or incomplete claims:
+Claims that remain incomplete:
 
-- The exact scale of AI-related support to global growth.
-- Whether trade fragmentation will permanently lower growth.
-- Whether inflation expectations will remain anchored if energy disruption persists.
-- The distribution of macro stress between advanced economies and emerging markets.
-
-## Forecasts Are Not Observations
-
-This draft relies on institutional forecasts. Forecasts are useful because they make assumptions explicit, but they are not direct observations. Final review should compare IMF, OECD, World Bank, and central-bank assumptions before the article makes any stronger claim about the magnitude of global slowdown.
-
-The draft should also avoid collapsing different regions into one global mood. Europe, the United States, China, India, Korea, and developing economies face different combinations of energy exposure, fiscal space, trade structure, and technology investment.
+- The precise contribution of AI-related investment to global growth.
+- The durability of trade fragmentation and its long-run growth cost.
+- The regional distribution of macro stress between advanced economies, Korea, China, India, commodity exporters, and vulnerable developing economies.
+- Whether inflation expectations remain anchored if energy disruption persists.
 
 ## Sources For Conditional Resilience
 
@@ -185,7 +148,3 @@ The draft should also avoid collapsing different regions into one global mood. E
 - [OECD, *Economic Outlook, Volume 2026 Issue 1*, June 2026](https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6.html)
 - [World Bank, *Global Economic Prospects*, January 2026](https://openknowledge.worldbank.org/entities/publication/bb904ec6-730f-4dd9-b1af-ad3153ee1616)
 - [International Energy Agency, *Global Energy Review 2026*](https://www.iea.org/reports/global-energy-review-2026)
-
-## How To Read The Forecasts
-
-This draft uses institutional forecasts as evidence of structured expectations, not as direct proof of future outcomes. Final fact-check should verify all forecast figures against the full reports and record scenario assumptions in the evidence log.
